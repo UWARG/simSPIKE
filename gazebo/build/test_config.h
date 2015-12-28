@@ -1,0 +1,6 @@
+#define TEST_INTEGRATION_PATH "/home/mehatfie/GitHub/simSPIKE/gazebo/test/integration"
+#define TEST_REGRESSION_PATH "/home/mehatfie/GitHub/simSPIKE/gazebo/test/regression"
+#define TEST_UNIT_PATH "/home/mehatfie/GitHub/simSPIKE/gazebo/test/unit"
+#define TEST_PATH "/home/mehatfie/GitHub/simSPIKE/gazebo/test"
+#define PROJECT_SOURCE_PATH "/home/mehatfie/GitHub/simSPIKE/gazebo"
+#define PROJECT_BINARY_PATH "/home/mehatfie/GitHub/simSPIKE/gazebo/build"

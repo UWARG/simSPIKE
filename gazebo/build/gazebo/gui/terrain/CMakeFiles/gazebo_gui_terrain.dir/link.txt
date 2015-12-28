@@ -1,0 +1,2 @@
+/usr/bin/ar cr libgazebo_gui_terrain.a  CMakeFiles/gazebo_gui_terrain.dir/TerrainEditor.cc.o CMakeFiles/gazebo_gui_terrain.dir/TerrainEditorPalette.cc.o CMakeFiles/gazebo_gui_terrain.dir/moc_TerrainEditor.cxx.o CMakeFiles/gazebo_gui_terrain.dir/moc_TerrainEditorPalette.cxx.o CMakeFiles/gazebo_gui_terrain.dir/qrc_resources.cxx.o
+/usr/bin/ranlib libgazebo_gui_terrain.a

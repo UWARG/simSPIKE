@@ -1,0 +1,10 @@
+prefix=/usr/local
+libdir=${prefix}/lib/x86_64-linux-gnu
+includedir=${prefix}/include
+
+Name: gazebo
+Description: Gazebo Libraries
+Version: 4.0.1
+Requires.private: sdformat protobuf
+Libs: -Wl,-rpath,${prefix}/lib/x86_64-linux-gnu/gazebo-4.0/plugins -L${libdir} -L${prefix}/lib/x86_64-linux-gnu/gazebo-4.0/plugins -lgazebo_transport -lgazebo_physics -lgazebo_sensors -lgazebo_rendering -lgazebo_gui -lgazebo_msgs -lgazebo_math -lgazebo_common -lgazebo -L/usr/lib/x86_64-linux-gnu -lboost_thread -lboost_signals -lboost_system -lboost_filesystem -lboost_program_options -lboost_regex -lboost_iostreams -lboost_date_time -lpthread 
+CFlags: -I${includedir}/gazebo-4.0 -I/usr/include

@@ -1,0 +1,10 @@
+prefix=/usr/local
+libdir=${prefix}/lib/x86_64-linux-gnu
+includedir=${prefix}/include
+
+Name: gazebo_transport
+Description: Gazebo Transport Library
+Version: 4.0.1
+Requires:
+Libs: -L${libdir} -lgazebo_transport -lgazebo_msgs 
+CFlags: -I${includedir}/gazebo-4.0

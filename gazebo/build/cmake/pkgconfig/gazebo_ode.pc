@@ -1,0 +1,10 @@
+prefix=/usr/local
+libdir=${prefix}/lib/x86_64-linux-gnu
+includedir=${prefix}/include
+
+Name: gazebo
+Description: Gazebo Exported ODE Libraries
+Version: 4.0.1
+Requires:
+Libs: -Wl,-rpath,${prefix}/lib/x86_64-linux-gnu -L${prefix}/lib/x86_64-linux-gnu -lgazebo_ode
+CFlags: -I${includedir}/gazebo-4.0
