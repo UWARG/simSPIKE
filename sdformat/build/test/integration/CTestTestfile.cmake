@@ -1,0 +1,36 @@
+# CMake generated Testfile for 
+# Source directory: /home/mehatfie/GitHub/simSPIKE/sdformat/test/integration
+# Build directory: /home/mehatfie/GitHub/simSPIKE/sdformat/build/test/integration
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+ADD_TEST(INTEGRATION_audio "/home/mehatfie/GitHub/simSPIKE/sdformat/build/test/integration/INTEGRATION_audio" "--gtest_output=xml:/home/mehatfie/GitHub/simSPIKE/sdformat/build/test_results/INTEGRATION_audio.xml")
+SET_TESTS_PROPERTIES(INTEGRATION_audio PROPERTIES  TIMEOUT "240")
+ADD_TEST(check_INTEGRATION_audio "/home/mehatfie/GitHub/simSPIKE/sdformat/tools/check_test_ran.py" "/home/mehatfie/GitHub/simSPIKE/sdformat/build/test_results/INTEGRATION_audio.xml")
+ADD_TEST(INTEGRATION_cfm_damping_implicit_spring_damper "/home/mehatfie/GitHub/simSPIKE/sdformat/build/test/integration/INTEGRATION_cfm_damping_implicit_spring_damper" "--gtest_output=xml:/home/mehatfie/GitHub/simSPIKE/sdformat/build/test_results/INTEGRATION_cfm_damping_implicit_spring_damper.xml")
+SET_TESTS_PROPERTIES(INTEGRATION_cfm_damping_implicit_spring_damper PROPERTIES  TIMEOUT "240")
+ADD_TEST(check_INTEGRATION_cfm_damping_implicit_spring_damper "/home/mehatfie/GitHub/simSPIKE/sdformat/tools/check_test_ran.py" "/home/mehatfie/GitHub/simSPIKE/sdformat/build/test_results/INTEGRATION_cfm_damping_implicit_spring_damper.xml")
+ADD_TEST(INTEGRATION_disable_fixed_joint_reduction "/home/mehatfie/GitHub/simSPIKE/sdformat/build/test/integration/INTEGRATION_disable_fixed_joint_reduction" "--gtest_output=xml:/home/mehatfie/GitHub/simSPIKE/sdformat/build/test_results/INTEGRATION_disable_fixed_joint_reduction.xml")
+SET_TESTS_PROPERTIES(INTEGRATION_disable_fixed_joint_reduction PROPERTIES  TIMEOUT "240")
+ADD_TEST(check_INTEGRATION_disable_fixed_joint_reduction "/home/mehatfie/GitHub/simSPIKE/sdformat/tools/check_test_ran.py" "/home/mehatfie/GitHub/simSPIKE/sdformat/build/test_results/INTEGRATION_disable_fixed_joint_reduction.xml")
+ADD_TEST(INTEGRATION_fixed_joint_reduction "/home/mehatfie/GitHub/simSPIKE/sdformat/build/test/integration/INTEGRATION_fixed_joint_reduction" "--gtest_output=xml:/home/mehatfie/GitHub/simSPIKE/sdformat/build/test_results/INTEGRATION_fixed_joint_reduction.xml")
+SET_TESTS_PROPERTIES(INTEGRATION_fixed_joint_reduction PROPERTIES  TIMEOUT "240")
+ADD_TEST(check_INTEGRATION_fixed_joint_reduction "/home/mehatfie/GitHub/simSPIKE/sdformat/tools/check_test_ran.py" "/home/mehatfie/GitHub/simSPIKE/sdformat/build/test_results/INTEGRATION_fixed_joint_reduction.xml")
+ADD_TEST(INTEGRATION_force_torque_sensor "/home/mehatfie/GitHub/simSPIKE/sdformat/build/test/integration/INTEGRATION_force_torque_sensor" "--gtest_output=xml:/home/mehatfie/GitHub/simSPIKE/sdformat/build/test_results/INTEGRATION_force_torque_sensor.xml")
+SET_TESTS_PROPERTIES(INTEGRATION_force_torque_sensor PROPERTIES  TIMEOUT "240")
+ADD_TEST(check_INTEGRATION_force_torque_sensor "/home/mehatfie/GitHub/simSPIKE/sdformat/tools/check_test_ran.py" "/home/mehatfie/GitHub/simSPIKE/sdformat/build/test_results/INTEGRATION_force_torque_sensor.xml")
+ADD_TEST(INTEGRATION_joint_axis_frame "/home/mehatfie/GitHub/simSPIKE/sdformat/build/test/integration/INTEGRATION_joint_axis_frame" "--gtest_output=xml:/home/mehatfie/GitHub/simSPIKE/sdformat/build/test_results/INTEGRATION_joint_axis_frame.xml")
+SET_TESTS_PROPERTIES(INTEGRATION_joint_axis_frame PROPERTIES  TIMEOUT "240")
+ADD_TEST(check_INTEGRATION_joint_axis_frame "/home/mehatfie/GitHub/simSPIKE/sdformat/tools/check_test_ran.py" "/home/mehatfie/GitHub/simSPIKE/sdformat/build/test_results/INTEGRATION_joint_axis_frame.xml")
+ADD_TEST(INTEGRATION_plugin_attribute "/home/mehatfie/GitHub/simSPIKE/sdformat/build/test/integration/INTEGRATION_plugin_attribute" "--gtest_output=xml:/home/mehatfie/GitHub/simSPIKE/sdformat/build/test_results/INTEGRATION_plugin_attribute.xml")
+SET_TESTS_PROPERTIES(INTEGRATION_plugin_attribute PROPERTIES  TIMEOUT "240")
+ADD_TEST(check_INTEGRATION_plugin_attribute "/home/mehatfie/GitHub/simSPIKE/sdformat/tools/check_test_ran.py" "/home/mehatfie/GitHub/simSPIKE/sdformat/build/test_results/INTEGRATION_plugin_attribute.xml")
+ADD_TEST(INTEGRATION_plugin_bool "/home/mehatfie/GitHub/simSPIKE/sdformat/build/test/integration/INTEGRATION_plugin_bool" "--gtest_output=xml:/home/mehatfie/GitHub/simSPIKE/sdformat/build/test_results/INTEGRATION_plugin_bool.xml")
+SET_TESTS_PROPERTIES(INTEGRATION_plugin_bool PROPERTIES  TIMEOUT "240")
+ADD_TEST(check_INTEGRATION_plugin_bool "/home/mehatfie/GitHub/simSPIKE/sdformat/tools/check_test_ran.py" "/home/mehatfie/GitHub/simSPIKE/sdformat/build/test_results/INTEGRATION_plugin_bool.xml")
+ADD_TEST(INTEGRATION_provide_feedback "/home/mehatfie/GitHub/simSPIKE/sdformat/build/test/integration/INTEGRATION_provide_feedback" "--gtest_output=xml:/home/mehatfie/GitHub/simSPIKE/sdformat/build/test_results/INTEGRATION_provide_feedback.xml")
+SET_TESTS_PROPERTIES(INTEGRATION_provide_feedback PROPERTIES  TIMEOUT "240")
+ADD_TEST(check_INTEGRATION_provide_feedback "/home/mehatfie/GitHub/simSPIKE/sdformat/tools/check_test_ran.py" "/home/mehatfie/GitHub/simSPIKE/sdformat/build/test_results/INTEGRATION_provide_feedback.xml")
+ADD_TEST(INTEGRATION_urdf_joint_parameters "/home/mehatfie/GitHub/simSPIKE/sdformat/build/test/integration/INTEGRATION_urdf_joint_parameters" "--gtest_output=xml:/home/mehatfie/GitHub/simSPIKE/sdformat/build/test_results/INTEGRATION_urdf_joint_parameters.xml")
+SET_TESTS_PROPERTIES(INTEGRATION_urdf_joint_parameters PROPERTIES  TIMEOUT "240")
+ADD_TEST(check_INTEGRATION_urdf_joint_parameters "/home/mehatfie/GitHub/simSPIKE/sdformat/tools/check_test_ran.py" "/home/mehatfie/GitHub/simSPIKE/sdformat/build/test_results/INTEGRATION_urdf_joint_parameters.xml")
