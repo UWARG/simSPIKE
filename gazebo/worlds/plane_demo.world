@@ -33,6 +33,12 @@
     </include>
 -->
 
+    <spherical_coordinates>
+      <latitude_deg>43.530824</latitude_deg>
+      <longitude_deg>-80.577673</longitude_deg>
+      <heading_deg>0</heading_deg>
+    </spherical_coordinates>
+
     <model name="ground_plane">
       <static>true</static>
       <link name="link">
@@ -146,6 +152,22 @@
           <always_on>1</always_on>
           <update_rate>30</update_rate>
           <visualize>true</visualize>
+        </sensor>
+        <sensor name='Vilma_IMU' type='imu'>
+          <pose>0 0.000000 0.5 0.000000 -0.000000 0.000000</pose>
+          <imu>
+            <topic>__default_topic__</topic>
+          </imu>
+          <always_on>1</always_on>
+          <update_rate>30</update_rate>
+        </sensor>
+        <sensor name='gps' type='gps'>
+          <pose>0 0.000000 0.5 0.000000 -0.000000 0.000000</pose>
+          <gps>
+            <topic>__default_topic__</topic>
+          </gps>
+          <always_on>1</always_on>
+          <update_rate>30</update_rate>
         </sensor>
       </link>
       <link name="wheel_1">
