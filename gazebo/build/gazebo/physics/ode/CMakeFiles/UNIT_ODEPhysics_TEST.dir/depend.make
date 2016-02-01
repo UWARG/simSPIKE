@@ -232,6 +232,7 @@ gazebo/physics/ode/CMakeFiles/UNIT_ODEPhysics_TEST.dir/ODEPhysics_TEST.cc.o: /us
 gazebo/physics/ode/CMakeFiles/UNIT_ODEPhysics_TEST.dir/ODEPhysics_TEST.cc.o: gazebo/gazebo_config.h
 gazebo/physics/ode/CMakeFiles/UNIT_ODEPhysics_TEST.dir/ODEPhysics_TEST.cc.o: gazebo/math/gzmath.hh
 gazebo/physics/ode/CMakeFiles/UNIT_ODEPhysics_TEST.dir/ODEPhysics_TEST.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/ode/CMakeFiles/UNIT_ODEPhysics_TEST.dir/ODEPhysics_TEST.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/ode/CMakeFiles/UNIT_ODEPhysics_TEST.dir/ODEPhysics_TEST.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/ode/CMakeFiles/UNIT_ODEPhysics_TEST.dir/ODEPhysics_TEST.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/ode/CMakeFiles/UNIT_ODEPhysics_TEST.dir/ODEPhysics_TEST.cc.o: gazebo/msgs/camera_cmd.pb.h

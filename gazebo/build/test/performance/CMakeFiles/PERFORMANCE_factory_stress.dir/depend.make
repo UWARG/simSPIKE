@@ -207,6 +207,7 @@ test/performance/CMakeFiles/PERFORMANCE_factory_stress.dir/factory_stress.cc.o: 
 test/performance/CMakeFiles/PERFORMANCE_factory_stress.dir/factory_stress.cc.o: gazebo/gazebo_config.h
 test/performance/CMakeFiles/PERFORMANCE_factory_stress.dir/factory_stress.cc.o: gazebo/math/gzmath.hh
 test/performance/CMakeFiles/PERFORMANCE_factory_stress.dir/factory_stress.cc.o: gazebo/msgs/MessageTypes.hh
+test/performance/CMakeFiles/PERFORMANCE_factory_stress.dir/factory_stress.cc.o: gazebo/msgs/aircraft.pb.h
 test/performance/CMakeFiles/PERFORMANCE_factory_stress.dir/factory_stress.cc.o: gazebo/msgs/axis.pb.h
 test/performance/CMakeFiles/PERFORMANCE_factory_stress.dir/factory_stress.cc.o: gazebo/msgs/boxgeom.pb.h
 test/performance/CMakeFiles/PERFORMANCE_factory_stress.dir/factory_stress.cc.o: gazebo/msgs/camera_cmd.pb.h

@@ -208,6 +208,7 @@ gazebo/sensors/CMakeFiles/UNIT_SonarSensor_TEST.dir/SonarSensor_TEST.cc.o: /usr/
 gazebo/sensors/CMakeFiles/UNIT_SonarSensor_TEST.dir/SonarSensor_TEST.cc.o: gazebo/gazebo_config.h
 gazebo/sensors/CMakeFiles/UNIT_SonarSensor_TEST.dir/SonarSensor_TEST.cc.o: gazebo/math/gzmath.hh
 gazebo/sensors/CMakeFiles/UNIT_SonarSensor_TEST.dir/SonarSensor_TEST.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/sensors/CMakeFiles/UNIT_SonarSensor_TEST.dir/SonarSensor_TEST.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/sensors/CMakeFiles/UNIT_SonarSensor_TEST.dir/SonarSensor_TEST.cc.o: gazebo/msgs/axis.pb.h
 gazebo/sensors/CMakeFiles/UNIT_SonarSensor_TEST.dir/SonarSensor_TEST.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/sensors/CMakeFiles/UNIT_SonarSensor_TEST.dir/SonarSensor_TEST.cc.o: gazebo/msgs/camera_cmd.pb.h

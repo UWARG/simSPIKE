@@ -99,6 +99,7 @@ tools/CMakeFiles/gz.dir/gz.cc.o
  gazebo/common/common.hh
  gazebo/gazebo_config.h
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h
@@ -303,6 +304,7 @@ tools/CMakeFiles/gz.dir/gz_log.cc.o
  gazebo/common/common.hh
  gazebo/gazebo_config.h
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h
@@ -944,6 +946,7 @@ tools/CMakeFiles/gz.dir/gz_topic.cc.o
  gazebo/gazebo_config.h
  gazebo/math/gzmath.hh
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h

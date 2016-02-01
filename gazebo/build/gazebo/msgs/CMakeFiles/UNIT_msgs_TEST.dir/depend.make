@@ -56,6 +56,7 @@ gazebo/msgs/CMakeFiles/UNIT_msgs_TEST.dir/msgs_TEST.cc.o: /usr/include/sdformat-
 gazebo/msgs/CMakeFiles/UNIT_msgs_TEST.dir/msgs_TEST.cc.o: /usr/include/sdformat-2.2/sdf/sdf_config.h
 gazebo/msgs/CMakeFiles/UNIT_msgs_TEST.dir/msgs_TEST.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/msgs/CMakeFiles/UNIT_msgs_TEST.dir/msgs_TEST.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/msgs/CMakeFiles/UNIT_msgs_TEST.dir/msgs_TEST.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/msgs/CMakeFiles/UNIT_msgs_TEST.dir/msgs_TEST.cc.o: gazebo/msgs/axis.pb.h
 gazebo/msgs/CMakeFiles/UNIT_msgs_TEST.dir/msgs_TEST.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/msgs/CMakeFiles/UNIT_msgs_TEST.dir/msgs_TEST.cc.o: gazebo/msgs/camera_cmd.pb.h

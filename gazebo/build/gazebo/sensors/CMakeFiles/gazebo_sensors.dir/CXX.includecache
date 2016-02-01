@@ -2408,16 +2408,6 @@ gazebo/sensors/SensorFactory.hh
 gazebo/sensors/MultiCameraSensor.hh
 /home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/sensors/gazebo/sensors/MultiCameraSensor.hh
 
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/sensors/Noise.cc
-gazebo/common/Assert.hh
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/sensors/gazebo/common/Assert.hh
-gazebo/common/Console.hh
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/sensors/gazebo/common/Console.hh
-gazebo/sensors/GaussianNoiseModel.hh
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/sensors/gazebo/sensors/GaussianNoiseModel.hh
-gazebo/sensors/Noise.hh
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/sensors/gazebo/sensors/Noise.hh
-
 /home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/sensors/RFIDSensor.cc
 gazebo/physics/World.hh
 /home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/sensors/gazebo/physics/World.hh
@@ -2899,6 +2889,8 @@ gazebo/math/Vector4.hh
 gazebo/math/gazebo/math/Vector4.hh
 
 gazebo/msgs/MessageTypes.hh
+aircraft.pb.h
+gazebo/msgs/aircraft.pb.h
 axis.pb.h
 gazebo/msgs/axis.pb.h
 boxgeom.pb.h
@@ -3101,6 +3093,26 @@ wrench.pb.h
 gazebo/msgs/wrench.pb.h
 wrench_stamped.pb.h
 gazebo/msgs/wrench_stamped.pb.h
+
+gazebo/msgs/aircraft.pb.h
+string
+-
+google/protobuf/stubs/common.h
+-
+google/protobuf/generated_message_util.h
+-
+google/protobuf/message.h
+-
+google/protobuf/repeated_field.h
+-
+google/protobuf/extension_set.h
+-
+google/protobuf/unknown_field_set.h
+-
+boost/shared_ptr.hpp
+-
+gazebo/msgs/MsgFactory.hh
+gazebo/msgs/gazebo/msgs/MsgFactory.hh
 
 gazebo/msgs/axis.pb.h
 string

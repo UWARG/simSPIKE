@@ -207,6 +207,7 @@ test/performance/CMakeFiles/PERFORMANCE_set_world_pose.dir/set_world_pose.cc.o: 
 test/performance/CMakeFiles/PERFORMANCE_set_world_pose.dir/set_world_pose.cc.o: gazebo/gazebo_config.h
 test/performance/CMakeFiles/PERFORMANCE_set_world_pose.dir/set_world_pose.cc.o: gazebo/math/gzmath.hh
 test/performance/CMakeFiles/PERFORMANCE_set_world_pose.dir/set_world_pose.cc.o: gazebo/msgs/MessageTypes.hh
+test/performance/CMakeFiles/PERFORMANCE_set_world_pose.dir/set_world_pose.cc.o: gazebo/msgs/aircraft.pb.h
 test/performance/CMakeFiles/PERFORMANCE_set_world_pose.dir/set_world_pose.cc.o: gazebo/msgs/axis.pb.h
 test/performance/CMakeFiles/PERFORMANCE_set_world_pose.dir/set_world_pose.cc.o: gazebo/msgs/boxgeom.pb.h
 test/performance/CMakeFiles/PERFORMANCE_set_world_pose.dir/set_world_pose.cc.o: gazebo/msgs/camera_cmd.pb.h

@@ -1,4 +1,6 @@
 FILE(REMOVE_RECURSE
+  "aircraft.pb.cc"
+  "aircraft.pb.h"
   "axis.pb.cc"
   "axis.pb.h"
   "boxgeom.pb.cc"
@@ -201,6 +203,7 @@ FILE(REMOVE_RECURSE
   "wrench.pb.h"
   "wrench_stamped.pb.cc"
   "wrench_stamped.pb.h"
+  "CMakeFiles/gazebo_msgs.dir/aircraft.pb.cc.o"
   "CMakeFiles/gazebo_msgs.dir/axis.pb.cc.o"
   "CMakeFiles/gazebo_msgs.dir/boxgeom.pb.cc.o"
   "CMakeFiles/gazebo_msgs.dir/camerasensor.pb.cc.o"

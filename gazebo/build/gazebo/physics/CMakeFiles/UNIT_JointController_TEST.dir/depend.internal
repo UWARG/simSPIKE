@@ -74,6 +74,7 @@ gazebo/physics/CMakeFiles/UNIT_JointController_TEST.dir/JointController_TEST.cc.
  /usr/include/sdformat-2.2/sdf/system_util.hh
  gazebo/gazebo_config.h
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h

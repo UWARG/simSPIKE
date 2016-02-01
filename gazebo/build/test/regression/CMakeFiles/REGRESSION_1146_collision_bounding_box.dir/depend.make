@@ -207,6 +207,7 @@ test/regression/CMakeFiles/REGRESSION_1146_collision_bounding_box.dir/1146_colli
 test/regression/CMakeFiles/REGRESSION_1146_collision_bounding_box.dir/1146_collision_bounding_box.cc.o: gazebo/gazebo_config.h
 test/regression/CMakeFiles/REGRESSION_1146_collision_bounding_box.dir/1146_collision_bounding_box.cc.o: gazebo/math/gzmath.hh
 test/regression/CMakeFiles/REGRESSION_1146_collision_bounding_box.dir/1146_collision_bounding_box.cc.o: gazebo/msgs/MessageTypes.hh
+test/regression/CMakeFiles/REGRESSION_1146_collision_bounding_box.dir/1146_collision_bounding_box.cc.o: gazebo/msgs/aircraft.pb.h
 test/regression/CMakeFiles/REGRESSION_1146_collision_bounding_box.dir/1146_collision_bounding_box.cc.o: gazebo/msgs/axis.pb.h
 test/regression/CMakeFiles/REGRESSION_1146_collision_bounding_box.dir/1146_collision_bounding_box.cc.o: gazebo/msgs/boxgeom.pb.h
 test/regression/CMakeFiles/REGRESSION_1146_collision_bounding_box.dir/1146_collision_bounding_box.cc.o: gazebo/msgs/camera_cmd.pb.h

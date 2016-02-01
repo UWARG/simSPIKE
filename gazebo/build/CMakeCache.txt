@@ -2005,7 +2005,7 @@ OGRE_CFLAGS_OTHER:INTERNAL=-pthread
 OGRE_FOUND:INTERNAL=1
 OGRE_INCLUDEDIR:INTERNAL=/usr/include
 //Ogre include path
-OGRE_INCLUDE_DIRS:INTERNAL=/usr/include/OGRE/RTShaderSystem;/usr/include/OGRE;/usr/include/OGRE/RTShaderSystem;/usr/include/OGRE;/usr/include/OGRE/RTShaderSystem;/usr/include/OGRE;/usr/include/OGRE/RTShaderSystem;/usr/include/OGRE;/usr/include/OGRE;/usr/include/OGRE/Terrain;/usr/include/OGRE;/usr/include/OGRE/Paging;/usr/include/OGRE/Terrain;/usr/include/OGRE;/usr/include/OGRE/Paging;/usr/include/OGRE/Terrain;/usr/include/OGRE;/usr/include/OGRE/Paging;/usr/include/OGRE/Terrain;/usr/include/OGRE;/usr/include/OGRE/Paging
+OGRE_INCLUDE_DIRS:INTERNAL=/usr/include/OGRE/RTShaderSystem;/usr/include/OGRE;/usr/include/OGRE/RTShaderSystem;/usr/include/OGRE;/usr/include/OGRE/RTShaderSystem;/usr/include/OGRE;/usr/include/OGRE/RTShaderSystem;/usr/include/OGRE;/usr/include/OGRE/RTShaderSystem;/usr/include/OGRE;/usr/include/OGRE/RTShaderSystem;/usr/include/OGRE;/usr/include/OGRE/RTShaderSystem;/usr/include/OGRE;/usr/include/OGRE/RTShaderSystem;/usr/include/OGRE;/usr/include/OGRE/RTShaderSystem;/usr/include/OGRE;/usr/include/OGRE;/usr/include/OGRE/Terrain;/usr/include/OGRE;/usr/include/OGRE/Paging;/usr/include/OGRE/Terrain;/usr/include/OGRE;/usr/include/OGRE/Paging;/usr/include/OGRE/Terrain;/usr/include/OGRE;/usr/include/OGRE/Paging;/usr/include/OGRE/Terrain;/usr/include/OGRE;/usr/include/OGRE/Paging;/usr/include/OGRE/Terrain;/usr/include/OGRE;/usr/include/OGRE/Paging;/usr/include/OGRE/Terrain;/usr/include/OGRE;/usr/include/OGRE/Paging;/usr/include/OGRE/Terrain;/usr/include/OGRE;/usr/include/OGRE/Paging;/usr/include/OGRE/Terrain;/usr/include/OGRE;/usr/include/OGRE/Paging;/usr/include/OGRE/Terrain;/usr/include/OGRE;/usr/include/OGRE/Paging
 OGRE_LDFLAGS:INTERNAL=-lOgreMain;-lpthread
 OGRE_LDFLAGS_OTHER:INTERNAL=
 OGRE_LIBDIR:INTERNAL=/usr/lib/x86_64-linux-gnu
@@ -2891,7 +2891,7 @@ freeimage_freeimage_VERSION:INTERNAL=
 ///usr/include
 gazeboserver_include_dirs:INTERNAL=
 ///usr/lib/x86_64-linux-gnu/libGLU.so
-gazeboserver_link_libs:INTERNAL=/usr/lib/x86_64-linux-gnu/libGL.so;/usr/lib/x86_64-linux-gnu/libSM.so;/usr/lib/x86_64-linux-gnu/libICE.so;/usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so;/usr/lib/x86_64-linux-gnu/libGL.so;/usr/lib/x86_64-linux-gnu/libSM.so;/usr/lib/x86_64-linux-gnu/libICE.so;/usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so;/usr/lib/x86_64-linux-gnu/libGL.so;/usr/lib/x86_64-linux-gnu/libSM.so;/usr/lib/x86_64-linux-gnu/libICE.so;/usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so;/usr/lib/x86_64-linux-gnu/libGL.so;/usr/lib/x86_64-linux-gnu/libSM.so;/usr/lib/x86_64-linux-gnu/libICE.so;/usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so
+gazeboserver_link_libs:INTERNAL=/usr/lib/x86_64-linux-gnu/libGL.so;/usr/lib/x86_64-linux-gnu/libSM.so;/usr/lib/x86_64-linux-gnu/libICE.so;/usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so;/usr/lib/x86_64-linux-gnu/libGL.so;/usr/lib/x86_64-linux-gnu/libSM.so;/usr/lib/x86_64-linux-gnu/libICE.so;/usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so;/usr/lib/x86_64-linux-gnu/libGL.so;/usr/lib/x86_64-linux-gnu/libSM.so;/usr/lib/x86_64-linux-gnu/libICE.so;/usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so;/usr/lib/x86_64-linux-gnu/libGL.so;/usr/lib/x86_64-linux-gnu/libSM.so;/usr/lib/x86_64-linux-gnu/libICE.so;/usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so;/usr/lib/x86_64-linux-gnu/libGL.so;/usr/lib/x86_64-linux-gnu/libSM.so;/usr/lib/x86_64-linux-gnu/libICE.so;/usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so;/usr/lib/x86_64-linux-gnu/libGL.so;/usr/lib/x86_64-linux-gnu/libSM.so;/usr/lib/x86_64-linux-gnu/libICE.so;/usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so;/usr/lib/x86_64-linux-gnu/libGL.so;/usr/lib/x86_64-linux-gnu/libSM.so;/usr/lib/x86_64-linux-gnu/libICE.so;/usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so;/usr/lib/x86_64-linux-gnu/libGL.so;/usr/lib/x86_64-linux-gnu/libSM.so;/usr/lib/x86_64-linux-gnu/libICE.so;/usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so;/usr/lib/x86_64-linux-gnu/libGL.so;/usr/lib/x86_64-linux-gnu/libSM.so;/usr/lib/x86_64-linux-gnu/libICE.so;/usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so
 gts_CFLAGS:INTERNAL=-pthread;-I/usr/include/glib-2.0;-I/usr/lib/x86_64-linux-gnu/glib-2.0/include
 gts_CFLAGS_I:INTERNAL=
 gts_CFLAGS_OTHER:INTERNAL=-pthread
@@ -3137,7 +3137,8 @@ math_headers:INTERNAL= #include "gazebo/math/Angle.hh"
  #include "gazebo/math/Vector4.hh"
 
 //Message Types
-message_headers:INTERNAL= #include "axis.pb.h"
+message_headers:INTERNAL= #include "aircraft.pb.h"
+ #include "axis.pb.h"
  #include "boxgeom.pb.h"
  #include "camerasensor.pb.h"
  #include "camera_cmd.pb.h"

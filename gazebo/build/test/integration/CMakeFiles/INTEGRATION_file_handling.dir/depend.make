@@ -226,6 +226,7 @@ test/integration/CMakeFiles/INTEGRATION_file_handling.dir/file_handling.cc.o: ga
 test/integration/CMakeFiles/INTEGRATION_file_handling.dir/file_handling.cc.o: gazebo/gazebo_config.h
 test/integration/CMakeFiles/INTEGRATION_file_handling.dir/file_handling.cc.o: gazebo/math/gzmath.hh
 test/integration/CMakeFiles/INTEGRATION_file_handling.dir/file_handling.cc.o: gazebo/msgs/MessageTypes.hh
+test/integration/CMakeFiles/INTEGRATION_file_handling.dir/file_handling.cc.o: gazebo/msgs/aircraft.pb.h
 test/integration/CMakeFiles/INTEGRATION_file_handling.dir/file_handling.cc.o: gazebo/msgs/axis.pb.h
 test/integration/CMakeFiles/INTEGRATION_file_handling.dir/file_handling.cc.o: gazebo/msgs/boxgeom.pb.h
 test/integration/CMakeFiles/INTEGRATION_file_handling.dir/file_handling.cc.o: gazebo/msgs/camera_cmd.pb.h

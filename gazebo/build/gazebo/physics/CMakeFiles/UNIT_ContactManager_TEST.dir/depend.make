@@ -207,6 +207,7 @@ gazebo/physics/CMakeFiles/UNIT_ContactManager_TEST.dir/ContactManager_TEST.cc.o:
 gazebo/physics/CMakeFiles/UNIT_ContactManager_TEST.dir/ContactManager_TEST.cc.o: gazebo/gazebo_config.h
 gazebo/physics/CMakeFiles/UNIT_ContactManager_TEST.dir/ContactManager_TEST.cc.o: gazebo/math/gzmath.hh
 gazebo/physics/CMakeFiles/UNIT_ContactManager_TEST.dir/ContactManager_TEST.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/CMakeFiles/UNIT_ContactManager_TEST.dir/ContactManager_TEST.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/CMakeFiles/UNIT_ContactManager_TEST.dir/ContactManager_TEST.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/CMakeFiles/UNIT_ContactManager_TEST.dir/ContactManager_TEST.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/CMakeFiles/UNIT_ContactManager_TEST.dir/ContactManager_TEST.cc.o: gazebo/msgs/camera_cmd.pb.h

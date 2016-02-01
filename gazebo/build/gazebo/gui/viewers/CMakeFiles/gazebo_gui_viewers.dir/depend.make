@@ -467,6 +467,7 @@ gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/ImageFrame.cc.o: /usr/inclu
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/ImageFrame.cc.o: /usr/include/sdformat-2.2/sdf/sdf_config.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/ImageFrame.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/ImageFrame.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/ImageFrame.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/ImageFrame.cc.o: gazebo/msgs/axis.pb.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/ImageFrame.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/ImageFrame.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -1058,6 +1059,7 @@ gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/ImageView.cc.o: /usr/includ
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/ImageView.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/ImageView.cc.o: gazebo/gazebo_config.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/ImageView.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/ImageView.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/ImageView.cc.o: gazebo/msgs/axis.pb.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/ImageView.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/ImageView.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -1649,6 +1651,7 @@ gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/ImagesView.cc.o: /usr/inclu
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/ImagesView.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/ImagesView.cc.o: gazebo/gazebo_config.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/ImagesView.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/ImagesView.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/ImagesView.cc.o: gazebo/msgs/axis.pb.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/ImagesView.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/ImagesView.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -2238,6 +2241,7 @@ gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/LaserView.cc.o: /usr/includ
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/LaserView.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/LaserView.cc.o: gazebo/gazebo_config.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/LaserView.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/LaserView.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/LaserView.cc.o: gazebo/msgs/axis.pb.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/LaserView.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/LaserView.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -2825,6 +2829,7 @@ gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/TextView.cc.o: /usr/include
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/TextView.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/TextView.cc.o: gazebo/gazebo_config.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/TextView.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/TextView.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/TextView.cc.o: gazebo/msgs/axis.pb.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/TextView.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/TextView.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -3417,6 +3422,7 @@ gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/TopicView.cc.o: /usr/includ
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/TopicView.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/TopicView.cc.o: gazebo/gazebo_config.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/TopicView.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/TopicView.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/TopicView.cc.o: gazebo/msgs/axis.pb.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/TopicView.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/TopicView.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -3992,6 +3998,7 @@ gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/ViewFactory.cc.o: /usr/incl
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/ViewFactory.cc.o: /usr/include/sdformat-2.2/sdf/sdf_config.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/ViewFactory.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/ViewFactory.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/ViewFactory.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/ViewFactory.cc.o: gazebo/msgs/axis.pb.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/ViewFactory.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/ViewFactory.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -4559,6 +4566,7 @@ gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_ImageFrame.cxx.o: /usr/
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_ImageFrame.cxx.o: /usr/include/sdformat-2.2/sdf/sdf_config.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_ImageFrame.cxx.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_ImageFrame.cxx.o: gazebo/msgs/MessageTypes.hh
+gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_ImageFrame.cxx.o: gazebo/msgs/aircraft.pb.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_ImageFrame.cxx.o: gazebo/msgs/axis.pb.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_ImageFrame.cxx.o: gazebo/msgs/boxgeom.pb.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_ImageFrame.cxx.o: gazebo/msgs/camera_cmd.pb.h
@@ -5129,6 +5137,7 @@ gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_ImageView.cxx.o: /usr/i
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_ImageView.cxx.o: /usr/include/sdformat-2.2/sdf/sdf_config.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_ImageView.cxx.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_ImageView.cxx.o: gazebo/msgs/MessageTypes.hh
+gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_ImageView.cxx.o: gazebo/msgs/aircraft.pb.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_ImageView.cxx.o: gazebo/msgs/axis.pb.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_ImageView.cxx.o: gazebo/msgs/boxgeom.pb.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_ImageView.cxx.o: gazebo/msgs/camera_cmd.pb.h
@@ -5699,6 +5708,7 @@ gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_ImagesView.cxx.o: /usr/
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_ImagesView.cxx.o: /usr/include/sdformat-2.2/sdf/sdf_config.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_ImagesView.cxx.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_ImagesView.cxx.o: gazebo/msgs/MessageTypes.hh
+gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_ImagesView.cxx.o: gazebo/msgs/aircraft.pb.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_ImagesView.cxx.o: gazebo/msgs/axis.pb.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_ImagesView.cxx.o: gazebo/msgs/boxgeom.pb.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_ImagesView.cxx.o: gazebo/msgs/camera_cmd.pb.h
@@ -6268,6 +6278,7 @@ gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_LaserView.cxx.o: /usr/i
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_LaserView.cxx.o: /usr/include/sdformat-2.2/sdf/sdf_config.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_LaserView.cxx.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_LaserView.cxx.o: gazebo/msgs/MessageTypes.hh
+gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_LaserView.cxx.o: gazebo/msgs/aircraft.pb.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_LaserView.cxx.o: gazebo/msgs/axis.pb.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_LaserView.cxx.o: gazebo/msgs/boxgeom.pb.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_LaserView.cxx.o: gazebo/msgs/camera_cmd.pb.h
@@ -6837,6 +6848,7 @@ gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_TextView.cxx.o: /usr/in
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_TextView.cxx.o: /usr/include/sdformat-2.2/sdf/sdf_config.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_TextView.cxx.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_TextView.cxx.o: gazebo/msgs/MessageTypes.hh
+gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_TextView.cxx.o: gazebo/msgs/aircraft.pb.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_TextView.cxx.o: gazebo/msgs/axis.pb.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_TextView.cxx.o: gazebo/msgs/boxgeom.pb.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_TextView.cxx.o: gazebo/msgs/camera_cmd.pb.h
@@ -7405,6 +7417,7 @@ gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_TopicView.cxx.o: /usr/i
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_TopicView.cxx.o: /usr/include/sdformat-2.2/sdf/sdf_config.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_TopicView.cxx.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_TopicView.cxx.o: gazebo/msgs/MessageTypes.hh
+gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_TopicView.cxx.o: gazebo/msgs/aircraft.pb.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_TopicView.cxx.o: gazebo/msgs/axis.pb.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_TopicView.cxx.o: gazebo/msgs/boxgeom.pb.h
 gazebo/gui/viewers/CMakeFiles/gazebo_gui_viewers.dir/moc_TopicView.cxx.o: gazebo/msgs/camera_cmd.pb.h

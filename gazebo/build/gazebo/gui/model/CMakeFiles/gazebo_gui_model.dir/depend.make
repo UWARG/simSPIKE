@@ -1399,6 +1399,7 @@ gazebo/gui/model/CMakeFiles/gazebo_gui_model.dir/JointMaker.cc.o: /usr/include/s
 gazebo/gui/model/CMakeFiles/gazebo_gui_model.dir/JointMaker.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/gui/model/CMakeFiles/gazebo_gui_model.dir/JointMaker.cc.o: gazebo/gazebo_config.h
 gazebo/gui/model/CMakeFiles/gazebo_gui_model.dir/JointMaker.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/gui/model/CMakeFiles/gazebo_gui_model.dir/JointMaker.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/gui/model/CMakeFiles/gazebo_gui_model.dir/JointMaker.cc.o: gazebo/msgs/axis.pb.h
 gazebo/gui/model/CMakeFiles/gazebo_gui_model.dir/JointMaker.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/gui/model/CMakeFiles/gazebo_gui_model.dir/JointMaker.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -2006,6 +2007,7 @@ gazebo/gui/model/CMakeFiles/gazebo_gui_model.dir/ModelCreator.cc.o: /usr/include
 gazebo/gui/model/CMakeFiles/gazebo_gui_model.dir/ModelCreator.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/gui/model/CMakeFiles/gazebo_gui_model.dir/ModelCreator.cc.o: gazebo/gazebo_config.h
 gazebo/gui/model/CMakeFiles/gazebo_gui_model.dir/ModelCreator.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/gui/model/CMakeFiles/gazebo_gui_model.dir/ModelCreator.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/gui/model/CMakeFiles/gazebo_gui_model.dir/ModelCreator.cc.o: gazebo/msgs/axis.pb.h
 gazebo/gui/model/CMakeFiles/gazebo_gui_model.dir/ModelCreator.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/gui/model/CMakeFiles/gazebo_gui_model.dir/ModelCreator.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -2593,6 +2595,7 @@ gazebo/gui/model/CMakeFiles/gazebo_gui_model.dir/ModelEditor.cc.o: /usr/include/
 gazebo/gui/model/CMakeFiles/gazebo_gui_model.dir/ModelEditor.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/gui/model/CMakeFiles/gazebo_gui_model.dir/ModelEditor.cc.o: gazebo/gazebo_config.h
 gazebo/gui/model/CMakeFiles/gazebo_gui_model.dir/ModelEditor.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/gui/model/CMakeFiles/gazebo_gui_model.dir/ModelEditor.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/gui/model/CMakeFiles/gazebo_gui_model.dir/ModelEditor.cc.o: gazebo/msgs/axis.pb.h
 gazebo/gui/model/CMakeFiles/gazebo_gui_model.dir/ModelEditor.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/gui/model/CMakeFiles/gazebo_gui_model.dir/ModelEditor.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -3215,6 +3218,7 @@ gazebo/gui/model/CMakeFiles/gazebo_gui_model.dir/ModelEditorPalette.cc.o: /usr/i
 gazebo/gui/model/CMakeFiles/gazebo_gui_model.dir/ModelEditorPalette.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/gui/model/CMakeFiles/gazebo_gui_model.dir/ModelEditorPalette.cc.o: gazebo/gazebo_config.h
 gazebo/gui/model/CMakeFiles/gazebo_gui_model.dir/ModelEditorPalette.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/gui/model/CMakeFiles/gazebo_gui_model.dir/ModelEditorPalette.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/gui/model/CMakeFiles/gazebo_gui_model.dir/ModelEditorPalette.cc.o: gazebo/msgs/axis.pb.h
 gazebo/gui/model/CMakeFiles/gazebo_gui_model.dir/ModelEditorPalette.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/gui/model/CMakeFiles/gazebo_gui_model.dir/ModelEditorPalette.cc.o: gazebo/msgs/camera_cmd.pb.h

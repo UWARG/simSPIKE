@@ -61,6 +61,7 @@ gazebo/util/CMakeFiles/UNIT_Diagnostics_TEST.dir/Diagnostics_TEST.cc.o: /usr/inc
 gazebo/util/CMakeFiles/UNIT_Diagnostics_TEST.dir/Diagnostics_TEST.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/util/CMakeFiles/UNIT_Diagnostics_TEST.dir/Diagnostics_TEST.cc.o: gazebo/gazebo_config.h
 gazebo/util/CMakeFiles/UNIT_Diagnostics_TEST.dir/Diagnostics_TEST.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/util/CMakeFiles/UNIT_Diagnostics_TEST.dir/Diagnostics_TEST.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/util/CMakeFiles/UNIT_Diagnostics_TEST.dir/Diagnostics_TEST.cc.o: gazebo/msgs/axis.pb.h
 gazebo/util/CMakeFiles/UNIT_Diagnostics_TEST.dir/Diagnostics_TEST.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/util/CMakeFiles/UNIT_Diagnostics_TEST.dir/Diagnostics_TEST.cc.o: gazebo/msgs/camera_cmd.pb.h

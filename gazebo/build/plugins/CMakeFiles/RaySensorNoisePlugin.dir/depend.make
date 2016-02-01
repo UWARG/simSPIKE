@@ -104,6 +104,7 @@ plugins/CMakeFiles/RaySensorNoisePlugin.dir/RaySensorNoisePlugin.cc.o: gazebo/co
 plugins/CMakeFiles/RaySensorNoisePlugin.dir/RaySensorNoisePlugin.cc.o: gazebo/gazebo_config.h
 plugins/CMakeFiles/RaySensorNoisePlugin.dir/RaySensorNoisePlugin.cc.o: gazebo/math/gzmath.hh
 plugins/CMakeFiles/RaySensorNoisePlugin.dir/RaySensorNoisePlugin.cc.o: gazebo/msgs/MessageTypes.hh
+plugins/CMakeFiles/RaySensorNoisePlugin.dir/RaySensorNoisePlugin.cc.o: gazebo/msgs/aircraft.pb.h
 plugins/CMakeFiles/RaySensorNoisePlugin.dir/RaySensorNoisePlugin.cc.o: gazebo/msgs/axis.pb.h
 plugins/CMakeFiles/RaySensorNoisePlugin.dir/RaySensorNoisePlugin.cc.o: gazebo/msgs/boxgeom.pb.h
 plugins/CMakeFiles/RaySensorNoisePlugin.dir/RaySensorNoisePlugin.cc.o: gazebo/msgs/camera_cmd.pb.h

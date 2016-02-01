@@ -103,6 +103,7 @@
 /usr/local/lib/x86_64-linux-gnu/libgazebo_msgs.so.4.0.1
 /usr/local/lib/x86_64-linux-gnu/libgazebo_msgs.so.4
 /usr/local/lib/x86_64-linux-gnu/libgazebo_msgs.so
+/usr/local/include/gazebo-4.0/gazebo/msgs/aircraft.pb.h
 /usr/local/include/gazebo-4.0/gazebo/msgs/axis.pb.h
 /usr/local/include/gazebo-4.0/gazebo/msgs/boxgeom.pb.h
 /usr/local/include/gazebo-4.0/gazebo/msgs/camerasensor.pb.h
@@ -207,6 +208,7 @@
 /usr/local/include/gazebo-4.0/gazebo/msgs/msgs.hh
 /usr/local/include/gazebo-4.0/gazebo/msgs/MsgFactory.hh
 /usr/local/include/gazebo-4.0/gazebo/msgs/MessageTypes.hh
+/usr/local/include/gazebo-4.0/gazebo/msgs/proto/aircraft.proto
 /usr/local/include/gazebo-4.0/gazebo/msgs/proto/axis.proto
 /usr/local/include/gazebo-4.0/gazebo/msgs/proto/boxgeom.proto
 /usr/local/include/gazebo-4.0/gazebo/msgs/proto/camerasensor.proto

@@ -208,6 +208,7 @@ test/integration/CMakeFiles/INTEGRATION_joint_set_position_test.dir/joint_set_po
 test/integration/CMakeFiles/INTEGRATION_joint_set_position_test.dir/joint_set_position_test.cc.o: gazebo/gazebo_config.h
 test/integration/CMakeFiles/INTEGRATION_joint_set_position_test.dir/joint_set_position_test.cc.o: gazebo/math/gzmath.hh
 test/integration/CMakeFiles/INTEGRATION_joint_set_position_test.dir/joint_set_position_test.cc.o: gazebo/msgs/MessageTypes.hh
+test/integration/CMakeFiles/INTEGRATION_joint_set_position_test.dir/joint_set_position_test.cc.o: gazebo/msgs/aircraft.pb.h
 test/integration/CMakeFiles/INTEGRATION_joint_set_position_test.dir/joint_set_position_test.cc.o: gazebo/msgs/axis.pb.h
 test/integration/CMakeFiles/INTEGRATION_joint_set_position_test.dir/joint_set_position_test.cc.o: gazebo/msgs/boxgeom.pb.h
 test/integration/CMakeFiles/INTEGRATION_joint_set_position_test.dir/joint_set_position_test.cc.o: gazebo/msgs/camera_cmd.pb.h

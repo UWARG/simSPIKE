@@ -623,6 +623,7 @@ gazebo/gui/viewers/CMakeFiles/UNIT_ImagesView_TEST.dir/ImagesView_TEST.cc.o: /us
 gazebo/gui/viewers/CMakeFiles/UNIT_ImagesView_TEST.dir/ImagesView_TEST.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/gui/viewers/CMakeFiles/UNIT_ImagesView_TEST.dir/ImagesView_TEST.cc.o: gazebo/gazebo_config.h
 gazebo/gui/viewers/CMakeFiles/UNIT_ImagesView_TEST.dir/ImagesView_TEST.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/gui/viewers/CMakeFiles/UNIT_ImagesView_TEST.dir/ImagesView_TEST.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/gui/viewers/CMakeFiles/UNIT_ImagesView_TEST.dir/ImagesView_TEST.cc.o: gazebo/msgs/axis.pb.h
 gazebo/gui/viewers/CMakeFiles/UNIT_ImagesView_TEST.dir/ImagesView_TEST.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/gui/viewers/CMakeFiles/UNIT_ImagesView_TEST.dir/ImagesView_TEST.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -1378,6 +1379,7 @@ gazebo/gui/viewers/CMakeFiles/UNIT_ImagesView_TEST.dir/__/QTestFixture.cc.o: gaz
 gazebo/gui/viewers/CMakeFiles/UNIT_ImagesView_TEST.dir/__/QTestFixture.cc.o: gazebo/gazebo_config.h
 gazebo/gui/viewers/CMakeFiles/UNIT_ImagesView_TEST.dir/__/QTestFixture.cc.o: gazebo/math/gzmath.hh
 gazebo/gui/viewers/CMakeFiles/UNIT_ImagesView_TEST.dir/__/QTestFixture.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/gui/viewers/CMakeFiles/UNIT_ImagesView_TEST.dir/__/QTestFixture.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/gui/viewers/CMakeFiles/UNIT_ImagesView_TEST.dir/__/QTestFixture.cc.o: gazebo/msgs/axis.pb.h
 gazebo/gui/viewers/CMakeFiles/UNIT_ImagesView_TEST.dir/__/QTestFixture.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/gui/viewers/CMakeFiles/UNIT_ImagesView_TEST.dir/__/QTestFixture.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -2101,6 +2103,7 @@ gazebo/gui/viewers/CMakeFiles/UNIT_ImagesView_TEST.dir/__/moc_QTestFixture.cxx.o
 gazebo/gui/viewers/CMakeFiles/UNIT_ImagesView_TEST.dir/__/moc_QTestFixture.cxx.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/gui/viewers/CMakeFiles/UNIT_ImagesView_TEST.dir/__/moc_QTestFixture.cxx.o: gazebo/gazebo_config.h
 gazebo/gui/viewers/CMakeFiles/UNIT_ImagesView_TEST.dir/__/moc_QTestFixture.cxx.o: gazebo/msgs/MessageTypes.hh
+gazebo/gui/viewers/CMakeFiles/UNIT_ImagesView_TEST.dir/__/moc_QTestFixture.cxx.o: gazebo/msgs/aircraft.pb.h
 gazebo/gui/viewers/CMakeFiles/UNIT_ImagesView_TEST.dir/__/moc_QTestFixture.cxx.o: gazebo/msgs/axis.pb.h
 gazebo/gui/viewers/CMakeFiles/UNIT_ImagesView_TEST.dir/__/moc_QTestFixture.cxx.o: gazebo/msgs/boxgeom.pb.h
 gazebo/gui/viewers/CMakeFiles/UNIT_ImagesView_TEST.dir/__/moc_QTestFixture.cxx.o: gazebo/msgs/camera_cmd.pb.h
@@ -2828,6 +2831,7 @@ gazebo/gui/viewers/CMakeFiles/UNIT_ImagesView_TEST.dir/moc_ImagesView_TEST.cxx.o
 gazebo/gui/viewers/CMakeFiles/UNIT_ImagesView_TEST.dir/moc_ImagesView_TEST.cxx.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/gui/viewers/CMakeFiles/UNIT_ImagesView_TEST.dir/moc_ImagesView_TEST.cxx.o: gazebo/gazebo_config.h
 gazebo/gui/viewers/CMakeFiles/UNIT_ImagesView_TEST.dir/moc_ImagesView_TEST.cxx.o: gazebo/msgs/MessageTypes.hh
+gazebo/gui/viewers/CMakeFiles/UNIT_ImagesView_TEST.dir/moc_ImagesView_TEST.cxx.o: gazebo/msgs/aircraft.pb.h
 gazebo/gui/viewers/CMakeFiles/UNIT_ImagesView_TEST.dir/moc_ImagesView_TEST.cxx.o: gazebo/msgs/axis.pb.h
 gazebo/gui/viewers/CMakeFiles/UNIT_ImagesView_TEST.dir/moc_ImagesView_TEST.cxx.o: gazebo/msgs/boxgeom.pb.h
 gazebo/gui/viewers/CMakeFiles/UNIT_ImagesView_TEST.dir/moc_ImagesView_TEST.cxx.o: gazebo/msgs/camera_cmd.pb.h

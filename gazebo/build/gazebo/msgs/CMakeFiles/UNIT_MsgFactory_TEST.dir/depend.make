@@ -55,6 +55,7 @@ gazebo/msgs/CMakeFiles/UNIT_MsgFactory_TEST.dir/MsgFactory_TEST.cc.o: /usr/inclu
 gazebo/msgs/CMakeFiles/UNIT_MsgFactory_TEST.dir/MsgFactory_TEST.cc.o: /usr/include/sdformat-2.2/sdf/sdf_config.h
 gazebo/msgs/CMakeFiles/UNIT_MsgFactory_TEST.dir/MsgFactory_TEST.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/msgs/CMakeFiles/UNIT_MsgFactory_TEST.dir/MsgFactory_TEST.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/msgs/CMakeFiles/UNIT_MsgFactory_TEST.dir/MsgFactory_TEST.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/msgs/CMakeFiles/UNIT_MsgFactory_TEST.dir/MsgFactory_TEST.cc.o: gazebo/msgs/axis.pb.h
 gazebo/msgs/CMakeFiles/UNIT_MsgFactory_TEST.dir/MsgFactory_TEST.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/msgs/CMakeFiles/UNIT_MsgFactory_TEST.dir/MsgFactory_TEST.cc.o: gazebo/msgs/camera_cmd.pb.h

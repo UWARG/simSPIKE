@@ -100,6 +100,7 @@ plugins/CMakeFiles/SonarPlugin.dir/SonarPlugin.cc.o: /usr/include/sdformat-2.2/s
 plugins/CMakeFiles/SonarPlugin.dir/SonarPlugin.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 plugins/CMakeFiles/SonarPlugin.dir/SonarPlugin.cc.o: gazebo/gazebo_config.h
 plugins/CMakeFiles/SonarPlugin.dir/SonarPlugin.cc.o: gazebo/msgs/MessageTypes.hh
+plugins/CMakeFiles/SonarPlugin.dir/SonarPlugin.cc.o: gazebo/msgs/aircraft.pb.h
 plugins/CMakeFiles/SonarPlugin.dir/SonarPlugin.cc.o: gazebo/msgs/axis.pb.h
 plugins/CMakeFiles/SonarPlugin.dir/SonarPlugin.cc.o: gazebo/msgs/boxgeom.pb.h
 plugins/CMakeFiles/SonarPlugin.dir/SonarPlugin.cc.o: gazebo/msgs/camera_cmd.pb.h

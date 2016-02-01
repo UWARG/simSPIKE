@@ -907,6 +907,7 @@ gazebo/gui/CMakeFiles/gzclient.dir/AlignWidget.cc.o
  /usr/include/sdformat-2.2/sdf/system_util.hh
  gazebo/gazebo_config.h
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h
@@ -1068,6 +1069,7 @@ gazebo/gui/CMakeFiles/gzclient.dir/BoxMaker.cc.o
  /usr/include/sdformat-2.2/sdf/system_util.hh
  gazebo/gazebo_config.h
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h
@@ -1665,6 +1667,7 @@ gazebo/gui/CMakeFiles/gzclient.dir/CylinderMaker.cc.o
  /usr/include/sdformat-2.2/sdf/system_util.hh
  gazebo/gazebo_config.h
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h
@@ -2252,6 +2255,7 @@ gazebo/gui/CMakeFiles/gzclient.dir/DataLogger.cc.o
  /usr/include/sdformat-2.2/sdf/system_util.hh
  gazebo/gazebo_config.h
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h
@@ -2826,6 +2830,7 @@ gazebo/gui/CMakeFiles/gzclient.dir/Editor.cc.o
  /usr/include/sdformat-2.2/sdf/system_util.hh
  gazebo/gazebo_config.h
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h
@@ -2981,6 +2986,7 @@ gazebo/gui/CMakeFiles/gzclient.dir/EntityMaker.cc.o
  /usr/include/sdformat-2.2/sdf/system_util.hh
  gazebo/gazebo_config.h
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h
@@ -3614,6 +3620,7 @@ gazebo/gui/CMakeFiles/gzclient.dir/GLWidget.cc.o
  gazebo/gazebo_config.h
  gazebo/math/gzmath.hh
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h
@@ -3752,6 +3759,7 @@ gazebo/gui/CMakeFiles/gzclient.dir/GuiEvents.cc.o
  /usr/include/sdformat-2.2/sdf/system_util.hh
  gazebo/gazebo_config.h
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h
@@ -4390,6 +4398,7 @@ gazebo/gui/CMakeFiles/gzclient.dir/GuiIface.cc.o
  gazebo/gazebo_config.h
  gazebo/math/gzmath.hh
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h
@@ -4992,6 +5001,7 @@ gazebo/gui/CMakeFiles/gzclient.dir/InsertModelWidget.cc.o
  /usr/include/sdformat-2.2/sdf/system_util.hh
  gazebo/gazebo_config.h
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h
@@ -5581,6 +5591,7 @@ gazebo/gui/CMakeFiles/gzclient.dir/JointControlWidget.cc.o
  /usr/include/sdformat-2.2/sdf/system_util.hh
  gazebo/gazebo_config.h
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h
@@ -5754,6 +5765,7 @@ gazebo/gui/CMakeFiles/gzclient.dir/LightMaker.cc.o
  /usr/include/sdformat-2.2/sdf/system_util.hh
  gazebo/gazebo_config.h
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h
@@ -6424,6 +6436,7 @@ gazebo/gui/CMakeFiles/gzclient.dir/MainWindow.cc.o
  gazebo/gazebo_config.h
  gazebo/math/gzmath.hh
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h
@@ -6586,6 +6599,7 @@ gazebo/gui/CMakeFiles/gzclient.dir/MeshMaker.cc.o
  /usr/include/sdformat-2.2/sdf/system_util.hh
  gazebo/gazebo_config.h
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h
@@ -7193,6 +7207,7 @@ gazebo/gui/CMakeFiles/gzclient.dir/ModelAlign.cc.o
  /usr/include/sdformat-2.2/sdf/system_util.hh
  gazebo/gazebo_config.h
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h
@@ -7779,6 +7794,7 @@ gazebo/gui/CMakeFiles/gzclient.dir/ModelEditWidget.cc.o
  /usr/include/sdformat-2.2/sdf/system_util.hh
  gazebo/gazebo_config.h
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h
@@ -8423,6 +8439,7 @@ gazebo/gui/CMakeFiles/gzclient.dir/ModelListWidget.cc.o
  /usr/include/sdformat-2.2/sdf/system_util.hh
  gazebo/gazebo_config.h
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h
@@ -8593,6 +8610,7 @@ gazebo/gui/CMakeFiles/gzclient.dir/ModelMaker.cc.o
  /usr/include/sdformat-2.2/sdf/system_util.hh
  gazebo/gazebo_config.h
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h
@@ -9199,6 +9217,7 @@ gazebo/gui/CMakeFiles/gzclient.dir/ModelManipulator.cc.o
  /usr/include/sdformat-2.2/sdf/system_util.hh
  gazebo/gazebo_config.h
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h
@@ -9803,6 +9822,7 @@ gazebo/gui/CMakeFiles/gzclient.dir/ModelRightMenu.cc.o
  /usr/include/sdformat-2.2/sdf/system_util.hh
  gazebo/gazebo_config.h
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h
@@ -10415,6 +10435,7 @@ gazebo/gui/CMakeFiles/gzclient.dir/ModelSnap.cc.o
  /usr/include/sdformat-2.2/sdf/system_util.hh
  gazebo/gazebo_config.h
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h
@@ -11037,6 +11058,7 @@ gazebo/gui/CMakeFiles/gzclient.dir/RenderWidget.cc.o
  /usr/include/sdformat-2.2/sdf/system_util.hh
  gazebo/gazebo_config.h
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h
@@ -11635,6 +11657,7 @@ gazebo/gui/CMakeFiles/gzclient.dir/SpaceNav.cc.o
  /usr/include/sdformat-2.2/sdf/system_util.hh
  gazebo/gazebo_config.h
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h
@@ -11797,6 +11820,7 @@ gazebo/gui/CMakeFiles/gzclient.dir/SphereMaker.cc.o
  /usr/include/sdformat-2.2/sdf/system_util.hh
  gazebo/gazebo_config.h
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h
@@ -12384,6 +12408,7 @@ gazebo/gui/CMakeFiles/gzclient.dir/TimePanel.cc.o
  /usr/include/sdformat-2.2/sdf/system_util.hh
  gazebo/gazebo_config.h
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h
@@ -12959,6 +12984,7 @@ gazebo/gui/CMakeFiles/gzclient.dir/ToolsWidget.cc.o
  /usr/include/sdformat-2.2/sdf/system_util.hh
  gazebo/gazebo_config.h
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h
@@ -13546,6 +13572,7 @@ gazebo/gui/CMakeFiles/gzclient.dir/TopicSelector.cc.o
  /usr/include/sdformat-2.2/sdf/system_util.hh
  gazebo/gazebo_config.h
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h
@@ -15430,6 +15457,7 @@ gazebo/gui/CMakeFiles/gzclient.dir/moc_DataLogger.cxx.o
  /usr/include/sdformat-2.2/sdf/sdf_config.h
  /usr/include/sdformat-2.2/sdf/system_util.hh
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h
@@ -16452,6 +16480,7 @@ gazebo/gui/CMakeFiles/gzclient.dir/moc_GLWidget.cxx.o
  /usr/include/sdformat-2.2/sdf/system_util.hh
  gazebo/gazebo_config.h
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h
@@ -17456,6 +17485,7 @@ gazebo/gui/CMakeFiles/gzclient.dir/moc_JointControlWidget.cxx.o
  /usr/include/sdformat-2.2/sdf/sdf_config.h
  /usr/include/sdformat-2.2/sdf/system_util.hh
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h
@@ -18028,6 +18058,7 @@ gazebo/gui/CMakeFiles/gzclient.dir/moc_MainWindow.cxx.o
  /usr/include/sdformat-2.2/sdf/system_util.hh
  gazebo/gazebo_config.h
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h
@@ -18596,6 +18627,7 @@ gazebo/gui/CMakeFiles/gzclient.dir/moc_ModelEditWidget.cxx.o
  /usr/include/sdformat-2.2/sdf/sdf_config.h
  /usr/include/sdformat-2.2/sdf/system_util.hh
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h
@@ -19166,6 +19198,7 @@ gazebo/gui/CMakeFiles/gzclient.dir/moc_ModelListWidget.cxx.o
  /usr/include/sdformat-2.2/sdf/system_util.hh
  gazebo/gazebo_config.h
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h
@@ -19735,6 +19768,7 @@ gazebo/gui/CMakeFiles/gzclient.dir/moc_ModelRightMenu.cxx.o
  /usr/include/sdformat-2.2/sdf/sdf_config.h
  /usr/include/sdformat-2.2/sdf/system_util.hh
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h
@@ -21157,6 +21191,7 @@ gazebo/gui/CMakeFiles/gzclient.dir/moc_TimePanel.cxx.o
  /usr/include/qt4/QtGui/qx11info_x11.h
  gazebo/gazebo_config.h
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h

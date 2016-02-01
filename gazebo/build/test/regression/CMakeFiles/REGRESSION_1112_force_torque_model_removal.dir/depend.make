@@ -207,6 +207,7 @@ test/regression/CMakeFiles/REGRESSION_1112_force_torque_model_removal.dir/1112_f
 test/regression/CMakeFiles/REGRESSION_1112_force_torque_model_removal.dir/1112_force_torque_model_removal.cc.o: gazebo/gazebo_config.h
 test/regression/CMakeFiles/REGRESSION_1112_force_torque_model_removal.dir/1112_force_torque_model_removal.cc.o: gazebo/math/gzmath.hh
 test/regression/CMakeFiles/REGRESSION_1112_force_torque_model_removal.dir/1112_force_torque_model_removal.cc.o: gazebo/msgs/MessageTypes.hh
+test/regression/CMakeFiles/REGRESSION_1112_force_torque_model_removal.dir/1112_force_torque_model_removal.cc.o: gazebo/msgs/aircraft.pb.h
 test/regression/CMakeFiles/REGRESSION_1112_force_torque_model_removal.dir/1112_force_torque_model_removal.cc.o: gazebo/msgs/axis.pb.h
 test/regression/CMakeFiles/REGRESSION_1112_force_torque_model_removal.dir/1112_force_torque_model_removal.cc.o: gazebo/msgs/boxgeom.pb.h
 test/regression/CMakeFiles/REGRESSION_1112_force_torque_model_removal.dir/1112_force_torque_model_removal.cc.o: gazebo/msgs/camera_cmd.pb.h

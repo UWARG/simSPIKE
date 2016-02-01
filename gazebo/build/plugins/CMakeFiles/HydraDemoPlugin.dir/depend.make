@@ -146,6 +146,7 @@ plugins/CMakeFiles/HydraDemoPlugin.dir/HydraDemoPlugin.cc.o: gazebo/common/commo
 plugins/CMakeFiles/HydraDemoPlugin.dir/HydraDemoPlugin.cc.o: gazebo/gazebo_config.h
 plugins/CMakeFiles/HydraDemoPlugin.dir/HydraDemoPlugin.cc.o: gazebo/math/gzmath.hh
 plugins/CMakeFiles/HydraDemoPlugin.dir/HydraDemoPlugin.cc.o: gazebo/msgs/MessageTypes.hh
+plugins/CMakeFiles/HydraDemoPlugin.dir/HydraDemoPlugin.cc.o: gazebo/msgs/aircraft.pb.h
 plugins/CMakeFiles/HydraDemoPlugin.dir/HydraDemoPlugin.cc.o: gazebo/msgs/axis.pb.h
 plugins/CMakeFiles/HydraDemoPlugin.dir/HydraDemoPlugin.cc.o: gazebo/msgs/boxgeom.pb.h
 plugins/CMakeFiles/HydraDemoPlugin.dir/HydraDemoPlugin.cc.o: gazebo/msgs/camera_cmd.pb.h

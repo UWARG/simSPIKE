@@ -1,4 +1,5 @@
 // Automatically generated
+ #include "aircraft.pb.h"
  #include "axis.pb.h"
  #include "boxgeom.pb.h"
  #include "camerasensor.pb.h"

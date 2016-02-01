@@ -41,6 +41,7 @@ gazebo/CMakeFiles/gazebo.dir/Master.cc.o: /usr/include/sdformat-2.2/sdf/sdf_conf
 gazebo/CMakeFiles/gazebo.dir/Master.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/CMakeFiles/gazebo.dir/Master.cc.o: gazebo/gazebo_config.h
 gazebo/CMakeFiles/gazebo.dir/Master.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/CMakeFiles/gazebo.dir/Master.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/CMakeFiles/gazebo.dir/Master.cc.o: gazebo/msgs/axis.pb.h
 gazebo/CMakeFiles/gazebo.dir/Master.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/CMakeFiles/gazebo.dir/Master.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -255,6 +256,7 @@ gazebo/CMakeFiles/gazebo.dir/Server.cc.o: gazebo/common/common.hh
 gazebo/CMakeFiles/gazebo.dir/Server.cc.o: gazebo/gazebo_config.h
 gazebo/CMakeFiles/gazebo.dir/Server.cc.o: gazebo/math/gzmath.hh
 gazebo/CMakeFiles/gazebo.dir/Server.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/CMakeFiles/gazebo.dir/Server.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/CMakeFiles/gazebo.dir/Server.cc.o: gazebo/msgs/axis.pb.h
 gazebo/CMakeFiles/gazebo.dir/Server.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/CMakeFiles/gazebo.dir/Server.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -524,6 +526,7 @@ gazebo/CMakeFiles/gazebo.dir/gazebo.cc.o: gazebo/common/common.hh
 gazebo/CMakeFiles/gazebo.dir/gazebo.cc.o: gazebo/gazebo_config.h
 gazebo/CMakeFiles/gazebo.dir/gazebo.cc.o: gazebo/math/gzmath.hh
 gazebo/CMakeFiles/gazebo.dir/gazebo.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/CMakeFiles/gazebo.dir/gazebo.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/CMakeFiles/gazebo.dir/gazebo.cc.o: gazebo/msgs/axis.pb.h
 gazebo/CMakeFiles/gazebo.dir/gazebo.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/CMakeFiles/gazebo.dir/gazebo.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -669,6 +672,7 @@ gazebo/CMakeFiles/gazebo.dir/gazebo_main.cc.o: /usr/include/sdformat-2.2/sdf/sdf
 gazebo/CMakeFiles/gazebo.dir/gazebo_main.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/CMakeFiles/gazebo.dir/gazebo_main.cc.o: gazebo/gazebo_config.h
 gazebo/CMakeFiles/gazebo.dir/gazebo_main.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/CMakeFiles/gazebo.dir/gazebo_main.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/CMakeFiles/gazebo.dir/gazebo_main.cc.o: gazebo/msgs/axis.pb.h
 gazebo/CMakeFiles/gazebo.dir/gazebo_main.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/CMakeFiles/gazebo.dir/gazebo_main.cc.o: gazebo/msgs/camera_cmd.pb.h

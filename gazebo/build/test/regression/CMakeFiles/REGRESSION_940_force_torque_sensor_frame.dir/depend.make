@@ -208,6 +208,7 @@ test/regression/CMakeFiles/REGRESSION_940_force_torque_sensor_frame.dir/940_forc
 test/regression/CMakeFiles/REGRESSION_940_force_torque_sensor_frame.dir/940_force_torque_sensor_frame.cc.o: gazebo/gazebo_config.h
 test/regression/CMakeFiles/REGRESSION_940_force_torque_sensor_frame.dir/940_force_torque_sensor_frame.cc.o: gazebo/math/gzmath.hh
 test/regression/CMakeFiles/REGRESSION_940_force_torque_sensor_frame.dir/940_force_torque_sensor_frame.cc.o: gazebo/msgs/MessageTypes.hh
+test/regression/CMakeFiles/REGRESSION_940_force_torque_sensor_frame.dir/940_force_torque_sensor_frame.cc.o: gazebo/msgs/aircraft.pb.h
 test/regression/CMakeFiles/REGRESSION_940_force_torque_sensor_frame.dir/940_force_torque_sensor_frame.cc.o: gazebo/msgs/axis.pb.h
 test/regression/CMakeFiles/REGRESSION_940_force_torque_sensor_frame.dir/940_force_torque_sensor_frame.cc.o: gazebo/msgs/boxgeom.pb.h
 test/regression/CMakeFiles/REGRESSION_940_force_torque_sensor_frame.dir/940_force_torque_sensor_frame.cc.o: gazebo/msgs/camera_cmd.pb.h

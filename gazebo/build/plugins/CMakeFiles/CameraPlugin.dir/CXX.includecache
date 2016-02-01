@@ -879,6 +879,8 @@ google/heap-checker.h
 -
 
 gazebo/msgs/MessageTypes.hh
+aircraft.pb.h
+gazebo/msgs/aircraft.pb.h
 axis.pb.h
 gazebo/msgs/axis.pb.h
 boxgeom.pb.h
@@ -1081,6 +1083,26 @@ wrench.pb.h
 gazebo/msgs/wrench.pb.h
 wrench_stamped.pb.h
 gazebo/msgs/wrench_stamped.pb.h
+
+gazebo/msgs/aircraft.pb.h
+string
+-
+google/protobuf/stubs/common.h
+-
+google/protobuf/generated_message_util.h
+-
+google/protobuf/message.h
+-
+google/protobuf/repeated_field.h
+-
+google/protobuf/extension_set.h
+-
+google/protobuf/unknown_field_set.h
+-
+boost/shared_ptr.hpp
+-
+gazebo/msgs/MsgFactory.hh
+gazebo/msgs/gazebo/msgs/MsgFactory.hh
 
 gazebo/msgs/axis.pb.h
 string

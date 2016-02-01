@@ -98,6 +98,7 @@ tools/CMakeFiles/gz.dir/gz.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 tools/CMakeFiles/gz.dir/gz.cc.o: gazebo/common/common.hh
 tools/CMakeFiles/gz.dir/gz.cc.o: gazebo/gazebo_config.h
 tools/CMakeFiles/gz.dir/gz.cc.o: gazebo/msgs/MessageTypes.hh
+tools/CMakeFiles/gz.dir/gz.cc.o: gazebo/msgs/aircraft.pb.h
 tools/CMakeFiles/gz.dir/gz.cc.o: gazebo/msgs/axis.pb.h
 tools/CMakeFiles/gz.dir/gz.cc.o: gazebo/msgs/boxgeom.pb.h
 tools/CMakeFiles/gz.dir/gz.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -302,6 +303,7 @@ tools/CMakeFiles/gz.dir/gz_log.cc.o: /usr/include/sdformat-2.2/sdf/system_util.h
 tools/CMakeFiles/gz.dir/gz_log.cc.o: gazebo/common/common.hh
 tools/CMakeFiles/gz.dir/gz_log.cc.o: gazebo/gazebo_config.h
 tools/CMakeFiles/gz.dir/gz_log.cc.o: gazebo/msgs/MessageTypes.hh
+tools/CMakeFiles/gz.dir/gz_log.cc.o: gazebo/msgs/aircraft.pb.h
 tools/CMakeFiles/gz.dir/gz_log.cc.o: gazebo/msgs/axis.pb.h
 tools/CMakeFiles/gz.dir/gz_log.cc.o: gazebo/msgs/boxgeom.pb.h
 tools/CMakeFiles/gz.dir/gz_log.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -943,6 +945,7 @@ tools/CMakeFiles/gz.dir/gz_topic.cc.o: gazebo/common/common.hh
 tools/CMakeFiles/gz.dir/gz_topic.cc.o: gazebo/gazebo_config.h
 tools/CMakeFiles/gz.dir/gz_topic.cc.o: gazebo/math/gzmath.hh
 tools/CMakeFiles/gz.dir/gz_topic.cc.o: gazebo/msgs/MessageTypes.hh
+tools/CMakeFiles/gz.dir/gz_topic.cc.o: gazebo/msgs/aircraft.pb.h
 tools/CMakeFiles/gz.dir/gz_topic.cc.o: gazebo/msgs/axis.pb.h
 tools/CMakeFiles/gz.dir/gz_topic.cc.o: gazebo/msgs/boxgeom.pb.h
 tools/CMakeFiles/gz.dir/gz_topic.cc.o: gazebo/msgs/camera_cmd.pb.h

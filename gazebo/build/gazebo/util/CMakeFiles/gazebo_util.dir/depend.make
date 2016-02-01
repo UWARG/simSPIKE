@@ -59,6 +59,7 @@ gazebo/util/CMakeFiles/gazebo_util.dir/Diagnostics.cc.o: /usr/include/sdformat-2
 gazebo/util/CMakeFiles/gazebo_util.dir/Diagnostics.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/util/CMakeFiles/gazebo_util.dir/Diagnostics.cc.o: gazebo/gazebo_config.h
 gazebo/util/CMakeFiles/gazebo_util.dir/Diagnostics.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/util/CMakeFiles/gazebo_util.dir/Diagnostics.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/util/CMakeFiles/gazebo_util.dir/Diagnostics.cc.o: gazebo/msgs/axis.pb.h
 gazebo/util/CMakeFiles/gazebo_util.dir/Diagnostics.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/util/CMakeFiles/gazebo_util.dir/Diagnostics.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -205,6 +206,7 @@ gazebo/util/CMakeFiles/gazebo_util.dir/LogPlay.cc.o: /usr/include/sdformat-2.2/s
 gazebo/util/CMakeFiles/gazebo_util.dir/LogPlay.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/util/CMakeFiles/gazebo_util.dir/LogPlay.cc.o: gazebo/gazebo_config.h
 gazebo/util/CMakeFiles/gazebo_util.dir/LogPlay.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/util/CMakeFiles/gazebo_util.dir/LogPlay.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/util/CMakeFiles/gazebo_util.dir/LogPlay.cc.o: gazebo/msgs/axis.pb.h
 gazebo/util/CMakeFiles/gazebo_util.dir/LogPlay.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/util/CMakeFiles/gazebo_util.dir/LogPlay.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -365,6 +367,7 @@ gazebo/util/CMakeFiles/gazebo_util.dir/LogRecord.cc.o: /usr/include/sdformat-2.2
 gazebo/util/CMakeFiles/gazebo_util.dir/LogRecord.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/util/CMakeFiles/gazebo_util.dir/LogRecord.cc.o: gazebo/gazebo_config.h
 gazebo/util/CMakeFiles/gazebo_util.dir/LogRecord.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/util/CMakeFiles/gazebo_util.dir/LogRecord.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/util/CMakeFiles/gazebo_util.dir/LogRecord.cc.o: gazebo/msgs/axis.pb.h
 gazebo/util/CMakeFiles/gazebo_util.dir/LogRecord.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/util/CMakeFiles/gazebo_util.dir/LogRecord.cc.o: gazebo/msgs/camera_cmd.pb.h

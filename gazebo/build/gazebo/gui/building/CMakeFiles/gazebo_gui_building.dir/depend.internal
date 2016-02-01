@@ -482,6 +482,7 @@ gazebo/gui/building/CMakeFiles/gazebo_gui_building.dir/BuildingEditor.cc.o
  /usr/include/sdformat-2.2/sdf/system_util.hh
  gazebo/gazebo_config.h
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h
@@ -1994,6 +1995,7 @@ gazebo/gui/building/CMakeFiles/gazebo_gui_building.dir/BuildingMaker.cc.o
  /usr/include/sdformat-2.2/sdf/system_util.hh
  gazebo/gazebo_config.h
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h
@@ -2569,6 +2571,7 @@ gazebo/gui/building/CMakeFiles/gazebo_gui_building.dir/BuildingModelManip.cc.o
  /usr/include/sdformat-2.2/sdf/system_util.hh
  gazebo/gazebo_config.h
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h

@@ -50,6 +50,7 @@ gazebo/rendering/CMakeFiles/gazebo_rendering.dir/ArrowVisual.cc.o: /usr/include/
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/ArrowVisual.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/ArrowVisual.cc.o: gazebo/gazebo_config.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/ArrowVisual.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/rendering/CMakeFiles/gazebo_rendering.dir/ArrowVisual.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/ArrowVisual.cc.o: gazebo/msgs/axis.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/ArrowVisual.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/ArrowVisual.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -202,6 +203,7 @@ gazebo/rendering/CMakeFiles/gazebo_rendering.dir/AxisVisual.cc.o: /usr/include/s
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/AxisVisual.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/AxisVisual.cc.o: gazebo/gazebo_config.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/AxisVisual.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/rendering/CMakeFiles/gazebo_rendering.dir/AxisVisual.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/AxisVisual.cc.o: gazebo/msgs/axis.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/AxisVisual.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/AxisVisual.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -357,6 +359,7 @@ gazebo/rendering/CMakeFiles/gazebo_rendering.dir/COMVisual.cc.o: /usr/include/sd
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/COMVisual.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/COMVisual.cc.o: gazebo/gazebo_config.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/COMVisual.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/rendering/CMakeFiles/gazebo_rendering.dir/COMVisual.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/COMVisual.cc.o: gazebo/msgs/axis.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/COMVisual.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/COMVisual.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -543,6 +546,7 @@ gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Camera.cc.o: /usr/include/sdfor
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Camera.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Camera.cc.o: gazebo/gazebo_config.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Camera.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Camera.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Camera.cc.o: gazebo/msgs/axis.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Camera.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Camera.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -712,6 +716,7 @@ gazebo/rendering/CMakeFiles/gazebo_rendering.dir/CameraVisual.cc.o: /usr/include
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/CameraVisual.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/CameraVisual.cc.o: gazebo/gazebo_config.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/CameraVisual.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/rendering/CMakeFiles/gazebo_rendering.dir/CameraVisual.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/CameraVisual.cc.o: gazebo/msgs/axis.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/CameraVisual.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/CameraVisual.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -880,6 +885,7 @@ gazebo/rendering/CMakeFiles/gazebo_rendering.dir/ContactVisual.cc.o: /usr/includ
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/ContactVisual.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/ContactVisual.cc.o: gazebo/gazebo_config.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/ContactVisual.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/rendering/CMakeFiles/gazebo_rendering.dir/ContactVisual.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/ContactVisual.cc.o: gazebo/msgs/axis.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/ContactVisual.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/ContactVisual.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -1058,6 +1064,7 @@ gazebo/rendering/CMakeFiles/gazebo_rendering.dir/DepthCamera.cc.o: /usr/include/
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/DepthCamera.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/DepthCamera.cc.o: gazebo/gazebo_config.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/DepthCamera.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/rendering/CMakeFiles/gazebo_rendering.dir/DepthCamera.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/DepthCamera.cc.o: gazebo/msgs/axis.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/DepthCamera.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/DepthCamera.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -1247,6 +1254,7 @@ gazebo/rendering/CMakeFiles/gazebo_rendering.dir/FPSViewController.cc.o: /usr/in
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/FPSViewController.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/FPSViewController.cc.o: gazebo/gazebo_config.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/FPSViewController.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/rendering/CMakeFiles/gazebo_rendering.dir/FPSViewController.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/FPSViewController.cc.o: gazebo/msgs/axis.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/FPSViewController.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/FPSViewController.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -1412,6 +1420,7 @@ gazebo/rendering/CMakeFiles/gazebo_rendering.dir/GUIOverlay.cc.o: /usr/include/s
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/GUIOverlay.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/GUIOverlay.cc.o: gazebo/gazebo_config.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/GUIOverlay.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/rendering/CMakeFiles/gazebo_rendering.dir/GUIOverlay.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/GUIOverlay.cc.o: gazebo/msgs/axis.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/GUIOverlay.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/GUIOverlay.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -1578,6 +1587,7 @@ gazebo/rendering/CMakeFiles/gazebo_rendering.dir/GpuLaser.cc.o: /usr/include/sdf
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/GpuLaser.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/GpuLaser.cc.o: gazebo/gazebo_config.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/GpuLaser.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/rendering/CMakeFiles/gazebo_rendering.dir/GpuLaser.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/GpuLaser.cc.o: gazebo/msgs/axis.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/GpuLaser.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/GpuLaser.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -1725,6 +1735,7 @@ gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Grid.cc.o: /usr/include/sdforma
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Grid.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Grid.cc.o: gazebo/gazebo_config.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Grid.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Grid.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Grid.cc.o: gazebo/msgs/axis.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Grid.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Grid.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -1893,6 +1904,7 @@ gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Heightmap.cc.o: /usr/include/sd
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Heightmap.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Heightmap.cc.o: gazebo/gazebo_config.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Heightmap.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Heightmap.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Heightmap.cc.o: gazebo/msgs/axis.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Heightmap.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Heightmap.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -2048,6 +2060,7 @@ gazebo/rendering/CMakeFiles/gazebo_rendering.dir/JointVisual.cc.o: /usr/include/
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/JointVisual.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/JointVisual.cc.o: gazebo/gazebo_config.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/JointVisual.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/rendering/CMakeFiles/gazebo_rendering.dir/JointVisual.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/JointVisual.cc.o: gazebo/msgs/axis.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/JointVisual.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/JointVisual.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -2218,6 +2231,7 @@ gazebo/rendering/CMakeFiles/gazebo_rendering.dir/LaserVisual.cc.o: /usr/include/
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/LaserVisual.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/LaserVisual.cc.o: gazebo/gazebo_config.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/LaserVisual.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/rendering/CMakeFiles/gazebo_rendering.dir/LaserVisual.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/LaserVisual.cc.o: gazebo/msgs/axis.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/LaserVisual.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/LaserVisual.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -2372,6 +2386,7 @@ gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Light.cc.o: /usr/include/sdform
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Light.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Light.cc.o: gazebo/gazebo_config.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Light.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Light.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Light.cc.o: gazebo/msgs/axis.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Light.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Light.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -2632,6 +2647,7 @@ gazebo/rendering/CMakeFiles/gazebo_rendering.dir/OrbitViewController.cc.o: /usr/
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/OrbitViewController.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/OrbitViewController.cc.o: gazebo/gazebo_config.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/OrbitViewController.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/rendering/CMakeFiles/gazebo_rendering.dir/OrbitViewController.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/OrbitViewController.cc.o: gazebo/msgs/axis.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/OrbitViewController.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/OrbitViewController.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -2799,6 +2815,7 @@ gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Projector.cc.o: /usr/include/sd
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Projector.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Projector.cc.o: gazebo/gazebo_config.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Projector.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Projector.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Projector.cc.o: gazebo/msgs/axis.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Projector.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Projector.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -2967,6 +2984,7 @@ gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RFIDTagVisual.cc.o: /usr/includ
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RFIDTagVisual.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RFIDTagVisual.cc.o: gazebo/gazebo_config.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RFIDTagVisual.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RFIDTagVisual.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RFIDTagVisual.cc.o: gazebo/msgs/axis.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RFIDTagVisual.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RFIDTagVisual.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -3135,6 +3153,7 @@ gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RFIDVisual.cc.o: /usr/include/s
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RFIDVisual.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RFIDVisual.cc.o: gazebo/gazebo_config.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RFIDVisual.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RFIDVisual.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RFIDVisual.cc.o: gazebo/msgs/axis.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RFIDVisual.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RFIDVisual.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -3301,6 +3320,7 @@ gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RTShaderSystem.cc.o: /usr/inclu
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RTShaderSystem.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RTShaderSystem.cc.o: gazebo/gazebo_config.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RTShaderSystem.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RTShaderSystem.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RTShaderSystem.cc.o: gazebo/msgs/axis.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RTShaderSystem.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RTShaderSystem.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -3468,6 +3488,7 @@ gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RayQuery.cc.o: /usr/include/sdf
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RayQuery.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RayQuery.cc.o: gazebo/gazebo_config.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RayQuery.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RayQuery.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RayQuery.cc.o: gazebo/msgs/axis.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RayQuery.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RayQuery.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -3641,6 +3662,7 @@ gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RenderEngine.cc.o: /usr/include
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RenderEngine.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RenderEngine.cc.o: gazebo/gazebo_config.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RenderEngine.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RenderEngine.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RenderEngine.cc.o: gazebo/msgs/axis.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RenderEngine.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RenderEngine.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -3778,6 +3800,7 @@ gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RenderEvents.cc.o: /usr/include
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RenderEvents.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RenderEvents.cc.o: gazebo/gazebo_config.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RenderEvents.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RenderEvents.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RenderEvents.cc.o: gazebo/msgs/axis.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RenderEvents.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RenderEvents.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -3921,6 +3944,7 @@ gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RenderingIface.cc.o: /usr/inclu
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RenderingIface.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RenderingIface.cc.o: gazebo/gazebo_config.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RenderingIface.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RenderingIface.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RenderingIface.cc.o: gazebo/msgs/axis.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RenderingIface.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/RenderingIface.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -4085,6 +4109,7 @@ gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Road2d.cc.o: /usr/include/sdfor
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Road2d.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Road2d.cc.o: gazebo/gazebo_config.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Road2d.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Road2d.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Road2d.cc.o: gazebo/msgs/axis.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Road2d.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Road2d.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -4423,6 +4448,7 @@ gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Scene.cc.o: /usr/include/sdform
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Scene.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Scene.cc.o: gazebo/gazebo_config.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Scene.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Scene.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Scene.cc.o: gazebo/msgs/axis.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Scene.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Scene.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -4593,6 +4619,7 @@ gazebo/rendering/CMakeFiles/gazebo_rendering.dir/SelectionObj.cc.o: /usr/include
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/SelectionObj.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/SelectionObj.cc.o: gazebo/gazebo_config.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/SelectionObj.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/rendering/CMakeFiles/gazebo_rendering.dir/SelectionObj.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/SelectionObj.cc.o: gazebo/msgs/axis.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/SelectionObj.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/SelectionObj.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -4763,6 +4790,7 @@ gazebo/rendering/CMakeFiles/gazebo_rendering.dir/SonarVisual.cc.o: /usr/include/
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/SonarVisual.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/SonarVisual.cc.o: gazebo/gazebo_config.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/SonarVisual.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/rendering/CMakeFiles/gazebo_rendering.dir/SonarVisual.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/SonarVisual.cc.o: gazebo/msgs/axis.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/SonarVisual.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/SonarVisual.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -4933,6 +4961,7 @@ gazebo/rendering/CMakeFiles/gazebo_rendering.dir/TransmitterVisual.cc.o: /usr/in
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/TransmitterVisual.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/TransmitterVisual.cc.o: gazebo/gazebo_config.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/TransmitterVisual.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/rendering/CMakeFiles/gazebo_rendering.dir/TransmitterVisual.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/TransmitterVisual.cc.o: gazebo/msgs/axis.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/TransmitterVisual.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/TransmitterVisual.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -5107,6 +5136,7 @@ gazebo/rendering/CMakeFiles/gazebo_rendering.dir/UserCamera.cc.o: /usr/include/s
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/UserCamera.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/UserCamera.cc.o: gazebo/gazebo_config.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/UserCamera.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/rendering/CMakeFiles/gazebo_rendering.dir/UserCamera.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/UserCamera.cc.o: gazebo/msgs/axis.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/UserCamera.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/UserCamera.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -5255,6 +5285,7 @@ gazebo/rendering/CMakeFiles/gazebo_rendering.dir/VideoVisual.cc.o: /usr/include/
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/VideoVisual.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/VideoVisual.cc.o: gazebo/gazebo_config.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/VideoVisual.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/rendering/CMakeFiles/gazebo_rendering.dir/VideoVisual.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/VideoVisual.cc.o: gazebo/msgs/axis.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/VideoVisual.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/VideoVisual.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -5412,6 +5443,7 @@ gazebo/rendering/CMakeFiles/gazebo_rendering.dir/ViewController.cc.o: /usr/inclu
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/ViewController.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/ViewController.cc.o: gazebo/gazebo_config.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/ViewController.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/rendering/CMakeFiles/gazebo_rendering.dir/ViewController.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/ViewController.cc.o: gazebo/msgs/axis.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/ViewController.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/ViewController.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -5590,6 +5622,7 @@ gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Visual.cc.o: /usr/include/sdfor
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Visual.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Visual.cc.o: gazebo/gazebo_config.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Visual.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Visual.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Visual.cc.o: gazebo/msgs/axis.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Visual.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/Visual.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -5754,6 +5787,7 @@ gazebo/rendering/CMakeFiles/gazebo_rendering.dir/WindowManager.cc.o: /usr/includ
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/WindowManager.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/WindowManager.cc.o: gazebo/gazebo_config.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/WindowManager.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/rendering/CMakeFiles/gazebo_rendering.dir/WindowManager.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/WindowManager.cc.o: gazebo/msgs/axis.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/WindowManager.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/WindowManager.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -5894,6 +5928,7 @@ gazebo/rendering/CMakeFiles/gazebo_rendering.dir/WireBox.cc.o: /usr/include/sdfo
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/WireBox.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/WireBox.cc.o: gazebo/gazebo_config.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/WireBox.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/rendering/CMakeFiles/gazebo_rendering.dir/WireBox.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/WireBox.cc.o: gazebo/msgs/axis.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/WireBox.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/WireBox.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -6064,6 +6099,7 @@ gazebo/rendering/CMakeFiles/gazebo_rendering.dir/WrenchVisual.cc.o: /usr/include
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/WrenchVisual.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/WrenchVisual.cc.o: gazebo/gazebo_config.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/WrenchVisual.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/rendering/CMakeFiles/gazebo_rendering.dir/WrenchVisual.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/WrenchVisual.cc.o: gazebo/msgs/axis.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/WrenchVisual.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/rendering/CMakeFiles/gazebo_rendering.dir/WrenchVisual.cc.o: gazebo/msgs/camera_cmd.pb.h

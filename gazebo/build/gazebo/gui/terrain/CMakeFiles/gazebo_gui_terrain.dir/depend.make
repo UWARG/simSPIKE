@@ -477,6 +477,7 @@ gazebo/gui/terrain/CMakeFiles/gazebo_gui_terrain.dir/TerrainEditor.cc.o: /usr/in
 gazebo/gui/terrain/CMakeFiles/gazebo_gui_terrain.dir/TerrainEditor.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/gui/terrain/CMakeFiles/gazebo_gui_terrain.dir/TerrainEditor.cc.o: gazebo/gazebo_config.h
 gazebo/gui/terrain/CMakeFiles/gazebo_gui_terrain.dir/TerrainEditor.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/gui/terrain/CMakeFiles/gazebo_gui_terrain.dir/TerrainEditor.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/gui/terrain/CMakeFiles/gazebo_gui_terrain.dir/TerrainEditor.cc.o: gazebo/msgs/axis.pb.h
 gazebo/gui/terrain/CMakeFiles/gazebo_gui_terrain.dir/TerrainEditor.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/gui/terrain/CMakeFiles/gazebo_gui_terrain.dir/TerrainEditor.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -1077,6 +1078,7 @@ gazebo/gui/terrain/CMakeFiles/gazebo_gui_terrain.dir/TerrainEditorPalette.cc.o: 
 gazebo/gui/terrain/CMakeFiles/gazebo_gui_terrain.dir/TerrainEditorPalette.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/gui/terrain/CMakeFiles/gazebo_gui_terrain.dir/TerrainEditorPalette.cc.o: gazebo/gazebo_config.h
 gazebo/gui/terrain/CMakeFiles/gazebo_gui_terrain.dir/TerrainEditorPalette.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/gui/terrain/CMakeFiles/gazebo_gui_terrain.dir/TerrainEditorPalette.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/gui/terrain/CMakeFiles/gazebo_gui_terrain.dir/TerrainEditorPalette.cc.o: gazebo/msgs/axis.pb.h
 gazebo/gui/terrain/CMakeFiles/gazebo_gui_terrain.dir/TerrainEditorPalette.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/gui/terrain/CMakeFiles/gazebo_gui_terrain.dir/TerrainEditorPalette.cc.o: gazebo/msgs/camera_cmd.pb.h

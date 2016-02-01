@@ -115,6 +115,7 @@ plugins/CMakeFiles/MudPlugin.dir/MudPlugin.cc.o: /usr/include/sdformat-2.2/sdf/s
 plugins/CMakeFiles/MudPlugin.dir/MudPlugin.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 plugins/CMakeFiles/MudPlugin.dir/MudPlugin.cc.o: gazebo/gazebo_config.h
 plugins/CMakeFiles/MudPlugin.dir/MudPlugin.cc.o: gazebo/msgs/MessageTypes.hh
+plugins/CMakeFiles/MudPlugin.dir/MudPlugin.cc.o: gazebo/msgs/aircraft.pb.h
 plugins/CMakeFiles/MudPlugin.dir/MudPlugin.cc.o: gazebo/msgs/axis.pb.h
 plugins/CMakeFiles/MudPlugin.dir/MudPlugin.cc.o: gazebo/msgs/boxgeom.pb.h
 plugins/CMakeFiles/MudPlugin.dir/MudPlugin.cc.o: gazebo/msgs/camera_cmd.pb.h

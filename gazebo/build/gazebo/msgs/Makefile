@@ -273,6 +273,30 @@ MsgFactory_TEST.cc.s:
 	cd /home/mehatfie/GitHub/simSPIKE/gazebo/build && $(MAKE) -f gazebo/msgs/CMakeFiles/UNIT_MsgFactory_TEST.dir/build.make gazebo/msgs/CMakeFiles/UNIT_MsgFactory_TEST.dir/MsgFactory_TEST.cc.s
 .PHONY : MsgFactory_TEST.cc.s
 
+aircraft.pb.o: aircraft.pb.cc.o
+.PHONY : aircraft.pb.o
+
+# target to build an object file
+aircraft.pb.cc.o:
+	cd /home/mehatfie/GitHub/simSPIKE/gazebo/build && $(MAKE) -f gazebo/msgs/CMakeFiles/gazebo_msgs.dir/build.make gazebo/msgs/CMakeFiles/gazebo_msgs.dir/aircraft.pb.cc.o
+.PHONY : aircraft.pb.cc.o
+
+aircraft.pb.i: aircraft.pb.cc.i
+.PHONY : aircraft.pb.i
+
+# target to preprocess a source file
+aircraft.pb.cc.i:
+	cd /home/mehatfie/GitHub/simSPIKE/gazebo/build && $(MAKE) -f gazebo/msgs/CMakeFiles/gazebo_msgs.dir/build.make gazebo/msgs/CMakeFiles/gazebo_msgs.dir/aircraft.pb.cc.i
+.PHONY : aircraft.pb.cc.i
+
+aircraft.pb.s: aircraft.pb.cc.s
+.PHONY : aircraft.pb.s
+
+# target to generate assembly for a file
+aircraft.pb.cc.s:
+	cd /home/mehatfie/GitHub/simSPIKE/gazebo/build && $(MAKE) -f gazebo/msgs/CMakeFiles/gazebo_msgs.dir/build.make gazebo/msgs/CMakeFiles/gazebo_msgs.dir/aircraft.pb.cc.s
+.PHONY : aircraft.pb.cc.s
+
 axis.pb.o: axis.pb.cc.o
 .PHONY : axis.pb.o
 
@@ -2818,6 +2842,9 @@ help:
 	@echo "... MsgFactory_TEST.o"
 	@echo "... MsgFactory_TEST.i"
 	@echo "... MsgFactory_TEST.s"
+	@echo "... aircraft.pb.o"
+	@echo "... aircraft.pb.i"
+	@echo "... aircraft.pb.s"
 	@echo "... axis.pb.o"
 	@echo "... axis.pb.i"
 	@echo "... axis.pb.s"

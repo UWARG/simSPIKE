@@ -127,6 +127,7 @@ plugins/CMakeFiles/ForceTorquePlugin.dir/ForceTorquePlugin.cc.o: /usr/include/sd
 plugins/CMakeFiles/ForceTorquePlugin.dir/ForceTorquePlugin.cc.o: gazebo/gazebo_config.h
 plugins/CMakeFiles/ForceTorquePlugin.dir/ForceTorquePlugin.cc.o: gazebo/math/gzmath.hh
 plugins/CMakeFiles/ForceTorquePlugin.dir/ForceTorquePlugin.cc.o: gazebo/msgs/MessageTypes.hh
+plugins/CMakeFiles/ForceTorquePlugin.dir/ForceTorquePlugin.cc.o: gazebo/msgs/aircraft.pb.h
 plugins/CMakeFiles/ForceTorquePlugin.dir/ForceTorquePlugin.cc.o: gazebo/msgs/axis.pb.h
 plugins/CMakeFiles/ForceTorquePlugin.dir/ForceTorquePlugin.cc.o: gazebo/msgs/boxgeom.pb.h
 plugins/CMakeFiles/ForceTorquePlugin.dir/ForceTorquePlugin.cc.o: gazebo/msgs/camera_cmd.pb.h

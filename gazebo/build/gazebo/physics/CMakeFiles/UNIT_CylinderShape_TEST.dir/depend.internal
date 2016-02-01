@@ -61,6 +61,7 @@ gazebo/physics/CMakeFiles/UNIT_CylinderShape_TEST.dir/CylinderShape_TEST.cc.o
  /usr/include/sdformat-2.2/sdf/sdf_config.h
  /usr/include/sdformat-2.2/sdf/system_util.hh
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h

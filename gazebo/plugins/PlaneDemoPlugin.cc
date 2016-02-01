@@ -189,12 +189,92 @@ void PlaneDemoPlugin::Init()
   this->lastUpdateTime = this->world->GetSimTime();
   this->updateConnection = event::Events::ConnectWorldUpdateBegin(
           boost::bind(&PlaneDemoPlugin::OnUpdate, this));
+
+  this->node = transport::NodePtr(new transport::Node());
+  this->node->Init();
+  this->controlSub = this->node->Subscribe("~/WARG_SimPlaneCmd", &CessnaPlugin::OnUpdate, this);
 }
 
 /////////////////////////////////////////////////
-void PlaneDemoPlugin::OnUpdate()
+void PlaneDemoPlugin::OnUpdate(ConstAircraftPtr &_msg)
 {
-  common::Time curTime = this->world->GetSimTime();
+
+  if (_msg->has_cmd_propeller_speed())
+  {
+    if (_msg->cmd_propeller_speed() < 0)
+      this->cmds[kPropeller] = 0;
+    else if (_msg->cmd_propeller_speed() > 1000)
+      this->cmds[kPropeller] = 1000;
+    else
+      this->cmds[kPropeller] = _msg->cmd_propeller_speed();
+  }
+
+
+  if (_msg->has_cmd_left_aileron())
+  {
+    if (_msg->cmd_left_aileron() < -0.3)
+      this->cmds[kLeftAileron] = -0.3;
+    else if (_msg->cmd_left_aileron() > 0.3)
+      this->cmds[kLeftAileron] = 0.3;
+    else
+      this->cmds[kLeftAileron] = _msg->cmd_left_aileron();
+  }
+
+
+  if (_msg->has_cmd_right_aileron()
+  {
+    if (_msg->cmd_right_aileron() < -0.3)
+      this->cmds[kRightAileron] = -0.3;
+    else if (_msg->cmd_right_aileron() > 0.3)
+      this->cmds[kRightAileron] = 0.3;
+    else
+      this->cmds[kRightAileron] = _msg->cmd_right_aileron();
+  }
+
+
+  if (_msg->has_cmd_elevators())
+  {
+    if (_msg->cmd_left_aileron() < -0.5)
+      this->cmds[kElevators] = -0.5;
+    else if (_msg->cmd_left_aileron() > 0.5)
+      this->cmds[kElevators] = 0.5;
+    else
+      this->cmds[kElevators] = _msg->cmd_left_aileron();
+  }
+
+
+  if (_msg->has_cmd_rudder())
+  {
+    if (_msg->cmd_rudder() < -0.3)
+      this->cmds[kRudder] = -0.3;
+    else if (_msg->cmd_rudder() > 0.3)
+      this->cmds[kRudder] = 0.3;
+    else
+      this->cmds[kRudder] = _msg->cmd_rudder();
+  }
+
+
+
+
+/*
+  if (_msg->has_cmd_left_flap())
+    this->cmds[kLeftFlap] = _msg->cmd_left_flap();
+
+  if (_msg->has_cmd_right_aileron())
+    this->cmds[kRightAileron] = _msg->cmd_right_aileron();
+
+  if (_msg->has_cmd_right_flap())
+    this->cmds[kRightFlap] = _msg->cmd_right_flap();
+
+  if (_msg->has_cmd_elevators())
+    this->cmds[kElevators] = _msg->cmd_elevators();
+
+  if (_msg->has_cmd_rudder())
+    this->cmds[kRudder] = _msg->cmd_rudder();
+*/
+
+
+  /*common::Time curTime = this->world->GetSimTime();
   char ch='x';
   if( _kbhit() )
   {
@@ -205,7 +285,7 @@ void PlaneDemoPlugin::OnUpdate()
       printf(" '%c'(%i)", isprint(ch)?ch:'?', (int)ch );
     } while( _kbhit() );
     // puts("");
-
+*/
     for (std::vector<EngineControl>::iterator ei = this->engineControls.begin();
       ei != this->engineControls.end(); ++ei)
     {
@@ -227,31 +307,74 @@ void PlaneDemoPlugin::OnUpdate()
       }
     }
 
-    for (std::vector<ThrusterControl>::iterator
-      ti = this->thrusterControls.begin();
-      ti != this->thrusterControls.end(); ++ti)
+    for (std::vector<ThrusterControl>::iterator ti = this->thrusterControls.begin(); ti != this->thrusterControls.end(); ++ti)
     {
-      if ((int)ch == ti->incKey)
+      if (ti->joint->GetName() == "thruster1")
       {
-        // spin up motor
-        ti->force += ti->incVal;
+        ti->force = this->cmds[kPropeller];
         gzerr << "force: " << ti->force << "\n";
       }
-      else if ((int)ch == ti->decKey)
-      {
-        ti->force -= ti->incVal;
-        gzerr << "force: " << ti->force << "\n";
-      }
-      else
-      {
-        // ungetc( ch, stdin );
-        // gzerr << (int)ch << " : " << this->clIncKey << "\n";
-      }
+
+      // if ((int)ch == ti->incKey)
+      // {
+      //   // spin up motor
+      //   ti->force += ti->incVal;
+      //   gzerr << "force: " << ti->force << "\n";
+      // }
+      // else if ((int)ch == ti->decKey)
+      // {
+      //   ti->force -= ti->incVal;
+      //   gzerr << "force: " << ti->force << "\n";
+      // }
+      // else
+      // {
+      //   // ungetc( ch, stdin );
+      //   // gzerr << (int)ch << " : " << this->clIncKey << "\n";
+      // }
     }
 
     for (std::vector<JointControl>::iterator ji = this->jointControls.begin();
       ji != this->jointControls.end(); ++ji)
     {
+
+      if (ji->joint->GetName() == "rudder_joint")
+      {
+        ji->cmd = this->cmds[kRudder];
+        ji->pid.SetCmd(ji->cmd);
+        gzerr << ji->joint->GetName()
+              << " cur: " << ji->joint->GetAngle(0).Radian()
+              << " cmd: " << ji->cmd << "\n";
+      }
+
+      else if (ji->joint->GetName() == "wing_right_joint")
+      {
+        ji->cmd = this->cmds[kRightAileron];
+        ji->pid.SetCmd(ji->cmd);
+        gzerr << ji->joint->GetName()
+              << " cur: " << ji->joint->GetAngle(0).Radian()
+              << " cmd: " << ji->cmd << "\n";
+      }
+
+      else if (ji->joint->GetName() == "wing_left_joint")
+      {
+        ji->cmd = this->cmds[kLeftAileron];
+        ji->pid.SetCmd(ji->cmd);
+        gzerr << ji->joint->GetName()
+              << " cur: " << ji->joint->GetAngle(0).Radian()
+              << " cmd: " << ji->cmd << "\n";
+      }
+
+      else if (ji->joint->GetName() == "elevator_joint")
+      {
+        ji->cmd = this->cmds[kElevators];
+        ji->pid.SetCmd(ji->cmd);
+        gzerr << ji->joint->GetName()
+              << " cur: " << ji->joint->GetAngle(0).Radian()
+              << " cmd: " << ji->cmd << "\n";
+      }
+
+
+/*
       if ((int)ch == ji->incKey)
       {
         // spin up motor
@@ -282,8 +405,10 @@ void PlaneDemoPlugin::OnUpdate()
         // ungetc( ch, stdin );
         // gzerr << (int)ch << " : " << this->clIncKey << "\n";
       }
+
+    */
     }
-  }
+  //}
 
   for (std::vector<EngineControl>::iterator ei = this->engineControls.begin();
     ei != this->engineControls.end(); ++ei)

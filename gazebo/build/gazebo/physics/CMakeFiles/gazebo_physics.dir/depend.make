@@ -83,6 +83,7 @@ gazebo/physics/CMakeFiles/gazebo_physics.dir/Actor.cc.o: /usr/include/sdformat-2
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Actor.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Actor.cc.o: gazebo/gazebo_config.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Actor.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/CMakeFiles/gazebo_physics.dir/Actor.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Actor.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Actor.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Actor.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -235,6 +236,7 @@ gazebo/physics/CMakeFiles/gazebo_physics.dir/Base.cc.o: /usr/include/sdformat-2.
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Base.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Base.cc.o: gazebo/gazebo_config.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Base.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/CMakeFiles/gazebo_physics.dir/Base.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Base.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Base.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Base.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -374,6 +376,7 @@ gazebo/physics/CMakeFiles/gazebo_physics.dir/BoxShape.cc.o: /usr/include/sdforma
 gazebo/physics/CMakeFiles/gazebo_physics.dir/BoxShape.cc.o: /usr/include/sdformat-2.2/sdf/sdf_config.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/BoxShape.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/CMakeFiles/gazebo_physics.dir/BoxShape.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/CMakeFiles/gazebo_physics.dir/BoxShape.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/BoxShape.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/BoxShape.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/BoxShape.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -551,6 +554,7 @@ gazebo/physics/CMakeFiles/gazebo_physics.dir/Collision.cc.o: /usr/include/sdform
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Collision.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Collision.cc.o: gazebo/gazebo_config.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Collision.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/CMakeFiles/gazebo_physics.dir/Collision.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Collision.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Collision.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Collision.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -700,6 +704,7 @@ gazebo/physics/CMakeFiles/gazebo_physics.dir/CollisionState.cc.o: /usr/include/s
 gazebo/physics/CMakeFiles/gazebo_physics.dir/CollisionState.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/CMakeFiles/gazebo_physics.dir/CollisionState.cc.o: gazebo/gazebo_config.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/CollisionState.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/CMakeFiles/gazebo_physics.dir/CollisionState.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/CollisionState.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/CollisionState.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/CollisionState.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -893,6 +898,7 @@ gazebo/physics/CMakeFiles/gazebo_physics.dir/Contact.cc.o: /usr/include/sdformat
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Contact.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Contact.cc.o: gazebo/gazebo_config.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Contact.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/CMakeFiles/gazebo_physics.dir/Contact.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Contact.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Contact.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Contact.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -1062,6 +1068,7 @@ gazebo/physics/CMakeFiles/gazebo_physics.dir/ContactManager.cc.o: /usr/include/s
 gazebo/physics/CMakeFiles/gazebo_physics.dir/ContactManager.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/CMakeFiles/gazebo_physics.dir/ContactManager.cc.o: gazebo/gazebo_config.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/ContactManager.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/CMakeFiles/gazebo_physics.dir/ContactManager.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/ContactManager.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/ContactManager.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/ContactManager.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -1201,6 +1208,7 @@ gazebo/physics/CMakeFiles/gazebo_physics.dir/CylinderShape.cc.o: /usr/include/sd
 gazebo/physics/CMakeFiles/gazebo_physics.dir/CylinderShape.cc.o: /usr/include/sdformat-2.2/sdf/sdf_config.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/CylinderShape.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/CMakeFiles/gazebo_physics.dir/CylinderShape.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/CMakeFiles/gazebo_physics.dir/CylinderShape.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/CylinderShape.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/CylinderShape.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/CylinderShape.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -1378,6 +1386,7 @@ gazebo/physics/CMakeFiles/gazebo_physics.dir/Entity.cc.o: /usr/include/sdformat-
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Entity.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Entity.cc.o: gazebo/gazebo_config.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Entity.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/CMakeFiles/gazebo_physics.dir/Entity.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Entity.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Entity.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Entity.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -1553,6 +1562,7 @@ gazebo/physics/CMakeFiles/gazebo_physics.dir/Gripper.cc.o: /usr/include/sdformat
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Gripper.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Gripper.cc.o: gazebo/gazebo_config.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Gripper.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/CMakeFiles/gazebo_physics.dir/Gripper.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Gripper.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Gripper.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Gripper.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -1732,6 +1742,7 @@ gazebo/physics/CMakeFiles/gazebo_physics.dir/HeightmapShape.cc.o: /usr/include/s
 gazebo/physics/CMakeFiles/gazebo_physics.dir/HeightmapShape.cc.o: gazebo/gazebo_config.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/HeightmapShape.cc.o: gazebo/math/gzmath.hh
 gazebo/physics/CMakeFiles/gazebo_physics.dir/HeightmapShape.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/CMakeFiles/gazebo_physics.dir/HeightmapShape.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/HeightmapShape.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/HeightmapShape.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/HeightmapShape.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -1868,6 +1879,7 @@ gazebo/physics/CMakeFiles/gazebo_physics.dir/Inertial.cc.o: /usr/include/sdforma
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Inertial.cc.o: /usr/include/sdformat-2.2/sdf/sdf_config.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Inertial.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Inertial.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/CMakeFiles/gazebo_physics.dir/Inertial.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Inertial.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Inertial.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Inertial.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -2044,6 +2056,7 @@ gazebo/physics/CMakeFiles/gazebo_physics.dir/Joint.cc.o: /usr/include/sdformat-2
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Joint.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Joint.cc.o: gazebo/gazebo_config.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Joint.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/CMakeFiles/gazebo_physics.dir/Joint.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Joint.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Joint.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Joint.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -2218,6 +2231,7 @@ gazebo/physics/CMakeFiles/gazebo_physics.dir/JointController.cc.o: /usr/include/
 gazebo/physics/CMakeFiles/gazebo_physics.dir/JointController.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/CMakeFiles/gazebo_physics.dir/JointController.cc.o: gazebo/gazebo_config.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/JointController.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/CMakeFiles/gazebo_physics.dir/JointController.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/JointController.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/JointController.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/JointController.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -2375,6 +2389,7 @@ gazebo/physics/CMakeFiles/gazebo_physics.dir/JointState.cc.o: /usr/include/sdfor
 gazebo/physics/CMakeFiles/gazebo_physics.dir/JointState.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/CMakeFiles/gazebo_physics.dir/JointState.cc.o: gazebo/gazebo_config.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/JointState.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/CMakeFiles/gazebo_physics.dir/JointState.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/JointState.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/JointState.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/JointState.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -2556,6 +2571,7 @@ gazebo/physics/CMakeFiles/gazebo_physics.dir/Link.cc.o: /usr/include/sdformat-2.
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Link.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Link.cc.o: gazebo/gazebo_config.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Link.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/CMakeFiles/gazebo_physics.dir/Link.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Link.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Link.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Link.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -2714,6 +2730,7 @@ gazebo/physics/CMakeFiles/gazebo_physics.dir/LinkState.cc.o: /usr/include/sdform
 gazebo/physics/CMakeFiles/gazebo_physics.dir/LinkState.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/CMakeFiles/gazebo_physics.dir/LinkState.cc.o: gazebo/gazebo_config.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/LinkState.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/CMakeFiles/gazebo_physics.dir/LinkState.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/LinkState.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/LinkState.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/LinkState.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -2871,6 +2888,7 @@ gazebo/physics/CMakeFiles/gazebo_physics.dir/MapShape.cc.o: /usr/include/sdforma
 gazebo/physics/CMakeFiles/gazebo_physics.dir/MapShape.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/CMakeFiles/gazebo_physics.dir/MapShape.cc.o: gazebo/gazebo_config.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/MapShape.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/CMakeFiles/gazebo_physics.dir/MapShape.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/MapShape.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/MapShape.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/MapShape.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -3030,6 +3048,7 @@ gazebo/physics/CMakeFiles/gazebo_physics.dir/MeshShape.cc.o: /usr/include/sdform
 gazebo/physics/CMakeFiles/gazebo_physics.dir/MeshShape.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/CMakeFiles/gazebo_physics.dir/MeshShape.cc.o: gazebo/gazebo_config.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/MeshShape.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/CMakeFiles/gazebo_physics.dir/MeshShape.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/MeshShape.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/MeshShape.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/MeshShape.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -3213,6 +3232,7 @@ gazebo/physics/CMakeFiles/gazebo_physics.dir/Model.cc.o: /usr/include/sdformat-2
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Model.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Model.cc.o: gazebo/gazebo_config.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Model.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/CMakeFiles/gazebo_physics.dir/Model.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Model.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Model.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Model.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -3371,6 +3391,7 @@ gazebo/physics/CMakeFiles/gazebo_physics.dir/ModelState.cc.o: /usr/include/sdfor
 gazebo/physics/CMakeFiles/gazebo_physics.dir/ModelState.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/CMakeFiles/gazebo_physics.dir/ModelState.cc.o: gazebo/gazebo_config.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/ModelState.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/CMakeFiles/gazebo_physics.dir/ModelState.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/ModelState.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/ModelState.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/ModelState.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -3520,6 +3541,7 @@ gazebo/physics/CMakeFiles/gazebo_physics.dir/MultiRayShape.cc.o: /usr/include/sd
 gazebo/physics/CMakeFiles/gazebo_physics.dir/MultiRayShape.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/CMakeFiles/gazebo_physics.dir/MultiRayShape.cc.o: gazebo/gazebo_config.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/MultiRayShape.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/CMakeFiles/gazebo_physics.dir/MultiRayShape.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/MultiRayShape.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/MultiRayShape.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/MultiRayShape.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -3695,6 +3717,7 @@ gazebo/physics/CMakeFiles/gazebo_physics.dir/PhysicsEngine.cc.o: /usr/include/sd
 gazebo/physics/CMakeFiles/gazebo_physics.dir/PhysicsEngine.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/CMakeFiles/gazebo_physics.dir/PhysicsEngine.cc.o: gazebo/gazebo_config.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/PhysicsEngine.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/CMakeFiles/gazebo_physics.dir/PhysicsEngine.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/PhysicsEngine.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/PhysicsEngine.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/PhysicsEngine.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -3846,6 +3869,7 @@ gazebo/physics/CMakeFiles/gazebo_physics.dir/PhysicsFactory.cc.o: /usr/include/s
 gazebo/physics/CMakeFiles/gazebo_physics.dir/PhysicsFactory.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/CMakeFiles/gazebo_physics.dir/PhysicsFactory.cc.o: gazebo/gazebo_config.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/PhysicsFactory.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/CMakeFiles/gazebo_physics.dir/PhysicsFactory.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/PhysicsFactory.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/PhysicsFactory.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/PhysicsFactory.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -3998,6 +4022,7 @@ gazebo/physics/CMakeFiles/gazebo_physics.dir/PhysicsIface.cc.o: /usr/include/sdf
 gazebo/physics/CMakeFiles/gazebo_physics.dir/PhysicsIface.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/CMakeFiles/gazebo_physics.dir/PhysicsIface.cc.o: gazebo/gazebo_config.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/PhysicsIface.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/CMakeFiles/gazebo_physics.dir/PhysicsIface.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/PhysicsIface.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/PhysicsIface.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/PhysicsIface.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -4145,6 +4170,7 @@ gazebo/physics/CMakeFiles/gazebo_physics.dir/PlaneShape.cc.o: /usr/include/sdfor
 gazebo/physics/CMakeFiles/gazebo_physics.dir/PlaneShape.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/CMakeFiles/gazebo_physics.dir/PlaneShape.cc.o: gazebo/gazebo_config.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/PlaneShape.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/CMakeFiles/gazebo_physics.dir/PlaneShape.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/PlaneShape.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/PlaneShape.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/PlaneShape.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -4288,6 +4314,7 @@ gazebo/physics/CMakeFiles/gazebo_physics.dir/PolylineShape.cc.o: /usr/include/sd
 gazebo/physics/CMakeFiles/gazebo_physics.dir/PolylineShape.cc.o: /usr/include/sdformat-2.2/sdf/sdf_config.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/PolylineShape.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/CMakeFiles/gazebo_physics.dir/PolylineShape.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/CMakeFiles/gazebo_physics.dir/PolylineShape.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/PolylineShape.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/PolylineShape.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/PolylineShape.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -4442,6 +4469,7 @@ gazebo/physics/CMakeFiles/gazebo_physics.dir/Population.cc.o: /usr/include/sdfor
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Population.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Population.cc.o: gazebo/gazebo_config.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Population.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/CMakeFiles/gazebo_physics.dir/Population.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Population.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Population.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Population.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -4589,6 +4617,7 @@ gazebo/physics/CMakeFiles/gazebo_physics.dir/RayShape.cc.o: /usr/include/sdforma
 gazebo/physics/CMakeFiles/gazebo_physics.dir/RayShape.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/CMakeFiles/gazebo_physics.dir/RayShape.cc.o: gazebo/gazebo_config.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/RayShape.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/CMakeFiles/gazebo_physics.dir/RayShape.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/RayShape.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/RayShape.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/RayShape.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -4746,6 +4775,7 @@ gazebo/physics/CMakeFiles/gazebo_physics.dir/Road.cc.o: /usr/include/sdformat-2.
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Road.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Road.cc.o: gazebo/gazebo_config.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Road.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/CMakeFiles/gazebo_physics.dir/Road.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Road.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Road.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Road.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -4893,6 +4923,7 @@ gazebo/physics/CMakeFiles/gazebo_physics.dir/Shape.cc.o: /usr/include/sdformat-2
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Shape.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Shape.cc.o: gazebo/gazebo_config.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Shape.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/CMakeFiles/gazebo_physics.dir/Shape.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Shape.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Shape.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/Shape.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -5032,6 +5063,7 @@ gazebo/physics/CMakeFiles/gazebo_physics.dir/SphereShape.cc.o: /usr/include/sdfo
 gazebo/physics/CMakeFiles/gazebo_physics.dir/SphereShape.cc.o: /usr/include/sdformat-2.2/sdf/sdf_config.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/SphereShape.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/CMakeFiles/gazebo_physics.dir/SphereShape.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/CMakeFiles/gazebo_physics.dir/SphereShape.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/SphereShape.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/SphereShape.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/SphereShape.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -5189,6 +5221,7 @@ gazebo/physics/CMakeFiles/gazebo_physics.dir/SurfaceParams.cc.o: /usr/include/sd
 gazebo/physics/CMakeFiles/gazebo_physics.dir/SurfaceParams.cc.o: /usr/include/sdformat-2.2/sdf/sdf_config.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/SurfaceParams.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/CMakeFiles/gazebo_physics.dir/SurfaceParams.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/CMakeFiles/gazebo_physics.dir/SurfaceParams.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/SurfaceParams.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/SurfaceParams.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/SurfaceParams.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -5385,6 +5418,7 @@ gazebo/physics/CMakeFiles/gazebo_physics.dir/World.cc.o: /usr/include/sdformat-2
 gazebo/physics/CMakeFiles/gazebo_physics.dir/World.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/CMakeFiles/gazebo_physics.dir/World.cc.o: gazebo/gazebo_config.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/World.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/CMakeFiles/gazebo_physics.dir/World.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/World.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/World.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/World.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -5537,6 +5571,7 @@ gazebo/physics/CMakeFiles/gazebo_physics.dir/WorldState.cc.o: /usr/include/sdfor
 gazebo/physics/CMakeFiles/gazebo_physics.dir/WorldState.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/CMakeFiles/gazebo_physics.dir/WorldState.cc.o: gazebo/gazebo_config.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/WorldState.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/CMakeFiles/gazebo_physics.dir/WorldState.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/WorldState.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/WorldState.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/CMakeFiles/gazebo_physics.dir/WorldState.cc.o: gazebo/msgs/camera_cmd.pb.h

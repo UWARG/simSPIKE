@@ -49,6 +49,7 @@ test/plugins/CMakeFiles/ForceTorqueModelRemovalTestPlugin.dir/ForceTorqueModelRe
 test/plugins/CMakeFiles/ForceTorqueModelRemovalTestPlugin.dir/ForceTorqueModelRemovalTestPlugin.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 test/plugins/CMakeFiles/ForceTorqueModelRemovalTestPlugin.dir/ForceTorqueModelRemovalTestPlugin.cc.o: gazebo/gazebo_config.h
 test/plugins/CMakeFiles/ForceTorqueModelRemovalTestPlugin.dir/ForceTorqueModelRemovalTestPlugin.cc.o: gazebo/msgs/MessageTypes.hh
+test/plugins/CMakeFiles/ForceTorqueModelRemovalTestPlugin.dir/ForceTorqueModelRemovalTestPlugin.cc.o: gazebo/msgs/aircraft.pb.h
 test/plugins/CMakeFiles/ForceTorqueModelRemovalTestPlugin.dir/ForceTorqueModelRemovalTestPlugin.cc.o: gazebo/msgs/axis.pb.h
 test/plugins/CMakeFiles/ForceTorqueModelRemovalTestPlugin.dir/ForceTorqueModelRemovalTestPlugin.cc.o: gazebo/msgs/boxgeom.pb.h
 test/plugins/CMakeFiles/ForceTorqueModelRemovalTestPlugin.dir/ForceTorqueModelRemovalTestPlugin.cc.o: gazebo/msgs/camera_cmd.pb.h

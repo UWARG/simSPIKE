@@ -209,6 +209,7 @@ test/regression/CMakeFiles/REGRESSION_978_joint_anchor.dir/978_joint_anchor.cc.o
 test/regression/CMakeFiles/REGRESSION_978_joint_anchor.dir/978_joint_anchor.cc.o: gazebo/gazebo_config.h
 test/regression/CMakeFiles/REGRESSION_978_joint_anchor.dir/978_joint_anchor.cc.o: gazebo/math/gzmath.hh
 test/regression/CMakeFiles/REGRESSION_978_joint_anchor.dir/978_joint_anchor.cc.o: gazebo/msgs/MessageTypes.hh
+test/regression/CMakeFiles/REGRESSION_978_joint_anchor.dir/978_joint_anchor.cc.o: gazebo/msgs/aircraft.pb.h
 test/regression/CMakeFiles/REGRESSION_978_joint_anchor.dir/978_joint_anchor.cc.o: gazebo/msgs/axis.pb.h
 test/regression/CMakeFiles/REGRESSION_978_joint_anchor.dir/978_joint_anchor.cc.o: gazebo/msgs/boxgeom.pb.h
 test/regression/CMakeFiles/REGRESSION_978_joint_anchor.dir/978_joint_anchor.cc.o: gazebo/msgs/camera_cmd.pb.h

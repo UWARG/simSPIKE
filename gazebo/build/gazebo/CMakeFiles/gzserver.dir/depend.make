@@ -41,6 +41,7 @@ gazebo/CMakeFiles/gzserver.dir/Master.cc.o: /usr/include/sdformat-2.2/sdf/sdf_co
 gazebo/CMakeFiles/gzserver.dir/Master.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/CMakeFiles/gzserver.dir/Master.cc.o: gazebo/gazebo_config.h
 gazebo/CMakeFiles/gzserver.dir/Master.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/CMakeFiles/gzserver.dir/Master.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/CMakeFiles/gzserver.dir/Master.cc.o: gazebo/msgs/axis.pb.h
 gazebo/CMakeFiles/gzserver.dir/Master.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/CMakeFiles/gzserver.dir/Master.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -255,6 +256,7 @@ gazebo/CMakeFiles/gzserver.dir/Server.cc.o: gazebo/common/common.hh
 gazebo/CMakeFiles/gzserver.dir/Server.cc.o: gazebo/gazebo_config.h
 gazebo/CMakeFiles/gzserver.dir/Server.cc.o: gazebo/math/gzmath.hh
 gazebo/CMakeFiles/gzserver.dir/Server.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/CMakeFiles/gzserver.dir/Server.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/CMakeFiles/gzserver.dir/Server.cc.o: gazebo/msgs/axis.pb.h
 gazebo/CMakeFiles/gzserver.dir/Server.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/CMakeFiles/gzserver.dir/Server.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -524,6 +526,7 @@ gazebo/CMakeFiles/gzserver.dir/gazebo.cc.o: gazebo/common/common.hh
 gazebo/CMakeFiles/gzserver.dir/gazebo.cc.o: gazebo/gazebo_config.h
 gazebo/CMakeFiles/gzserver.dir/gazebo.cc.o: gazebo/math/gzmath.hh
 gazebo/CMakeFiles/gzserver.dir/gazebo.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/CMakeFiles/gzserver.dir/gazebo.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/CMakeFiles/gzserver.dir/gazebo.cc.o: gazebo/msgs/axis.pb.h
 gazebo/CMakeFiles/gzserver.dir/gazebo.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/CMakeFiles/gzserver.dir/gazebo.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -670,6 +673,7 @@ gazebo/CMakeFiles/gzserver.dir/server_main.cc.o: /usr/include/sdformat-2.2/sdf/s
 gazebo/CMakeFiles/gzserver.dir/server_main.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/CMakeFiles/gzserver.dir/server_main.cc.o: gazebo/gazebo_config.h
 gazebo/CMakeFiles/gzserver.dir/server_main.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/CMakeFiles/gzserver.dir/server_main.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/CMakeFiles/gzserver.dir/server_main.cc.o: gazebo/msgs/axis.pb.h
 gazebo/CMakeFiles/gzserver.dir/server_main.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/CMakeFiles/gzserver.dir/server_main.cc.o: gazebo/msgs/camera_cmd.pb.h

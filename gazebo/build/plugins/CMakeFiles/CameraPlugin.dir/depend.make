@@ -65,6 +65,7 @@ plugins/CMakeFiles/CameraPlugin.dir/CameraPlugin.cc.o: /usr/include/sdformat-2.2
 plugins/CMakeFiles/CameraPlugin.dir/CameraPlugin.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 plugins/CMakeFiles/CameraPlugin.dir/CameraPlugin.cc.o: gazebo/gazebo_config.h
 plugins/CMakeFiles/CameraPlugin.dir/CameraPlugin.cc.o: gazebo/msgs/MessageTypes.hh
+plugins/CMakeFiles/CameraPlugin.dir/CameraPlugin.cc.o: gazebo/msgs/aircraft.pb.h
 plugins/CMakeFiles/CameraPlugin.dir/CameraPlugin.cc.o: gazebo/msgs/axis.pb.h
 plugins/CMakeFiles/CameraPlugin.dir/CameraPlugin.cc.o: gazebo/msgs/boxgeom.pb.h
 plugins/CMakeFiles/CameraPlugin.dir/CameraPlugin.cc.o: gazebo/msgs/camera_cmd.pb.h

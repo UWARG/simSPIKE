@@ -74,6 +74,7 @@ test/performance/CMakeFiles/PERFORMANCE_gz_stress.dir/gz_stress.cc.o: /usr/inclu
 test/performance/CMakeFiles/PERFORMANCE_gz_stress.dir/gz_stress.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 test/performance/CMakeFiles/PERFORMANCE_gz_stress.dir/gz_stress.cc.o: gazebo/gazebo_config.h
 test/performance/CMakeFiles/PERFORMANCE_gz_stress.dir/gz_stress.cc.o: gazebo/msgs/MessageTypes.hh
+test/performance/CMakeFiles/PERFORMANCE_gz_stress.dir/gz_stress.cc.o: gazebo/msgs/aircraft.pb.h
 test/performance/CMakeFiles/PERFORMANCE_gz_stress.dir/gz_stress.cc.o: gazebo/msgs/axis.pb.h
 test/performance/CMakeFiles/PERFORMANCE_gz_stress.dir/gz_stress.cc.o: gazebo/msgs/boxgeom.pb.h
 test/performance/CMakeFiles/PERFORMANCE_gz_stress.dir/gz_stress.cc.o: gazebo/msgs/camera_cmd.pb.h

@@ -227,6 +227,7 @@ test/integration/CMakeFiles/INTEGRATION_stress_spawn_models.dir/stress_spawn_mod
  gazebo/gazebo_config.h
  gazebo/math/gzmath.hh
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h

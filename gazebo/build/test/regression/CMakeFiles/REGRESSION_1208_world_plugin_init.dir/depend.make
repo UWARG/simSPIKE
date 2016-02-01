@@ -207,6 +207,7 @@ test/regression/CMakeFiles/REGRESSION_1208_world_plugin_init.dir/1208_world_plug
 test/regression/CMakeFiles/REGRESSION_1208_world_plugin_init.dir/1208_world_plugin_init.cc.o: gazebo/gazebo_config.h
 test/regression/CMakeFiles/REGRESSION_1208_world_plugin_init.dir/1208_world_plugin_init.cc.o: gazebo/math/gzmath.hh
 test/regression/CMakeFiles/REGRESSION_1208_world_plugin_init.dir/1208_world_plugin_init.cc.o: gazebo/msgs/MessageTypes.hh
+test/regression/CMakeFiles/REGRESSION_1208_world_plugin_init.dir/1208_world_plugin_init.cc.o: gazebo/msgs/aircraft.pb.h
 test/regression/CMakeFiles/REGRESSION_1208_world_plugin_init.dir/1208_world_plugin_init.cc.o: gazebo/msgs/axis.pb.h
 test/regression/CMakeFiles/REGRESSION_1208_world_plugin_init.dir/1208_world_plugin_init.cc.o: gazebo/msgs/boxgeom.pb.h
 test/regression/CMakeFiles/REGRESSION_1208_world_plugin_init.dir/1208_world_plugin_init.cc.o: gazebo/msgs/camera_cmd.pb.h

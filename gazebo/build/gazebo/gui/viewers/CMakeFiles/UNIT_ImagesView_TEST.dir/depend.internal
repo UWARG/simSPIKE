@@ -624,6 +624,7 @@ gazebo/gui/viewers/CMakeFiles/UNIT_ImagesView_TEST.dir/ImagesView_TEST.cc.o
  /usr/include/sdformat-2.2/sdf/system_util.hh
  gazebo/gazebo_config.h
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h
@@ -1379,6 +1380,7 @@ gazebo/gui/viewers/CMakeFiles/UNIT_ImagesView_TEST.dir/__/QTestFixture.cc.o
  gazebo/gazebo_config.h
  gazebo/math/gzmath.hh
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h
@@ -2102,6 +2104,7 @@ gazebo/gui/viewers/CMakeFiles/UNIT_ImagesView_TEST.dir/__/moc_QTestFixture.cxx.o
  /usr/include/sdformat-2.2/sdf/system_util.hh
  gazebo/gazebo_config.h
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h
@@ -2829,6 +2832,7 @@ gazebo/gui/viewers/CMakeFiles/UNIT_ImagesView_TEST.dir/moc_ImagesView_TEST.cxx.o
  /usr/include/sdformat-2.2/sdf/system_util.hh
  gazebo/gazebo_config.h
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h

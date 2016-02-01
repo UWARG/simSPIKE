@@ -209,6 +209,7 @@ test/regression/CMakeFiles/REGRESSION_494_joint_axis_frame.dir/494_joint_axis_fr
 test/regression/CMakeFiles/REGRESSION_494_joint_axis_frame.dir/494_joint_axis_frame.cc.o: gazebo/gazebo_config.h
 test/regression/CMakeFiles/REGRESSION_494_joint_axis_frame.dir/494_joint_axis_frame.cc.o: gazebo/math/gzmath.hh
 test/regression/CMakeFiles/REGRESSION_494_joint_axis_frame.dir/494_joint_axis_frame.cc.o: gazebo/msgs/MessageTypes.hh
+test/regression/CMakeFiles/REGRESSION_494_joint_axis_frame.dir/494_joint_axis_frame.cc.o: gazebo/msgs/aircraft.pb.h
 test/regression/CMakeFiles/REGRESSION_494_joint_axis_frame.dir/494_joint_axis_frame.cc.o: gazebo/msgs/axis.pb.h
 test/regression/CMakeFiles/REGRESSION_494_joint_axis_frame.dir/494_joint_axis_frame.cc.o: gazebo/msgs/boxgeom.pb.h
 test/regression/CMakeFiles/REGRESSION_494_joint_axis_frame.dir/494_joint_axis_frame.cc.o: gazebo/msgs/camera_cmd.pb.h

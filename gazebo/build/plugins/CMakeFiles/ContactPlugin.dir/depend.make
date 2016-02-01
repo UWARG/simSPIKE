@@ -127,6 +127,7 @@ plugins/CMakeFiles/ContactPlugin.dir/ContactPlugin.cc.o: /usr/include/sdformat-2
 plugins/CMakeFiles/ContactPlugin.dir/ContactPlugin.cc.o: gazebo/gazebo_config.h
 plugins/CMakeFiles/ContactPlugin.dir/ContactPlugin.cc.o: gazebo/math/gzmath.hh
 plugins/CMakeFiles/ContactPlugin.dir/ContactPlugin.cc.o: gazebo/msgs/MessageTypes.hh
+plugins/CMakeFiles/ContactPlugin.dir/ContactPlugin.cc.o: gazebo/msgs/aircraft.pb.h
 plugins/CMakeFiles/ContactPlugin.dir/ContactPlugin.cc.o: gazebo/msgs/axis.pb.h
 plugins/CMakeFiles/ContactPlugin.dir/ContactPlugin.cc.o: gazebo/msgs/boxgeom.pb.h
 plugins/CMakeFiles/ContactPlugin.dir/ContactPlugin.cc.o: gazebo/msgs/camera_cmd.pb.h

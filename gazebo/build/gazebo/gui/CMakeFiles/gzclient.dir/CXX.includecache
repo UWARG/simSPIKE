@@ -1010,14 +1010,6 @@ gazebo/common/Event.hh
 gazebo/util/system.hh
 ../gazebo/gui/gazebo/util/system.hh
 
-../gazebo/gui/SaveDialog.hh
-string
--
-gazebo/gui/qt.h
-../gazebo/gui/gazebo/gui/qt.h
-gazebo/util/system.hh
-../gazebo/gui/gazebo/util/system.hh
-
 ../gazebo/gui/SpaceNav.hh
 
 ../gazebo/gui/SpaceNavPrivate.hh
@@ -2330,33 +2322,13 @@ gazebo/util/system.hh
 
 ../gazebo/util/system.hh
 
-/home/mehatfie/GitHub/simSPIKE/gazebo/build/gazebo/gui/moc_Actions.cxx
-../../../gazebo/gui/Actions.hh
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/Actions.hh
-
-/home/mehatfie/GitHub/simSPIKE/gazebo/build/gazebo/gui/moc_AlignWidget.cxx
-../../../gazebo/gui/AlignWidget.hh
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/AlignWidget.hh
-
-/home/mehatfie/GitHub/simSPIKE/gazebo/build/gazebo/gui/moc_CloneWindow.cxx
-../../../gazebo/gui/CloneWindow.hh
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/CloneWindow.hh
-
 /home/mehatfie/GitHub/simSPIKE/gazebo/build/gazebo/gui/moc_DataLogger.cxx
 ../../../gazebo/gui/DataLogger.hh
 /home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/DataLogger.hh
 
-/home/mehatfie/GitHub/simSPIKE/gazebo/build/gazebo/gui/moc_Editor.cxx
-../../../gazebo/gui/Editor.hh
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/Editor.hh
-
 /home/mehatfie/GitHub/simSPIKE/gazebo/build/gazebo/gui/moc_GLWidget.cxx
 ../../../gazebo/gui/GLWidget.hh
 /home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/GLWidget.hh
-
-/home/mehatfie/GitHub/simSPIKE/gazebo/build/gazebo/gui/moc_InsertModelWidget.cxx
-../../../gazebo/gui/InsertModelWidget.hh
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/InsertModelWidget.hh
 
 /home/mehatfie/GitHub/simSPIKE/gazebo/build/gazebo/gui/moc_JointControlWidget.cxx
 ../../../gazebo/gui/JointControlWidget.hh
@@ -2378,43 +2350,9 @@ gazebo/util/system.hh
 ../../../gazebo/gui/ModelRightMenu.hh
 /home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/ModelRightMenu.hh
 
-/home/mehatfie/GitHub/simSPIKE/gazebo/build/gazebo/gui/moc_RenderWidget.cxx
-../../../gazebo/gui/RenderWidget.hh
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/RenderWidget.hh
-
-/home/mehatfie/GitHub/simSPIKE/gazebo/build/gazebo/gui/moc_SaveDialog.cxx
-../../../gazebo/gui/SaveDialog.hh
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/SaveDialog.hh
-
 /home/mehatfie/GitHub/simSPIKE/gazebo/build/gazebo/gui/moc_TimePanel.cxx
 ../../../gazebo/gui/TimePanel.hh
 /home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/TimePanel.hh
-
-/home/mehatfie/GitHub/simSPIKE/gazebo/build/gazebo/gui/moc_ToolsWidget.cxx
-../../../gazebo/gui/ToolsWidget.hh
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/ToolsWidget.hh
-
-/home/mehatfie/GitHub/simSPIKE/gazebo/build/gazebo/gui/moc_TopicSelector.cxx
-../../../gazebo/gui/TopicSelector.hh
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/TopicSelector.hh
-
-/home/mehatfie/GitHub/simSPIKE/gazebo/build/gazebo/gui/qrc_resources.cxx
-QtCore/qglobal.h
--
-
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/Actions.cc
-gazebo/gui/Actions.hh
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/gazebo/gui/Actions.hh
-gazebo/util/system.hh
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/gazebo/util/system.hh
-
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/Actions.hh
-string
--
-gazebo/gui/qt.h
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/gazebo/gui/qt.h
-gazebo/util/system.hh
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/gazebo/util/system.hh
 
 /home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/AlignWidget.cc
 gazebo/gui/GuiEvents.hh
@@ -2423,14 +2361,6 @@ gazebo/gui/AlignWidgetPrivate.hh
 /home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/gazebo/gui/AlignWidgetPrivate.hh
 gazebo/gui/AlignWidget.hh
 /home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/gazebo/gui/AlignWidget.hh
-
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/AlignWidget.hh
-string
--
-gazebo/gui/qt.h
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/gazebo/gui/qt.h
-gazebo/util/system.hh
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/gazebo/util/system.hh
 
 /home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/BoxMaker.cc
 sstream
@@ -2451,18 +2381,6 @@ gazebo/transport/Publisher.hh
 /home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/gazebo/transport/Publisher.hh
 gazebo/gui/BoxMaker.hh
 /home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/gazebo/gui/BoxMaker.hh
-
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/CloneWindow.cc
-gazebo/gui/CloneWindow.hh
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/gazebo/gui/CloneWindow.hh
-gazebo/gui/qt.h
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/gazebo/gui/qt.h
-
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/CloneWindow.hh
-gazebo/gui/qt.h
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/gazebo/gui/qt.h
-gazebo/util/system.hh
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/gazebo/util/system.hh
 
 /home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/CylinderMaker.cc
 sstream
@@ -2511,18 +2429,6 @@ gazebo/gui/MainWindow.hh
 /home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/gazebo/gui/MainWindow.hh
 gazebo/gui/Editor.hh
 /home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/gazebo/gui/Editor.hh
-
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/Editor.hh
-string
--
-vector
--
-gazebo/gui/qt.h
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/gazebo/gui/qt.h
-gazebo/common/Event.hh
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/gazebo/common/Event.hh
-gazebo/util/system.hh
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/gazebo/util/system.hh
 
 /home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/EntityMaker.cc
 gazebo/transport/TransportIface.hh
@@ -2692,16 +2598,6 @@ gazebo/gui/InsertModelWidgetPrivate.hh
 gazebo/gui/InsertModelWidget.hh
 /home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/gazebo/gui/InsertModelWidget.hh
 
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/InsertModelWidget.hh
-string
--
-map
--
-gazebo/gui/qt.h
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/gazebo/gui/qt.h
-gazebo/util/system.hh
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/gazebo/util/system.hh
-
 /home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/JointControlWidget.cc
 gazebo/transport/Node.hh
 /home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/gazebo/transport/Node.hh
@@ -2725,10 +2621,6 @@ gazebo/transport/TransportTypes.hh
 /home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/gazebo/transport/TransportTypes.hh
 gazebo/util/system.hh
 /home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/gazebo/util/system.hh
-
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/KeyEventHandler.cc
-gazebo/gui/KeyEventHandler.hh
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/gazebo/gui/KeyEventHandler.hh
 
 /home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/LightMaker.cc
 iostream
@@ -3130,10 +3022,6 @@ gazebo/gui/ModelSnapPrivate.hh
 gazebo/gui/ModelSnap.hh
 /home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/gazebo/gui/ModelSnap.hh
 
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/MouseEventHandler.cc
-gazebo/gui/MouseEventHandler.hh
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/gazebo/gui/MouseEventHandler.hh
-
 /home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/RenderWidget.cc
 iomanip
 -
@@ -3159,34 +3047,6 @@ gazebo/gui/RenderWidget.hh
 /home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/gazebo/gui/RenderWidget.hh
 gazebo/gui/building/BuildingEditorWidget.hh
 /home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/gazebo/gui/building/BuildingEditorWidget.hh
-
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/RenderWidget.hh
-string
--
-vector
--
-gazebo/gui/qt.h
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/gazebo/gui/qt.h
-gazebo/common/Event.hh
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/gazebo/common/Event.hh
-gazebo/util/system.hh
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/gazebo/util/system.hh
-
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/SaveDialog.cc
-boost/filesystem.hpp
--
-gazebo/common/Console.hh
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/gazebo/common/Console.hh
-gazebo/gui/SaveDialog.hh
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/gazebo/gui/SaveDialog.hh
-
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/SaveDialog.hh
-string
--
-gazebo/gui/qt.h
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/gazebo/gui/qt.h
-gazebo/util/system.hh
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/gazebo/util/system.hh
 
 /home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/SpaceNav.cc
 gazebo/gazebo_config.h
@@ -3260,37 +3120,11 @@ gazebo/gui/JointControlWidget.hh
 gazebo/gui/ToolsWidget.hh
 /home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/gazebo/gui/ToolsWidget.hh
 
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/ToolsWidget.hh
-vector
--
-string
--
-gazebo/common/Event.hh
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/gazebo/common/Event.hh
-gazebo/gui/qt.h
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/gazebo/gui/qt.h
-gazebo/util/system.hh
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/gazebo/util/system.hh
-
 /home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/TopicSelector.cc
 gazebo/transport/transport.hh
 /home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/gazebo/transport/transport.hh
 gazebo/gui/TopicSelector.hh
 /home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/gazebo/gui/TopicSelector.hh
-
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/TopicSelector.hh
-string
--
-gazebo/common/Time.hh
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/gazebo/common/Time.hh
-gazebo/gui/qt.h
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/gazebo/gui/qt.h
-gazebo/util/system.hh
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/gazebo/util/system.hh
-
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/main.cc
-gazebo/gui/GuiIface.hh
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/gazebo/gui/GuiIface.hh
 
 /usr/include/qt4/Qt3Support/q3cstring.h
 QtCore/qbytearray.h
@@ -7457,6 +7291,8 @@ gazebo/math/Vector4.hh
 gazebo/math/gazebo/math/Vector4.hh
 
 gazebo/msgs/MessageTypes.hh
+aircraft.pb.h
+gazebo/msgs/aircraft.pb.h
 axis.pb.h
 gazebo/msgs/axis.pb.h
 boxgeom.pb.h
@@ -7659,6 +7495,26 @@ wrench.pb.h
 gazebo/msgs/wrench.pb.h
 wrench_stamped.pb.h
 gazebo/msgs/wrench_stamped.pb.h
+
+gazebo/msgs/aircraft.pb.h
+string
+-
+google/protobuf/stubs/common.h
+-
+google/protobuf/generated_message_util.h
+-
+google/protobuf/message.h
+-
+google/protobuf/repeated_field.h
+-
+google/protobuf/extension_set.h
+-
+google/protobuf/unknown_field_set.h
+-
+boost/shared_ptr.hpp
+-
+gazebo/msgs/MsgFactory.hh
+gazebo/msgs/gazebo/msgs/MsgFactory.hh
 
 gazebo/msgs/axis.pb.h
 string

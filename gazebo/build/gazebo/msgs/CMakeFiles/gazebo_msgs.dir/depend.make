@@ -5,6 +5,11 @@ gazebo/msgs/CMakeFiles/gazebo_msgs.dir/MsgFactory.cc.o: ../gazebo/msgs/MsgFactor
 gazebo/msgs/CMakeFiles/gazebo_msgs.dir/MsgFactory.cc.o: ../gazebo/util/system.hh
 gazebo/msgs/CMakeFiles/gazebo_msgs.dir/MsgFactory.cc.o: ../gazebo/msgs/MsgFactory.cc
 
+gazebo/msgs/CMakeFiles/gazebo_msgs.dir/aircraft.pb.cc.o: ../gazebo/msgs/MsgFactory.hh
+gazebo/msgs/CMakeFiles/gazebo_msgs.dir/aircraft.pb.cc.o: ../gazebo/util/system.hh
+gazebo/msgs/CMakeFiles/gazebo_msgs.dir/aircraft.pb.cc.o: gazebo/msgs/aircraft.pb.cc
+gazebo/msgs/CMakeFiles/gazebo_msgs.dir/aircraft.pb.cc.o: gazebo/msgs/aircraft.pb.h
+
 gazebo/msgs/CMakeFiles/gazebo_msgs.dir/axis.pb.cc.o: ../gazebo/msgs/MsgFactory.hh
 gazebo/msgs/CMakeFiles/gazebo_msgs.dir/axis.pb.cc.o: ../gazebo/util/system.hh
 gazebo/msgs/CMakeFiles/gazebo_msgs.dir/axis.pb.cc.o: gazebo/msgs/axis.pb.cc
@@ -561,6 +566,7 @@ gazebo/msgs/CMakeFiles/gazebo_msgs.dir/msgs.cc.o: /usr/include/sdformat-2.2/sdf/
 gazebo/msgs/CMakeFiles/gazebo_msgs.dir/msgs.cc.o: /usr/include/sdformat-2.2/sdf/sdf_config.h
 gazebo/msgs/CMakeFiles/gazebo_msgs.dir/msgs.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/msgs/CMakeFiles/gazebo_msgs.dir/msgs.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/msgs/CMakeFiles/gazebo_msgs.dir/msgs.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/msgs/CMakeFiles/gazebo_msgs.dir/msgs.cc.o: gazebo/msgs/axis.pb.h
 gazebo/msgs/CMakeFiles/gazebo_msgs.dir/msgs.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/msgs/CMakeFiles/gazebo_msgs.dir/msgs.cc.o: gazebo/msgs/camera_cmd.pb.h

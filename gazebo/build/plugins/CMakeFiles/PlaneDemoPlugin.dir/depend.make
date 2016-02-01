@@ -150,6 +150,7 @@ plugins/CMakeFiles/PlaneDemoPlugin.dir/PlaneDemoPlugin.cc.o: gazebo/common/commo
 plugins/CMakeFiles/PlaneDemoPlugin.dir/PlaneDemoPlugin.cc.o: gazebo/gazebo_config.h
 plugins/CMakeFiles/PlaneDemoPlugin.dir/PlaneDemoPlugin.cc.o: gazebo/math/gzmath.hh
 plugins/CMakeFiles/PlaneDemoPlugin.dir/PlaneDemoPlugin.cc.o: gazebo/msgs/MessageTypes.hh
+plugins/CMakeFiles/PlaneDemoPlugin.dir/PlaneDemoPlugin.cc.o: gazebo/msgs/aircraft.pb.h
 plugins/CMakeFiles/PlaneDemoPlugin.dir/PlaneDemoPlugin.cc.o: gazebo/msgs/axis.pb.h
 plugins/CMakeFiles/PlaneDemoPlugin.dir/PlaneDemoPlugin.cc.o: gazebo/msgs/boxgeom.pb.h
 plugins/CMakeFiles/PlaneDemoPlugin.dir/PlaneDemoPlugin.cc.o: gazebo/msgs/camera_cmd.pb.h

@@ -481,6 +481,7 @@ gazebo/gui/building/CMakeFiles/gazebo_gui_building.dir/BuildingEditor.cc.o: /usr
 gazebo/gui/building/CMakeFiles/gazebo_gui_building.dir/BuildingEditor.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/gui/building/CMakeFiles/gazebo_gui_building.dir/BuildingEditor.cc.o: gazebo/gazebo_config.h
 gazebo/gui/building/CMakeFiles/gazebo_gui_building.dir/BuildingEditor.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/gui/building/CMakeFiles/gazebo_gui_building.dir/BuildingEditor.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/gui/building/CMakeFiles/gazebo_gui_building.dir/BuildingEditor.cc.o: gazebo/msgs/axis.pb.h
 gazebo/gui/building/CMakeFiles/gazebo_gui_building.dir/BuildingEditor.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/gui/building/CMakeFiles/gazebo_gui_building.dir/BuildingEditor.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -1993,6 +1994,7 @@ gazebo/gui/building/CMakeFiles/gazebo_gui_building.dir/BuildingMaker.cc.o: /usr/
 gazebo/gui/building/CMakeFiles/gazebo_gui_building.dir/BuildingMaker.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/gui/building/CMakeFiles/gazebo_gui_building.dir/BuildingMaker.cc.o: gazebo/gazebo_config.h
 gazebo/gui/building/CMakeFiles/gazebo_gui_building.dir/BuildingMaker.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/gui/building/CMakeFiles/gazebo_gui_building.dir/BuildingMaker.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/gui/building/CMakeFiles/gazebo_gui_building.dir/BuildingMaker.cc.o: gazebo/msgs/axis.pb.h
 gazebo/gui/building/CMakeFiles/gazebo_gui_building.dir/BuildingMaker.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/gui/building/CMakeFiles/gazebo_gui_building.dir/BuildingMaker.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -2568,6 +2570,7 @@ gazebo/gui/building/CMakeFiles/gazebo_gui_building.dir/BuildingModelManip.cc.o: 
 gazebo/gui/building/CMakeFiles/gazebo_gui_building.dir/BuildingModelManip.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/gui/building/CMakeFiles/gazebo_gui_building.dir/BuildingModelManip.cc.o: gazebo/gazebo_config.h
 gazebo/gui/building/CMakeFiles/gazebo_gui_building.dir/BuildingModelManip.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/gui/building/CMakeFiles/gazebo_gui_building.dir/BuildingModelManip.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/gui/building/CMakeFiles/gazebo_gui_building.dir/BuildingModelManip.cc.o: gazebo/msgs/axis.pb.h
 gazebo/gui/building/CMakeFiles/gazebo_gui_building.dir/BuildingModelManip.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/gui/building/CMakeFiles/gazebo_gui_building.dir/BuildingModelManip.cc.o: gazebo/msgs/camera_cmd.pb.h

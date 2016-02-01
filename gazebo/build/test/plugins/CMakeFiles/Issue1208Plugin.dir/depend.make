@@ -146,6 +146,7 @@ test/plugins/CMakeFiles/Issue1208Plugin.dir/Issue1208Plugin.cc.o: gazebo/common/
 test/plugins/CMakeFiles/Issue1208Plugin.dir/Issue1208Plugin.cc.o: gazebo/gazebo_config.h
 test/plugins/CMakeFiles/Issue1208Plugin.dir/Issue1208Plugin.cc.o: gazebo/math/gzmath.hh
 test/plugins/CMakeFiles/Issue1208Plugin.dir/Issue1208Plugin.cc.o: gazebo/msgs/MessageTypes.hh
+test/plugins/CMakeFiles/Issue1208Plugin.dir/Issue1208Plugin.cc.o: gazebo/msgs/aircraft.pb.h
 test/plugins/CMakeFiles/Issue1208Plugin.dir/Issue1208Plugin.cc.o: gazebo/msgs/axis.pb.h
 test/plugins/CMakeFiles/Issue1208Plugin.dir/Issue1208Plugin.cc.o: gazebo/msgs/boxgeom.pb.h
 test/plugins/CMakeFiles/Issue1208Plugin.dir/Issue1208Plugin.cc.o: gazebo/msgs/camera_cmd.pb.h

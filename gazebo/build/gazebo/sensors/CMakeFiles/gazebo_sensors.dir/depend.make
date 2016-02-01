@@ -76,6 +76,7 @@ gazebo/sensors/CMakeFiles/gazebo_sensors.dir/CameraSensor.cc.o: /usr/include/sdf
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/CameraSensor.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/CameraSensor.cc.o: gazebo/gazebo_config.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/CameraSensor.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/sensors/CMakeFiles/gazebo_sensors.dir/CameraSensor.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/CameraSensor.cc.o: gazebo/msgs/axis.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/CameraSensor.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/CameraSensor.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -252,6 +253,7 @@ gazebo/sensors/CMakeFiles/gazebo_sensors.dir/ContactSensor.cc.o: /usr/include/sd
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/ContactSensor.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/ContactSensor.cc.o: gazebo/gazebo_config.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/ContactSensor.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/sensors/CMakeFiles/gazebo_sensors.dir/ContactSensor.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/ContactSensor.cc.o: gazebo/msgs/axis.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/ContactSensor.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/ContactSensor.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -429,6 +431,7 @@ gazebo/sensors/CMakeFiles/gazebo_sensors.dir/DepthCameraSensor.cc.o: /usr/includ
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/DepthCameraSensor.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/DepthCameraSensor.cc.o: gazebo/gazebo_config.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/DepthCameraSensor.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/sensors/CMakeFiles/gazebo_sensors.dir/DepthCameraSensor.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/DepthCameraSensor.cc.o: gazebo/msgs/axis.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/DepthCameraSensor.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/DepthCameraSensor.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -601,6 +604,7 @@ gazebo/sensors/CMakeFiles/gazebo_sensors.dir/ForceTorqueSensor.cc.o: /usr/includ
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/ForceTorqueSensor.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/ForceTorqueSensor.cc.o: gazebo/gazebo_config.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/ForceTorqueSensor.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/sensors/CMakeFiles/gazebo_sensors.dir/ForceTorqueSensor.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/ForceTorqueSensor.cc.o: gazebo/msgs/axis.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/ForceTorqueSensor.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/ForceTorqueSensor.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -762,6 +766,7 @@ gazebo/sensors/CMakeFiles/gazebo_sensors.dir/GaussianNoiseModel.cc.o: /usr/inclu
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/GaussianNoiseModel.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/GaussianNoiseModel.cc.o: gazebo/gazebo_config.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/GaussianNoiseModel.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/sensors/CMakeFiles/gazebo_sensors.dir/GaussianNoiseModel.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/GaussianNoiseModel.cc.o: gazebo/msgs/axis.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/GaussianNoiseModel.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/GaussianNoiseModel.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -1008,6 +1013,7 @@ gazebo/sensors/CMakeFiles/gazebo_sensors.dir/GpsSensor.cc.o: gazebo/common/commo
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/GpsSensor.cc.o: gazebo/gazebo_config.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/GpsSensor.cc.o: gazebo/math/gzmath.hh
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/GpsSensor.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/sensors/CMakeFiles/gazebo_sensors.dir/GpsSensor.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/GpsSensor.cc.o: gazebo/msgs/axis.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/GpsSensor.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/GpsSensor.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -1192,6 +1198,7 @@ gazebo/sensors/CMakeFiles/gazebo_sensors.dir/GpuRaySensor.cc.o: /usr/include/sdf
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/GpuRaySensor.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/GpuRaySensor.cc.o: gazebo/gazebo_config.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/GpuRaySensor.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/sensors/CMakeFiles/gazebo_sensors.dir/GpuRaySensor.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/GpuRaySensor.cc.o: gazebo/msgs/axis.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/GpuRaySensor.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/GpuRaySensor.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -1369,6 +1376,7 @@ gazebo/sensors/CMakeFiles/gazebo_sensors.dir/ImuSensor.cc.o: /usr/include/sdform
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/ImuSensor.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/ImuSensor.cc.o: gazebo/gazebo_config.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/ImuSensor.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/sensors/CMakeFiles/gazebo_sensors.dir/ImuSensor.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/ImuSensor.cc.o: gazebo/msgs/axis.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/ImuSensor.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/ImuSensor.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -1546,6 +1554,7 @@ gazebo/sensors/CMakeFiles/gazebo_sensors.dir/MultiCameraSensor.cc.o: /usr/includ
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/MultiCameraSensor.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/MultiCameraSensor.cc.o: gazebo/gazebo_config.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/MultiCameraSensor.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/sensors/CMakeFiles/gazebo_sensors.dir/MultiCameraSensor.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/MultiCameraSensor.cc.o: gazebo/msgs/axis.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/MultiCameraSensor.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/MultiCameraSensor.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -1790,6 +1799,7 @@ gazebo/sensors/CMakeFiles/gazebo_sensors.dir/RFIDSensor.cc.o: /usr/include/sdfor
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/RFIDSensor.cc.o: gazebo/gazebo_config.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/RFIDSensor.cc.o: gazebo/math/gzmath.hh
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/RFIDSensor.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/sensors/CMakeFiles/gazebo_sensors.dir/RFIDSensor.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/RFIDSensor.cc.o: gazebo/msgs/axis.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/RFIDSensor.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/RFIDSensor.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -2012,6 +2022,7 @@ gazebo/sensors/CMakeFiles/gazebo_sensors.dir/RFIDTag.cc.o: /usr/include/sdformat
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/RFIDTag.cc.o: gazebo/gazebo_config.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/RFIDTag.cc.o: gazebo/math/gzmath.hh
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/RFIDTag.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/sensors/CMakeFiles/gazebo_sensors.dir/RFIDTag.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/RFIDTag.cc.o: gazebo/msgs/axis.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/RFIDTag.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/RFIDTag.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -2192,6 +2203,7 @@ gazebo/sensors/CMakeFiles/gazebo_sensors.dir/RaySensor.cc.o: /usr/include/sdform
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/RaySensor.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/RaySensor.cc.o: gazebo/gazebo_config.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/RaySensor.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/sensors/CMakeFiles/gazebo_sensors.dir/RaySensor.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/RaySensor.cc.o: gazebo/msgs/axis.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/RaySensor.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/RaySensor.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -2370,6 +2382,7 @@ gazebo/sensors/CMakeFiles/gazebo_sensors.dir/Sensor.cc.o: /usr/include/sdformat-
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/Sensor.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/Sensor.cc.o: gazebo/gazebo_config.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/Sensor.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/sensors/CMakeFiles/gazebo_sensors.dir/Sensor.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/Sensor.cc.o: gazebo/msgs/axis.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/Sensor.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/Sensor.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -2518,6 +2531,7 @@ gazebo/sensors/CMakeFiles/gazebo_sensors.dir/SensorFactory.cc.o: /usr/include/sd
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/SensorFactory.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/SensorFactory.cc.o: gazebo/gazebo_config.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/SensorFactory.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/sensors/CMakeFiles/gazebo_sensors.dir/SensorFactory.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/SensorFactory.cc.o: gazebo/msgs/axis.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/SensorFactory.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/SensorFactory.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -2677,6 +2691,7 @@ gazebo/sensors/CMakeFiles/gazebo_sensors.dir/SensorManager.cc.o: /usr/include/sd
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/SensorManager.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/SensorManager.cc.o: gazebo/gazebo_config.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/SensorManager.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/sensors/CMakeFiles/gazebo_sensors.dir/SensorManager.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/SensorManager.cc.o: gazebo/msgs/axis.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/SensorManager.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/SensorManager.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -2840,6 +2855,7 @@ gazebo/sensors/CMakeFiles/gazebo_sensors.dir/SensorsIface.cc.o: /usr/include/sdf
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/SensorsIface.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/SensorsIface.cc.o: gazebo/gazebo_config.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/SensorsIface.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/sensors/CMakeFiles/gazebo_sensors.dir/SensorsIface.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/SensorsIface.cc.o: gazebo/msgs/axis.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/SensorsIface.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/SensorsIface.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -3019,6 +3035,7 @@ gazebo/sensors/CMakeFiles/gazebo_sensors.dir/SonarSensor.cc.o: /usr/include/sdfo
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/SonarSensor.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/SonarSensor.cc.o: gazebo/gazebo_config.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/SonarSensor.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/sensors/CMakeFiles/gazebo_sensors.dir/SonarSensor.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/SonarSensor.cc.o: gazebo/msgs/axis.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/SonarSensor.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/SonarSensor.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -3234,6 +3251,7 @@ gazebo/sensors/CMakeFiles/gazebo_sensors.dir/WirelessReceiver.cc.o: /usr/include
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/WirelessReceiver.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/WirelessReceiver.cc.o: gazebo/gazebo_config.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/WirelessReceiver.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/sensors/CMakeFiles/gazebo_sensors.dir/WirelessReceiver.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/WirelessReceiver.cc.o: gazebo/msgs/axis.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/WirelessReceiver.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/WirelessReceiver.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -3448,6 +3466,7 @@ gazebo/sensors/CMakeFiles/gazebo_sensors.dir/WirelessTransceiver.cc.o: /usr/incl
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/WirelessTransceiver.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/WirelessTransceiver.cc.o: gazebo/gazebo_config.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/WirelessTransceiver.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/sensors/CMakeFiles/gazebo_sensors.dir/WirelessTransceiver.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/WirelessTransceiver.cc.o: gazebo/msgs/axis.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/WirelessTransceiver.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/WirelessTransceiver.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -3662,6 +3681,7 @@ gazebo/sensors/CMakeFiles/gazebo_sensors.dir/WirelessTransmitter.cc.o: /usr/incl
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/WirelessTransmitter.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/WirelessTransmitter.cc.o: gazebo/gazebo_config.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/WirelessTransmitter.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/sensors/CMakeFiles/gazebo_sensors.dir/WirelessTransmitter.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/WirelessTransmitter.cc.o: gazebo/msgs/axis.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/WirelessTransmitter.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/sensors/CMakeFiles/gazebo_sensors.dir/WirelessTransmitter.cc.o: gazebo/msgs/camera_cmd.pb.h

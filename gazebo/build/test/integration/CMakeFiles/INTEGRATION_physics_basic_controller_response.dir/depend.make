@@ -208,6 +208,7 @@ test/integration/CMakeFiles/INTEGRATION_physics_basic_controller_response.dir/ph
 test/integration/CMakeFiles/INTEGRATION_physics_basic_controller_response.dir/physics_basic_controller_response.cc.o: gazebo/gazebo_config.h
 test/integration/CMakeFiles/INTEGRATION_physics_basic_controller_response.dir/physics_basic_controller_response.cc.o: gazebo/math/gzmath.hh
 test/integration/CMakeFiles/INTEGRATION_physics_basic_controller_response.dir/physics_basic_controller_response.cc.o: gazebo/msgs/MessageTypes.hh
+test/integration/CMakeFiles/INTEGRATION_physics_basic_controller_response.dir/physics_basic_controller_response.cc.o: gazebo/msgs/aircraft.pb.h
 test/integration/CMakeFiles/INTEGRATION_physics_basic_controller_response.dir/physics_basic_controller_response.cc.o: gazebo/msgs/axis.pb.h
 test/integration/CMakeFiles/INTEGRATION_physics_basic_controller_response.dir/physics_basic_controller_response.cc.o: gazebo/msgs/boxgeom.pb.h
 test/integration/CMakeFiles/INTEGRATION_physics_basic_controller_response.dir/physics_basic_controller_response.cc.o: gazebo/msgs/camera_cmd.pb.h

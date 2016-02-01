@@ -208,6 +208,7 @@ test/regression/CMakeFiles/REGRESSION_1112_force_torque_model_removal.dir/1112_f
  gazebo/gazebo_config.h
  gazebo/math/gzmath.hh
  gazebo/msgs/MessageTypes.hh
+ gazebo/msgs/aircraft.pb.h
  gazebo/msgs/axis.pb.h
  gazebo/msgs/boxgeom.pb.h
  gazebo/msgs/camera_cmd.pb.h

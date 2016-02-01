@@ -64,6 +64,24 @@ namespace gazebo
     /// \brief SDF for this plugin;
     protected: sdf::ElementPtr sdf;
 
+    /// \brief Joint indexes.
+    private: static const unsigned int kLeftAileron  = 0;
+    private: static const unsigned int kLeftFlap     = 1;
+    private: static const unsigned int kRightAileron = 2;
+    private: static const unsigned int kRightFlap    = 3;
+    private: static const unsigned int kElevators    = 4;
+    private: static const unsigned int kRudder       = 5;
+    private: static const unsigned int kPropeller    = 6;
+
+    /// \brief Node used for using Gazebo communications.
+    private: transport::NodePtr node;
+
+    /// \brief Publisher pointer.
+    private: transport::PublisherPtr statePub;
+
+    /// \brief Next command to be applied to the propeller and control surfaces.
+    private: float cmds[7];
+
     class EngineControl
     {
       public: std::string name;

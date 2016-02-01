@@ -74,6 +74,7 @@ tools/CMakeFiles/UNIT_gz_TEST.dir/gz_TEST.cc.o: /usr/include/sdformat-2.2/sdf/sd
 tools/CMakeFiles/UNIT_gz_TEST.dir/gz_TEST.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 tools/CMakeFiles/UNIT_gz_TEST.dir/gz_TEST.cc.o: gazebo/gazebo_config.h
 tools/CMakeFiles/UNIT_gz_TEST.dir/gz_TEST.cc.o: gazebo/msgs/MessageTypes.hh
+tools/CMakeFiles/UNIT_gz_TEST.dir/gz_TEST.cc.o: gazebo/msgs/aircraft.pb.h
 tools/CMakeFiles/UNIT_gz_TEST.dir/gz_TEST.cc.o: gazebo/msgs/axis.pb.h
 tools/CMakeFiles/UNIT_gz_TEST.dir/gz_TEST.cc.o: gazebo/msgs/boxgeom.pb.h
 tools/CMakeFiles/UNIT_gz_TEST.dir/gz_TEST.cc.o: gazebo/msgs/camera_cmd.pb.h

@@ -207,6 +207,7 @@ gazebo/physics/CMakeFiles/UNIT_Inertial_TEST.dir/Inertial_TEST.cc.o: /usr/includ
 gazebo/physics/CMakeFiles/UNIT_Inertial_TEST.dir/Inertial_TEST.cc.o: gazebo/gazebo_config.h
 gazebo/physics/CMakeFiles/UNIT_Inertial_TEST.dir/Inertial_TEST.cc.o: gazebo/math/gzmath.hh
 gazebo/physics/CMakeFiles/UNIT_Inertial_TEST.dir/Inertial_TEST.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/CMakeFiles/UNIT_Inertial_TEST.dir/Inertial_TEST.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/CMakeFiles/UNIT_Inertial_TEST.dir/Inertial_TEST.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/CMakeFiles/UNIT_Inertial_TEST.dir/Inertial_TEST.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/CMakeFiles/UNIT_Inertial_TEST.dir/Inertial_TEST.cc.o: gazebo/msgs/camera_cmd.pb.h

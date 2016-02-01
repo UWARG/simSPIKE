@@ -66,6 +66,7 @@ plugins/CMakeFiles/DepthCameraPlugin.dir/DepthCameraPlugin.cc.o: /usr/include/sd
 plugins/CMakeFiles/DepthCameraPlugin.dir/DepthCameraPlugin.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 plugins/CMakeFiles/DepthCameraPlugin.dir/DepthCameraPlugin.cc.o: gazebo/gazebo_config.h
 plugins/CMakeFiles/DepthCameraPlugin.dir/DepthCameraPlugin.cc.o: gazebo/msgs/MessageTypes.hh
+plugins/CMakeFiles/DepthCameraPlugin.dir/DepthCameraPlugin.cc.o: gazebo/msgs/aircraft.pb.h
 plugins/CMakeFiles/DepthCameraPlugin.dir/DepthCameraPlugin.cc.o: gazebo/msgs/axis.pb.h
 plugins/CMakeFiles/DepthCameraPlugin.dir/DepthCameraPlugin.cc.o: gazebo/msgs/boxgeom.pb.h
 plugins/CMakeFiles/DepthCameraPlugin.dir/DepthCameraPlugin.cc.o: gazebo/msgs/camera_cmd.pb.h

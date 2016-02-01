@@ -60,6 +60,7 @@ gazebo/physics/CMakeFiles/UNIT_CylinderShape_TEST.dir/CylinderShape_TEST.cc.o: /
 gazebo/physics/CMakeFiles/UNIT_CylinderShape_TEST.dir/CylinderShape_TEST.cc.o: /usr/include/sdformat-2.2/sdf/sdf_config.h
 gazebo/physics/CMakeFiles/UNIT_CylinderShape_TEST.dir/CylinderShape_TEST.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/CMakeFiles/UNIT_CylinderShape_TEST.dir/CylinderShape_TEST.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/CMakeFiles/UNIT_CylinderShape_TEST.dir/CylinderShape_TEST.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/CMakeFiles/UNIT_CylinderShape_TEST.dir/CylinderShape_TEST.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/CMakeFiles/UNIT_CylinderShape_TEST.dir/CylinderShape_TEST.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/CMakeFiles/UNIT_CylinderShape_TEST.dir/CylinderShape_TEST.cc.o: gazebo/msgs/camera_cmd.pb.h

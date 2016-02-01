@@ -83,6 +83,7 @@ d05998070d5061bc1cff5a23b003cac7 gazebo/gui/terrain/qrc_resources.cxx
 2c13c8b9c844acaf8b5f7d11d68c9c92 gazebo/gui/viewers/qrc_resources.cxx
 15b6d70d8493a60fed8726b3a7db1211 gazebo/gzserver.1
 d5883f1dfc902232bfeedf6cfb801710 gazebo/gzserver.1.gz
+ea08be10e006b043f784437356355542 gazebo/msgs/aircraft.pb.cc
 e5efd89876e1e415bd46ae6db031df7e gazebo/msgs/axis.pb.cc
 9d9e43f154d9d259284a21a58e2969ca gazebo/msgs/boxgeom.pb.cc
 cac469690e0af4e5f29f20159f197686 gazebo/msgs/camera_cmd.pb.cc

@@ -78,6 +78,7 @@ gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEBallJoint.cc.o: /usr/inc
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEBallJoint.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEBallJoint.cc.o: gazebo/gazebo_config.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEBallJoint.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEBallJoint.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEBallJoint.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEBallJoint.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEBallJoint.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -265,6 +266,7 @@ gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODECollision.cc.o: /usr/inc
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODECollision.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODECollision.cc.o: gazebo/gazebo_config.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODECollision.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODECollision.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODECollision.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODECollision.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODECollision.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -452,6 +454,7 @@ gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEGearboxJoint.cc.o: /usr/
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEGearboxJoint.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEGearboxJoint.cc.o: gazebo/gazebo_config.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEGearboxJoint.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEGearboxJoint.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEGearboxJoint.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEGearboxJoint.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEGearboxJoint.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -633,6 +636,7 @@ gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEHeightmapShape.cc.o: /us
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEHeightmapShape.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEHeightmapShape.cc.o: gazebo/gazebo_config.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEHeightmapShape.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEHeightmapShape.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEHeightmapShape.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEHeightmapShape.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEHeightmapShape.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -819,6 +823,7 @@ gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEHinge2Joint.cc.o: /usr/i
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEHinge2Joint.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEHinge2Joint.cc.o: gazebo/gazebo_config.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEHinge2Joint.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEHinge2Joint.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEHinge2Joint.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEHinge2Joint.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEHinge2Joint.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -1005,6 +1010,7 @@ gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEHingeJoint.cc.o: /usr/in
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEHingeJoint.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEHingeJoint.cc.o: gazebo/gazebo_config.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEHingeJoint.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEHingeJoint.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEHingeJoint.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEHingeJoint.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEHingeJoint.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -1195,6 +1201,7 @@ gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEJoint.cc.o: /usr/include
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEJoint.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEJoint.cc.o: gazebo/gazebo_config.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEJoint.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEJoint.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEJoint.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEJoint.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEJoint.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -1387,6 +1394,7 @@ gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODELink.cc.o: /usr/include/
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODELink.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODELink.cc.o: gazebo/gazebo_config.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODELink.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODELink.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODELink.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODELink.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODELink.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -1568,6 +1576,7 @@ gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEMesh.cc.o: /usr/include/
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEMesh.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEMesh.cc.o: gazebo/gazebo_config.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEMesh.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEMesh.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEMesh.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEMesh.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEMesh.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -1750,6 +1759,7 @@ gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEMeshShape.cc.o: /usr/inc
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEMeshShape.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEMeshShape.cc.o: gazebo/gazebo_config.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEMeshShape.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEMeshShape.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEMeshShape.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEMeshShape.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEMeshShape.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -1943,6 +1953,7 @@ gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEMultiRayShape.cc.o: /usr
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEMultiRayShape.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEMultiRayShape.cc.o: gazebo/gazebo_config.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEMultiRayShape.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEMultiRayShape.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEMultiRayShape.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEMultiRayShape.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEMultiRayShape.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -2178,6 +2189,7 @@ gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEPhysics.cc.o: /usr/inclu
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEPhysics.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEPhysics.cc.o: gazebo/gazebo_config.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEPhysics.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEPhysics.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEPhysics.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEPhysics.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEPhysics.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -2360,6 +2372,7 @@ gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEPolylineShape.cc.o: /usr
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEPolylineShape.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEPolylineShape.cc.o: gazebo/gazebo_config.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEPolylineShape.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEPolylineShape.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEPolylineShape.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEPolylineShape.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEPolylineShape.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -2549,6 +2562,7 @@ gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODERayShape.cc.o: /usr/incl
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODERayShape.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODERayShape.cc.o: gazebo/gazebo_config.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODERayShape.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODERayShape.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODERayShape.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODERayShape.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODERayShape.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -2735,6 +2749,7 @@ gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEScrewJoint.cc.o: /usr/in
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEScrewJoint.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEScrewJoint.cc.o: gazebo/gazebo_config.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEScrewJoint.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEScrewJoint.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEScrewJoint.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEScrewJoint.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEScrewJoint.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -2921,6 +2936,7 @@ gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODESliderJoint.cc.o: /usr/i
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODESliderJoint.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODESliderJoint.cc.o: gazebo/gazebo_config.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODESliderJoint.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODESliderJoint.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODESliderJoint.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODESliderJoint.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODESliderJoint.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -3059,6 +3075,7 @@ gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODESurfaceParams.cc.o: /usr
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODESurfaceParams.cc.o: /usr/include/sdformat-2.2/sdf/sdf_config.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODESurfaceParams.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODESurfaceParams.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODESurfaceParams.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODESurfaceParams.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODESurfaceParams.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODESurfaceParams.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -3246,6 +3263,7 @@ gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEUniversalJoint.cc.o: /us
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEUniversalJoint.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEUniversalJoint.cc.o: gazebo/gazebo_config.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEUniversalJoint.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEUniversalJoint.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEUniversalJoint.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEUniversalJoint.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/ode/CMakeFiles/gazebo_physics_ode.dir/ODEUniversalJoint.cc.o: gazebo/msgs/camera_cmd.pb.h

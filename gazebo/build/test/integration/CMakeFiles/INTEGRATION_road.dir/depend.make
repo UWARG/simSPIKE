@@ -209,6 +209,7 @@ test/integration/CMakeFiles/INTEGRATION_road.dir/road.cc.o: /usr/include/sdforma
 test/integration/CMakeFiles/INTEGRATION_road.dir/road.cc.o: gazebo/gazebo_config.h
 test/integration/CMakeFiles/INTEGRATION_road.dir/road.cc.o: gazebo/math/gzmath.hh
 test/integration/CMakeFiles/INTEGRATION_road.dir/road.cc.o: gazebo/msgs/MessageTypes.hh
+test/integration/CMakeFiles/INTEGRATION_road.dir/road.cc.o: gazebo/msgs/aircraft.pb.h
 test/integration/CMakeFiles/INTEGRATION_road.dir/road.cc.o: gazebo/msgs/axis.pb.h
 test/integration/CMakeFiles/INTEGRATION_road.dir/road.cc.o: gazebo/msgs/boxgeom.pb.h
 test/integration/CMakeFiles/INTEGRATION_road.dir/road.cc.o: gazebo/msgs/camera_cmd.pb.h

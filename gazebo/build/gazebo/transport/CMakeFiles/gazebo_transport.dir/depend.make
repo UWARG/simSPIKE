@@ -38,6 +38,7 @@ gazebo/transport/CMakeFiles/gazebo_transport.dir/CallbackHelper.cc.o: /usr/inclu
 gazebo/transport/CMakeFiles/gazebo_transport.dir/CallbackHelper.cc.o: /usr/include/sdformat-2.2/sdf/sdf_config.h
 gazebo/transport/CMakeFiles/gazebo_transport.dir/CallbackHelper.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/transport/CMakeFiles/gazebo_transport.dir/CallbackHelper.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/transport/CMakeFiles/gazebo_transport.dir/CallbackHelper.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/transport/CMakeFiles/gazebo_transport.dir/CallbackHelper.cc.o: gazebo/msgs/axis.pb.h
 gazebo/transport/CMakeFiles/gazebo_transport.dir/CallbackHelper.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/transport/CMakeFiles/gazebo_transport.dir/CallbackHelper.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -182,6 +183,7 @@ gazebo/transport/CMakeFiles/gazebo_transport.dir/Connection.cc.o: /usr/include/s
 gazebo/transport/CMakeFiles/gazebo_transport.dir/Connection.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/transport/CMakeFiles/gazebo_transport.dir/Connection.cc.o: gazebo/gazebo_config.h
 gazebo/transport/CMakeFiles/gazebo_transport.dir/Connection.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/transport/CMakeFiles/gazebo_transport.dir/Connection.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/transport/CMakeFiles/gazebo_transport.dir/Connection.cc.o: gazebo/msgs/axis.pb.h
 gazebo/transport/CMakeFiles/gazebo_transport.dir/Connection.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/transport/CMakeFiles/gazebo_transport.dir/Connection.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -335,6 +337,7 @@ gazebo/transport/CMakeFiles/gazebo_transport.dir/ConnectionManager.cc.o: /usr/in
 gazebo/transport/CMakeFiles/gazebo_transport.dir/ConnectionManager.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/transport/CMakeFiles/gazebo_transport.dir/ConnectionManager.cc.o: gazebo/gazebo_config.h
 gazebo/transport/CMakeFiles/gazebo_transport.dir/ConnectionManager.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/transport/CMakeFiles/gazebo_transport.dir/ConnectionManager.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/transport/CMakeFiles/gazebo_transport.dir/ConnectionManager.cc.o: gazebo/msgs/axis.pb.h
 gazebo/transport/CMakeFiles/gazebo_transport.dir/ConnectionManager.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/transport/CMakeFiles/gazebo_transport.dir/ConnectionManager.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -492,6 +495,7 @@ gazebo/transport/CMakeFiles/gazebo_transport.dir/Node.cc.o: /usr/include/sdforma
 gazebo/transport/CMakeFiles/gazebo_transport.dir/Node.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/transport/CMakeFiles/gazebo_transport.dir/Node.cc.o: gazebo/gazebo_config.h
 gazebo/transport/CMakeFiles/gazebo_transport.dir/Node.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/transport/CMakeFiles/gazebo_transport.dir/Node.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/transport/CMakeFiles/gazebo_transport.dir/Node.cc.o: gazebo/msgs/axis.pb.h
 gazebo/transport/CMakeFiles/gazebo_transport.dir/Node.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/transport/CMakeFiles/gazebo_transport.dir/Node.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -648,6 +652,7 @@ gazebo/transport/CMakeFiles/gazebo_transport.dir/Publication.cc.o: /usr/include/
 gazebo/transport/CMakeFiles/gazebo_transport.dir/Publication.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/transport/CMakeFiles/gazebo_transport.dir/Publication.cc.o: gazebo/gazebo_config.h
 gazebo/transport/CMakeFiles/gazebo_transport.dir/Publication.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/transport/CMakeFiles/gazebo_transport.dir/Publication.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/transport/CMakeFiles/gazebo_transport.dir/Publication.cc.o: gazebo/msgs/axis.pb.h
 gazebo/transport/CMakeFiles/gazebo_transport.dir/Publication.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/transport/CMakeFiles/gazebo_transport.dir/Publication.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -799,6 +804,7 @@ gazebo/transport/CMakeFiles/gazebo_transport.dir/PublicationTransport.cc.o: /usr
 gazebo/transport/CMakeFiles/gazebo_transport.dir/PublicationTransport.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/transport/CMakeFiles/gazebo_transport.dir/PublicationTransport.cc.o: gazebo/gazebo_config.h
 gazebo/transport/CMakeFiles/gazebo_transport.dir/PublicationTransport.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/transport/CMakeFiles/gazebo_transport.dir/PublicationTransport.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/transport/CMakeFiles/gazebo_transport.dir/PublicationTransport.cc.o: gazebo/msgs/axis.pb.h
 gazebo/transport/CMakeFiles/gazebo_transport.dir/PublicationTransport.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/transport/CMakeFiles/gazebo_transport.dir/PublicationTransport.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -951,6 +957,7 @@ gazebo/transport/CMakeFiles/gazebo_transport.dir/Publisher.cc.o: /usr/include/sd
 gazebo/transport/CMakeFiles/gazebo_transport.dir/Publisher.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/transport/CMakeFiles/gazebo_transport.dir/Publisher.cc.o: gazebo/gazebo_config.h
 gazebo/transport/CMakeFiles/gazebo_transport.dir/Publisher.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/transport/CMakeFiles/gazebo_transport.dir/Publisher.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/transport/CMakeFiles/gazebo_transport.dir/Publisher.cc.o: gazebo/msgs/axis.pb.h
 gazebo/transport/CMakeFiles/gazebo_transport.dir/Publisher.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/transport/CMakeFiles/gazebo_transport.dir/Publisher.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -1103,6 +1110,7 @@ gazebo/transport/CMakeFiles/gazebo_transport.dir/Subscriber.cc.o: /usr/include/s
 gazebo/transport/CMakeFiles/gazebo_transport.dir/Subscriber.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/transport/CMakeFiles/gazebo_transport.dir/Subscriber.cc.o: gazebo/gazebo_config.h
 gazebo/transport/CMakeFiles/gazebo_transport.dir/Subscriber.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/transport/CMakeFiles/gazebo_transport.dir/Subscriber.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/transport/CMakeFiles/gazebo_transport.dir/Subscriber.cc.o: gazebo/msgs/axis.pb.h
 gazebo/transport/CMakeFiles/gazebo_transport.dir/Subscriber.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/transport/CMakeFiles/gazebo_transport.dir/Subscriber.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -1248,6 +1256,7 @@ gazebo/transport/CMakeFiles/gazebo_transport.dir/SubscriptionTransport.cc.o: /us
 gazebo/transport/CMakeFiles/gazebo_transport.dir/SubscriptionTransport.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/transport/CMakeFiles/gazebo_transport.dir/SubscriptionTransport.cc.o: gazebo/gazebo_config.h
 gazebo/transport/CMakeFiles/gazebo_transport.dir/SubscriptionTransport.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/transport/CMakeFiles/gazebo_transport.dir/SubscriptionTransport.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/transport/CMakeFiles/gazebo_transport.dir/SubscriptionTransport.cc.o: gazebo/msgs/axis.pb.h
 gazebo/transport/CMakeFiles/gazebo_transport.dir/SubscriptionTransport.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/transport/CMakeFiles/gazebo_transport.dir/SubscriptionTransport.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -1400,6 +1409,7 @@ gazebo/transport/CMakeFiles/gazebo_transport.dir/TopicManager.cc.o: /usr/include
 gazebo/transport/CMakeFiles/gazebo_transport.dir/TopicManager.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/transport/CMakeFiles/gazebo_transport.dir/TopicManager.cc.o: gazebo/gazebo_config.h
 gazebo/transport/CMakeFiles/gazebo_transport.dir/TopicManager.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/transport/CMakeFiles/gazebo_transport.dir/TopicManager.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/transport/CMakeFiles/gazebo_transport.dir/TopicManager.cc.o: gazebo/msgs/axis.pb.h
 gazebo/transport/CMakeFiles/gazebo_transport.dir/TopicManager.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/transport/CMakeFiles/gazebo_transport.dir/TopicManager.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -1553,6 +1563,7 @@ gazebo/transport/CMakeFiles/gazebo_transport.dir/TransportIface.cc.o: /usr/inclu
 gazebo/transport/CMakeFiles/gazebo_transport.dir/TransportIface.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/transport/CMakeFiles/gazebo_transport.dir/TransportIface.cc.o: gazebo/gazebo_config.h
 gazebo/transport/CMakeFiles/gazebo_transport.dir/TransportIface.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/transport/CMakeFiles/gazebo_transport.dir/TransportIface.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/transport/CMakeFiles/gazebo_transport.dir/TransportIface.cc.o: gazebo/msgs/axis.pb.h
 gazebo/transport/CMakeFiles/gazebo_transport.dir/TransportIface.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/transport/CMakeFiles/gazebo_transport.dir/TransportIface.cc.o: gazebo/msgs/camera_cmd.pb.h

@@ -208,6 +208,7 @@ test/integration/CMakeFiles/INTEGRATION_server_fixture.dir/server_fixture.cc.o: 
 test/integration/CMakeFiles/INTEGRATION_server_fixture.dir/server_fixture.cc.o: gazebo/gazebo_config.h
 test/integration/CMakeFiles/INTEGRATION_server_fixture.dir/server_fixture.cc.o: gazebo/math/gzmath.hh
 test/integration/CMakeFiles/INTEGRATION_server_fixture.dir/server_fixture.cc.o: gazebo/msgs/MessageTypes.hh
+test/integration/CMakeFiles/INTEGRATION_server_fixture.dir/server_fixture.cc.o: gazebo/msgs/aircraft.pb.h
 test/integration/CMakeFiles/INTEGRATION_server_fixture.dir/server_fixture.cc.o: gazebo/msgs/axis.pb.h
 test/integration/CMakeFiles/INTEGRATION_server_fixture.dir/server_fixture.cc.o: gazebo/msgs/boxgeom.pb.h
 test/integration/CMakeFiles/INTEGRATION_server_fixture.dir/server_fixture.cc.o: gazebo/msgs/camera_cmd.pb.h

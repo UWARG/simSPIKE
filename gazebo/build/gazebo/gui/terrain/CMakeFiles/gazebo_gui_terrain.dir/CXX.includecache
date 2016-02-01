@@ -926,18 +926,6 @@ gazebo/util/system.hh
 
 ../gazebo/util/system.hh
 
-/home/mehatfie/GitHub/simSPIKE/gazebo/build/gazebo/gui/terrain/moc_TerrainEditor.cxx
-../../../../gazebo/gui/terrain/TerrainEditor.hh
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/terrain/TerrainEditor.hh
-
-/home/mehatfie/GitHub/simSPIKE/gazebo/build/gazebo/gui/terrain/moc_TerrainEditorPalette.cxx
-../../../../gazebo/gui/terrain/TerrainEditorPalette.hh
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/terrain/TerrainEditorPalette.hh
-
-/home/mehatfie/GitHub/simSPIKE/gazebo/build/gazebo/gui/terrain/qrc_resources.cxx
-QtCore/qglobal.h
--
-
 /home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/terrain/TerrainEditor.cc
 gazebo/gui/qt.h
 /home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/terrain/gazebo/gui/qt.h
@@ -949,14 +937,6 @@ gazebo/gui/terrain/TerrainEditorPalette.hh
 /home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/terrain/gazebo/gui/terrain/TerrainEditorPalette.hh
 gazebo/gui/terrain/TerrainEditor.hh
 /home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/terrain/gazebo/gui/terrain/TerrainEditor.hh
-
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/terrain/TerrainEditor.hh
-gazebo/gui/qt.h
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/terrain/gazebo/gui/qt.h
-gazebo/gui/Editor.hh
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/terrain/gazebo/gui/Editor.hh
-gazebo/util/system.hh
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/terrain/gazebo/util/system.hh
 
 /home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/terrain/TerrainEditorPalette.cc
 gazebo/rendering/Heightmap.hh
@@ -973,20 +953,6 @@ gazebo/gui/GuiEvents.hh
 /home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/terrain/gazebo/gui/GuiEvents.hh
 gazebo/gui/terrain/TerrainEditorPalette.hh
 /home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/terrain/gazebo/gui/terrain/TerrainEditorPalette.hh
-
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/terrain/TerrainEditorPalette.hh
-string
--
-gazebo/rendering/RenderTypes.hh
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/terrain/gazebo/rendering/RenderTypes.hh
-gazebo/common/Event.hh
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/terrain/gazebo/common/Event.hh
-gazebo/common/MouseEvent.hh
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/terrain/gazebo/common/MouseEvent.hh
-gazebo/gui/qt.h
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/terrain/gazebo/gui/qt.h
-gazebo/util/system.hh
-/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/gui/terrain/gazebo/util/system.hh
 
 /usr/include/qt4/Qt3Support/q3cstring.h
 QtCore/qbytearray.h
@@ -4931,6 +4897,8 @@ google/heap-checker.h
 -
 
 gazebo/msgs/MessageTypes.hh
+aircraft.pb.h
+gazebo/msgs/aircraft.pb.h
 axis.pb.h
 gazebo/msgs/axis.pb.h
 boxgeom.pb.h
@@ -5133,6 +5101,26 @@ wrench.pb.h
 gazebo/msgs/wrench.pb.h
 wrench_stamped.pb.h
 gazebo/msgs/wrench_stamped.pb.h
+
+gazebo/msgs/aircraft.pb.h
+string
+-
+google/protobuf/stubs/common.h
+-
+google/protobuf/generated_message_util.h
+-
+google/protobuf/message.h
+-
+google/protobuf/repeated_field.h
+-
+google/protobuf/extension_set.h
+-
+google/protobuf/unknown_field_set.h
+-
+boost/shared_ptr.hpp
+-
+gazebo/msgs/MsgFactory.hh
+gazebo/msgs/gazebo/msgs/MsgFactory.hh
 
 gazebo/msgs/axis.pb.h
 string

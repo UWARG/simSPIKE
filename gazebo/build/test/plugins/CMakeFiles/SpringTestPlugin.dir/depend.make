@@ -98,6 +98,7 @@ test/plugins/CMakeFiles/SpringTestPlugin.dir/SpringTestPlugin.cc.o: /usr/include
 test/plugins/CMakeFiles/SpringTestPlugin.dir/SpringTestPlugin.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 test/plugins/CMakeFiles/SpringTestPlugin.dir/SpringTestPlugin.cc.o: gazebo/gazebo_config.h
 test/plugins/CMakeFiles/SpringTestPlugin.dir/SpringTestPlugin.cc.o: gazebo/msgs/MessageTypes.hh
+test/plugins/CMakeFiles/SpringTestPlugin.dir/SpringTestPlugin.cc.o: gazebo/msgs/aircraft.pb.h
 test/plugins/CMakeFiles/SpringTestPlugin.dir/SpringTestPlugin.cc.o: gazebo/msgs/axis.pb.h
 test/plugins/CMakeFiles/SpringTestPlugin.dir/SpringTestPlugin.cc.o: gazebo/msgs/boxgeom.pb.h
 test/plugins/CMakeFiles/SpringTestPlugin.dir/SpringTestPlugin.cc.o: gazebo/msgs/camera_cmd.pb.h

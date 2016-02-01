@@ -207,6 +207,7 @@ test/regression/CMakeFiles/REGRESSION_346_save_lights.dir/346_save_lights.cc.o: 
 test/regression/CMakeFiles/REGRESSION_346_save_lights.dir/346_save_lights.cc.o: gazebo/gazebo_config.h
 test/regression/CMakeFiles/REGRESSION_346_save_lights.dir/346_save_lights.cc.o: gazebo/math/gzmath.hh
 test/regression/CMakeFiles/REGRESSION_346_save_lights.dir/346_save_lights.cc.o: gazebo/msgs/MessageTypes.hh
+test/regression/CMakeFiles/REGRESSION_346_save_lights.dir/346_save_lights.cc.o: gazebo/msgs/aircraft.pb.h
 test/regression/CMakeFiles/REGRESSION_346_save_lights.dir/346_save_lights.cc.o: gazebo/msgs/axis.pb.h
 test/regression/CMakeFiles/REGRESSION_346_save_lights.dir/346_save_lights.cc.o: gazebo/msgs/boxgeom.pb.h
 test/regression/CMakeFiles/REGRESSION_346_save_lights.dir/346_save_lights.cc.o: gazebo/msgs/camera_cmd.pb.h

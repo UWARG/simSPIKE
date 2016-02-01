@@ -68,6 +68,7 @@ ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "shli
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "headers")
   FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/gazebo-4.0/gazebo/msgs" TYPE FILE FILES
+    "/home/mehatfie/GitHub/simSPIKE/gazebo/build/gazebo/msgs/aircraft.pb.h"
     "/home/mehatfie/GitHub/simSPIKE/gazebo/build/gazebo/msgs/axis.pb.h"
     "/home/mehatfie/GitHub/simSPIKE/gazebo/build/gazebo/msgs/boxgeom.pb.h"
     "/home/mehatfie/GitHub/simSPIKE/gazebo/build/gazebo/msgs/camerasensor.pb.h"
@@ -177,6 +178,7 @@ ENDIF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "head
 
 IF(NOT CMAKE_INSTALL_COMPONENT OR "${CMAKE_INSTALL_COMPONENT}" STREQUAL "headers")
   FILE(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/gazebo-4.0/gazebo/msgs/proto" TYPE FILE FILES
+    "/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/msgs/aircraft.proto"
     "/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/msgs/axis.proto"
     "/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/msgs/boxgeom.proto"
     "/home/mehatfie/GitHub/simSPIKE/gazebo/gazebo/msgs/camerasensor.proto"

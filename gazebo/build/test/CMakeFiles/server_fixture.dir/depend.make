@@ -207,6 +207,7 @@ test/CMakeFiles/server_fixture.dir/ServerFixture.cc.o: /usr/include/sdformat-2.2
 test/CMakeFiles/server_fixture.dir/ServerFixture.cc.o: gazebo/gazebo_config.h
 test/CMakeFiles/server_fixture.dir/ServerFixture.cc.o: gazebo/math/gzmath.hh
 test/CMakeFiles/server_fixture.dir/ServerFixture.cc.o: gazebo/msgs/MessageTypes.hh
+test/CMakeFiles/server_fixture.dir/ServerFixture.cc.o: gazebo/msgs/aircraft.pb.h
 test/CMakeFiles/server_fixture.dir/ServerFixture.cc.o: gazebo/msgs/axis.pb.h
 test/CMakeFiles/server_fixture.dir/ServerFixture.cc.o: gazebo/msgs/boxgeom.pb.h
 test/CMakeFiles/server_fixture.dir/ServerFixture.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -354,6 +355,7 @@ test/CMakeFiles/server_fixture.dir/__/gazebo/Master.cc.o: /usr/include/sdformat-
 test/CMakeFiles/server_fixture.dir/__/gazebo/Master.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 test/CMakeFiles/server_fixture.dir/__/gazebo/Master.cc.o: gazebo/gazebo_config.h
 test/CMakeFiles/server_fixture.dir/__/gazebo/Master.cc.o: gazebo/msgs/MessageTypes.hh
+test/CMakeFiles/server_fixture.dir/__/gazebo/Master.cc.o: gazebo/msgs/aircraft.pb.h
 test/CMakeFiles/server_fixture.dir/__/gazebo/Master.cc.o: gazebo/msgs/axis.pb.h
 test/CMakeFiles/server_fixture.dir/__/gazebo/Master.cc.o: gazebo/msgs/boxgeom.pb.h
 test/CMakeFiles/server_fixture.dir/__/gazebo/Master.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -568,6 +570,7 @@ test/CMakeFiles/server_fixture.dir/__/gazebo/Server.cc.o: gazebo/common/common.h
 test/CMakeFiles/server_fixture.dir/__/gazebo/Server.cc.o: gazebo/gazebo_config.h
 test/CMakeFiles/server_fixture.dir/__/gazebo/Server.cc.o: gazebo/math/gzmath.hh
 test/CMakeFiles/server_fixture.dir/__/gazebo/Server.cc.o: gazebo/msgs/MessageTypes.hh
+test/CMakeFiles/server_fixture.dir/__/gazebo/Server.cc.o: gazebo/msgs/aircraft.pb.h
 test/CMakeFiles/server_fixture.dir/__/gazebo/Server.cc.o: gazebo/msgs/axis.pb.h
 test/CMakeFiles/server_fixture.dir/__/gazebo/Server.cc.o: gazebo/msgs/boxgeom.pb.h
 test/CMakeFiles/server_fixture.dir/__/gazebo/Server.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -837,6 +840,7 @@ test/CMakeFiles/server_fixture.dir/__/gazebo/gazebo.cc.o: gazebo/common/common.h
 test/CMakeFiles/server_fixture.dir/__/gazebo/gazebo.cc.o: gazebo/gazebo_config.h
 test/CMakeFiles/server_fixture.dir/__/gazebo/gazebo.cc.o: gazebo/math/gzmath.hh
 test/CMakeFiles/server_fixture.dir/__/gazebo/gazebo.cc.o: gazebo/msgs/MessageTypes.hh
+test/CMakeFiles/server_fixture.dir/__/gazebo/gazebo.cc.o: gazebo/msgs/aircraft.pb.h
 test/CMakeFiles/server_fixture.dir/__/gazebo/gazebo.cc.o: gazebo/msgs/axis.pb.h
 test/CMakeFiles/server_fixture.dir/__/gazebo/gazebo.cc.o: gazebo/msgs/boxgeom.pb.h
 test/CMakeFiles/server_fixture.dir/__/gazebo/gazebo.cc.o: gazebo/msgs/camera_cmd.pb.h

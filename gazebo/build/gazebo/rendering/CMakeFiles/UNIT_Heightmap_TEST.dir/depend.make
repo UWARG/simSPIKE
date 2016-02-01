@@ -207,6 +207,7 @@ gazebo/rendering/CMakeFiles/UNIT_Heightmap_TEST.dir/Heightmap_TEST.cc.o: /usr/in
 gazebo/rendering/CMakeFiles/UNIT_Heightmap_TEST.dir/Heightmap_TEST.cc.o: gazebo/gazebo_config.h
 gazebo/rendering/CMakeFiles/UNIT_Heightmap_TEST.dir/Heightmap_TEST.cc.o: gazebo/math/gzmath.hh
 gazebo/rendering/CMakeFiles/UNIT_Heightmap_TEST.dir/Heightmap_TEST.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/rendering/CMakeFiles/UNIT_Heightmap_TEST.dir/Heightmap_TEST.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/rendering/CMakeFiles/UNIT_Heightmap_TEST.dir/Heightmap_TEST.cc.o: gazebo/msgs/axis.pb.h
 gazebo/rendering/CMakeFiles/UNIT_Heightmap_TEST.dir/Heightmap_TEST.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/rendering/CMakeFiles/UNIT_Heightmap_TEST.dir/Heightmap_TEST.cc.o: gazebo/msgs/camera_cmd.pb.h

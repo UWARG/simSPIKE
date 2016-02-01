@@ -653,6 +653,7 @@ gazebo/gui/CMakeFiles/UNIT_ModelListWidget_TEST.dir/ModelListWidget_TEST.cc.o: /
 gazebo/gui/CMakeFiles/UNIT_ModelListWidget_TEST.dir/ModelListWidget_TEST.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/gui/CMakeFiles/UNIT_ModelListWidget_TEST.dir/ModelListWidget_TEST.cc.o: gazebo/gazebo_config.h
 gazebo/gui/CMakeFiles/UNIT_ModelListWidget_TEST.dir/ModelListWidget_TEST.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/gui/CMakeFiles/UNIT_ModelListWidget_TEST.dir/ModelListWidget_TEST.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/gui/CMakeFiles/UNIT_ModelListWidget_TEST.dir/ModelListWidget_TEST.cc.o: gazebo/msgs/axis.pb.h
 gazebo/gui/CMakeFiles/UNIT_ModelListWidget_TEST.dir/ModelListWidget_TEST.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/gui/CMakeFiles/UNIT_ModelListWidget_TEST.dir/ModelListWidget_TEST.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -1408,6 +1409,7 @@ gazebo/gui/CMakeFiles/UNIT_ModelListWidget_TEST.dir/QTestFixture.cc.o: gazebo/co
 gazebo/gui/CMakeFiles/UNIT_ModelListWidget_TEST.dir/QTestFixture.cc.o: gazebo/gazebo_config.h
 gazebo/gui/CMakeFiles/UNIT_ModelListWidget_TEST.dir/QTestFixture.cc.o: gazebo/math/gzmath.hh
 gazebo/gui/CMakeFiles/UNIT_ModelListWidget_TEST.dir/QTestFixture.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/gui/CMakeFiles/UNIT_ModelListWidget_TEST.dir/QTestFixture.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/gui/CMakeFiles/UNIT_ModelListWidget_TEST.dir/QTestFixture.cc.o: gazebo/msgs/axis.pb.h
 gazebo/gui/CMakeFiles/UNIT_ModelListWidget_TEST.dir/QTestFixture.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/gui/CMakeFiles/UNIT_ModelListWidget_TEST.dir/QTestFixture.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -2132,6 +2134,7 @@ gazebo/gui/CMakeFiles/UNIT_ModelListWidget_TEST.dir/moc_ModelListWidget_TEST.cxx
 gazebo/gui/CMakeFiles/UNIT_ModelListWidget_TEST.dir/moc_ModelListWidget_TEST.cxx.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/gui/CMakeFiles/UNIT_ModelListWidget_TEST.dir/moc_ModelListWidget_TEST.cxx.o: gazebo/gazebo_config.h
 gazebo/gui/CMakeFiles/UNIT_ModelListWidget_TEST.dir/moc_ModelListWidget_TEST.cxx.o: gazebo/msgs/MessageTypes.hh
+gazebo/gui/CMakeFiles/UNIT_ModelListWidget_TEST.dir/moc_ModelListWidget_TEST.cxx.o: gazebo/msgs/aircraft.pb.h
 gazebo/gui/CMakeFiles/UNIT_ModelListWidget_TEST.dir/moc_ModelListWidget_TEST.cxx.o: gazebo/msgs/axis.pb.h
 gazebo/gui/CMakeFiles/UNIT_ModelListWidget_TEST.dir/moc_ModelListWidget_TEST.cxx.o: gazebo/msgs/boxgeom.pb.h
 gazebo/gui/CMakeFiles/UNIT_ModelListWidget_TEST.dir/moc_ModelListWidget_TEST.cxx.o: gazebo/msgs/camera_cmd.pb.h
@@ -2855,6 +2858,7 @@ gazebo/gui/CMakeFiles/UNIT_ModelListWidget_TEST.dir/moc_QTestFixture.cxx.o: /usr
 gazebo/gui/CMakeFiles/UNIT_ModelListWidget_TEST.dir/moc_QTestFixture.cxx.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/gui/CMakeFiles/UNIT_ModelListWidget_TEST.dir/moc_QTestFixture.cxx.o: gazebo/gazebo_config.h
 gazebo/gui/CMakeFiles/UNIT_ModelListWidget_TEST.dir/moc_QTestFixture.cxx.o: gazebo/msgs/MessageTypes.hh
+gazebo/gui/CMakeFiles/UNIT_ModelListWidget_TEST.dir/moc_QTestFixture.cxx.o: gazebo/msgs/aircraft.pb.h
 gazebo/gui/CMakeFiles/UNIT_ModelListWidget_TEST.dir/moc_QTestFixture.cxx.o: gazebo/msgs/axis.pb.h
 gazebo/gui/CMakeFiles/UNIT_ModelListWidget_TEST.dir/moc_QTestFixture.cxx.o: gazebo/msgs/boxgeom.pb.h
 gazebo/gui/CMakeFiles/UNIT_ModelListWidget_TEST.dir/moc_QTestFixture.cxx.o: gazebo/msgs/camera_cmd.pb.h

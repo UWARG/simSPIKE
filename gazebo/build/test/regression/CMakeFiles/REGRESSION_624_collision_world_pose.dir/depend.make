@@ -208,6 +208,7 @@ test/regression/CMakeFiles/REGRESSION_624_collision_world_pose.dir/624_collision
 test/regression/CMakeFiles/REGRESSION_624_collision_world_pose.dir/624_collision_world_pose.cc.o: gazebo/gazebo_config.h
 test/regression/CMakeFiles/REGRESSION_624_collision_world_pose.dir/624_collision_world_pose.cc.o: gazebo/math/gzmath.hh
 test/regression/CMakeFiles/REGRESSION_624_collision_world_pose.dir/624_collision_world_pose.cc.o: gazebo/msgs/MessageTypes.hh
+test/regression/CMakeFiles/REGRESSION_624_collision_world_pose.dir/624_collision_world_pose.cc.o: gazebo/msgs/aircraft.pb.h
 test/regression/CMakeFiles/REGRESSION_624_collision_world_pose.dir/624_collision_world_pose.cc.o: gazebo/msgs/axis.pb.h
 test/regression/CMakeFiles/REGRESSION_624_collision_world_pose.dir/624_collision_world_pose.cc.o: gazebo/msgs/boxgeom.pb.h
 test/regression/CMakeFiles/REGRESSION_624_collision_world_pose.dir/624_collision_world_pose.cc.o: gazebo/msgs/camera_cmd.pb.h

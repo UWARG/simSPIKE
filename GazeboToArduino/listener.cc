@@ -136,7 +136,7 @@ int main(int _argc, char **_argv)
   //gazebo::transport::PublisherPtr controlPub = node->Advertise<msgs::Cessna>("~/cessna_c172/control");
   gazebo::transport::PublisherPtr controlPub = node->Advertise<msgs::Aircraft>("~/aircraft_control");
 
-  arduino.Init("/dev/ttyACM0");
+  //arduino.Init("/dev/ttyACM0");
 
   PlaneController plane(node);
   RxDataPacket rxData;
@@ -158,9 +158,9 @@ int main(int _argc, char **_argv)
     }
 
     plane.SetThrottle(rxData.getThrottle()); //0 to 1000
-    plane.SetAileron(rxData.getAileron()); //-0.3 to 0.3
-    plane.SetElevator(rxData.getElevator()); //-0.5 to 0.5
-    plane.SetRudder(rxData.getRudder()); //-0.3 to 0.3
+    plane.SetAileron(0.3);//(rxData.getAileron()); //-0.3 to 0.3
+    plane.SetElevator(0.5);//(rxData.getElevator()); //-0.5 to 0.5
+    plane.SetRudder(0.3);//(rxData.getRudder()); //-0.3 to 0.3
 
     gazebo::common::Time::MSleep(10);
   }

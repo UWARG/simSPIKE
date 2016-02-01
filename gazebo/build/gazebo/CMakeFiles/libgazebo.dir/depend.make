@@ -41,6 +41,7 @@ gazebo/CMakeFiles/libgazebo.dir/Master.cc.o: /usr/include/sdformat-2.2/sdf/sdf_c
 gazebo/CMakeFiles/libgazebo.dir/Master.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/CMakeFiles/libgazebo.dir/Master.cc.o: gazebo/gazebo_config.h
 gazebo/CMakeFiles/libgazebo.dir/Master.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/CMakeFiles/libgazebo.dir/Master.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/CMakeFiles/libgazebo.dir/Master.cc.o: gazebo/msgs/axis.pb.h
 gazebo/CMakeFiles/libgazebo.dir/Master.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/CMakeFiles/libgazebo.dir/Master.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -255,6 +256,7 @@ gazebo/CMakeFiles/libgazebo.dir/Server.cc.o: gazebo/common/common.hh
 gazebo/CMakeFiles/libgazebo.dir/Server.cc.o: gazebo/gazebo_config.h
 gazebo/CMakeFiles/libgazebo.dir/Server.cc.o: gazebo/math/gzmath.hh
 gazebo/CMakeFiles/libgazebo.dir/Server.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/CMakeFiles/libgazebo.dir/Server.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/CMakeFiles/libgazebo.dir/Server.cc.o: gazebo/msgs/axis.pb.h
 gazebo/CMakeFiles/libgazebo.dir/Server.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/CMakeFiles/libgazebo.dir/Server.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -524,6 +526,7 @@ gazebo/CMakeFiles/libgazebo.dir/gazebo.cc.o: gazebo/common/common.hh
 gazebo/CMakeFiles/libgazebo.dir/gazebo.cc.o: gazebo/gazebo_config.h
 gazebo/CMakeFiles/libgazebo.dir/gazebo.cc.o: gazebo/math/gzmath.hh
 gazebo/CMakeFiles/libgazebo.dir/gazebo.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/CMakeFiles/libgazebo.dir/gazebo.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/CMakeFiles/libgazebo.dir/gazebo.cc.o: gazebo/msgs/axis.pb.h
 gazebo/CMakeFiles/libgazebo.dir/gazebo.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/CMakeFiles/libgazebo.dir/gazebo.cc.o: gazebo/msgs/camera_cmd.pb.h

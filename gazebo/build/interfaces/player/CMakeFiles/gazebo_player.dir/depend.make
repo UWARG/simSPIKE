@@ -78,6 +78,7 @@ interfaces/player/CMakeFiles/gazebo_player.dir/CameraInterface.cc.o: /usr/includ
 interfaces/player/CMakeFiles/gazebo_player.dir/CameraInterface.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 interfaces/player/CMakeFiles/gazebo_player.dir/CameraInterface.cc.o: gazebo/gazebo_config.h
 interfaces/player/CMakeFiles/gazebo_player.dir/CameraInterface.cc.o: gazebo/msgs/MessageTypes.hh
+interfaces/player/CMakeFiles/gazebo_player.dir/CameraInterface.cc.o: gazebo/msgs/aircraft.pb.h
 interfaces/player/CMakeFiles/gazebo_player.dir/CameraInterface.cc.o: gazebo/msgs/axis.pb.h
 interfaces/player/CMakeFiles/gazebo_player.dir/CameraInterface.cc.o: gazebo/msgs/boxgeom.pb.h
 interfaces/player/CMakeFiles/gazebo_player.dir/CameraInterface.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -246,6 +247,7 @@ interfaces/player/CMakeFiles/gazebo_player.dir/GazeboDriver.cc.o: /usr/include/s
 interfaces/player/CMakeFiles/gazebo_player.dir/GazeboDriver.cc.o: /usr/include/sdformat-2.2/sdf/sdf_config.h
 interfaces/player/CMakeFiles/gazebo_player.dir/GazeboDriver.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 interfaces/player/CMakeFiles/gazebo_player.dir/GazeboDriver.cc.o: gazebo/msgs/MessageTypes.hh
+interfaces/player/CMakeFiles/gazebo_player.dir/GazeboDriver.cc.o: gazebo/msgs/aircraft.pb.h
 interfaces/player/CMakeFiles/gazebo_player.dir/GazeboDriver.cc.o: gazebo/msgs/axis.pb.h
 interfaces/player/CMakeFiles/gazebo_player.dir/GazeboDriver.cc.o: gazebo/msgs/boxgeom.pb.h
 interfaces/player/CMakeFiles/gazebo_player.dir/GazeboDriver.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -424,6 +426,7 @@ interfaces/player/CMakeFiles/gazebo_player.dir/GazeboInterface.cc.o: /usr/includ
 interfaces/player/CMakeFiles/gazebo_player.dir/GazeboInterface.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 interfaces/player/CMakeFiles/gazebo_player.dir/GazeboInterface.cc.o: gazebo/gazebo_config.h
 interfaces/player/CMakeFiles/gazebo_player.dir/GazeboInterface.cc.o: gazebo/msgs/MessageTypes.hh
+interfaces/player/CMakeFiles/gazebo_player.dir/GazeboInterface.cc.o: gazebo/msgs/aircraft.pb.h
 interfaces/player/CMakeFiles/gazebo_player.dir/GazeboInterface.cc.o: gazebo/msgs/axis.pb.h
 interfaces/player/CMakeFiles/gazebo_player.dir/GazeboInterface.cc.o: gazebo/msgs/boxgeom.pb.h
 interfaces/player/CMakeFiles/gazebo_player.dir/GazeboInterface.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -638,6 +641,7 @@ interfaces/player/CMakeFiles/gazebo_player.dir/GazeboTime.cc.o: /usr/include/sdf
 interfaces/player/CMakeFiles/gazebo_player.dir/GazeboTime.cc.o: gazebo/common/common.hh
 interfaces/player/CMakeFiles/gazebo_player.dir/GazeboTime.cc.o: gazebo/gazebo_config.h
 interfaces/player/CMakeFiles/gazebo_player.dir/GazeboTime.cc.o: gazebo/msgs/MessageTypes.hh
+interfaces/player/CMakeFiles/gazebo_player.dir/GazeboTime.cc.o: gazebo/msgs/aircraft.pb.h
 interfaces/player/CMakeFiles/gazebo_player.dir/GazeboTime.cc.o: gazebo/msgs/axis.pb.h
 interfaces/player/CMakeFiles/gazebo_player.dir/GazeboTime.cc.o: gazebo/msgs/boxgeom.pb.h
 interfaces/player/CMakeFiles/gazebo_player.dir/GazeboTime.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -826,6 +830,7 @@ interfaces/player/CMakeFiles/gazebo_player.dir/LaserInterface.cc.o: /usr/include
 interfaces/player/CMakeFiles/gazebo_player.dir/LaserInterface.cc.o: gazebo/gazebo_config.h
 interfaces/player/CMakeFiles/gazebo_player.dir/LaserInterface.cc.o: gazebo/math/gzmath.hh
 interfaces/player/CMakeFiles/gazebo_player.dir/LaserInterface.cc.o: gazebo/msgs/MessageTypes.hh
+interfaces/player/CMakeFiles/gazebo_player.dir/LaserInterface.cc.o: gazebo/msgs/aircraft.pb.h
 interfaces/player/CMakeFiles/gazebo_player.dir/LaserInterface.cc.o: gazebo/msgs/axis.pb.h
 interfaces/player/CMakeFiles/gazebo_player.dir/LaserInterface.cc.o: gazebo/msgs/boxgeom.pb.h
 interfaces/player/CMakeFiles/gazebo_player.dir/LaserInterface.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -1014,6 +1019,7 @@ interfaces/player/CMakeFiles/gazebo_player.dir/Position2dInterface.cc.o: /usr/in
 interfaces/player/CMakeFiles/gazebo_player.dir/Position2dInterface.cc.o: gazebo/gazebo_config.h
 interfaces/player/CMakeFiles/gazebo_player.dir/Position2dInterface.cc.o: gazebo/math/gzmath.hh
 interfaces/player/CMakeFiles/gazebo_player.dir/Position2dInterface.cc.o: gazebo/msgs/MessageTypes.hh
+interfaces/player/CMakeFiles/gazebo_player.dir/Position2dInterface.cc.o: gazebo/msgs/aircraft.pb.h
 interfaces/player/CMakeFiles/gazebo_player.dir/Position2dInterface.cc.o: gazebo/msgs/axis.pb.h
 interfaces/player/CMakeFiles/gazebo_player.dir/Position2dInterface.cc.o: gazebo/msgs/boxgeom.pb.h
 interfaces/player/CMakeFiles/gazebo_player.dir/Position2dInterface.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -1242,6 +1248,7 @@ interfaces/player/CMakeFiles/gazebo_player.dir/SimulationInterface.cc.o: gazebo/
 interfaces/player/CMakeFiles/gazebo_player.dir/SimulationInterface.cc.o: gazebo/gazebo_config.h
 interfaces/player/CMakeFiles/gazebo_player.dir/SimulationInterface.cc.o: gazebo/math/gzmath.hh
 interfaces/player/CMakeFiles/gazebo_player.dir/SimulationInterface.cc.o: gazebo/msgs/MessageTypes.hh
+interfaces/player/CMakeFiles/gazebo_player.dir/SimulationInterface.cc.o: gazebo/msgs/aircraft.pb.h
 interfaces/player/CMakeFiles/gazebo_player.dir/SimulationInterface.cc.o: gazebo/msgs/axis.pb.h
 interfaces/player/CMakeFiles/gazebo_player.dir/SimulationInterface.cc.o: gazebo/msgs/boxgeom.pb.h
 interfaces/player/CMakeFiles/gazebo_player.dir/SimulationInterface.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -1511,6 +1518,7 @@ interfaces/player/CMakeFiles/gazebo_player.dir/__/__/gazebo/gazebo.cc.o: gazebo/
 interfaces/player/CMakeFiles/gazebo_player.dir/__/__/gazebo/gazebo.cc.o: gazebo/gazebo_config.h
 interfaces/player/CMakeFiles/gazebo_player.dir/__/__/gazebo/gazebo.cc.o: gazebo/math/gzmath.hh
 interfaces/player/CMakeFiles/gazebo_player.dir/__/__/gazebo/gazebo.cc.o: gazebo/msgs/MessageTypes.hh
+interfaces/player/CMakeFiles/gazebo_player.dir/__/__/gazebo/gazebo.cc.o: gazebo/msgs/aircraft.pb.h
 interfaces/player/CMakeFiles/gazebo_player.dir/__/__/gazebo/gazebo.cc.o: gazebo/msgs/axis.pb.h
 interfaces/player/CMakeFiles/gazebo_player.dir/__/__/gazebo/gazebo.cc.o: gazebo/msgs/boxgeom.pb.h
 interfaces/player/CMakeFiles/gazebo_player.dir/__/__/gazebo/gazebo.cc.o: gazebo/msgs/camera_cmd.pb.h

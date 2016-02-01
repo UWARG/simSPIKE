@@ -268,6 +268,7 @@ gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyBallJoint.cc
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyBallJoint.cc.o: /usr/include/simbody/simmath/internal/common.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyBallJoint.cc.o: gazebo/gazebo_config.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyBallJoint.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyBallJoint.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyBallJoint.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyBallJoint.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyBallJoint.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -619,6 +620,7 @@ gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyCollision.cc
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyCollision.cc.o: /usr/include/simbody/simmath/internal/common.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyCollision.cc.o: gazebo/gazebo_config.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyCollision.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyCollision.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyCollision.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyCollision.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyCollision.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -982,6 +984,7 @@ gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyHeightmapSha
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyHeightmapShape.cc.o: /usr/include/simbody/simmath/internal/common.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyHeightmapShape.cc.o: gazebo/gazebo_config.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyHeightmapShape.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyHeightmapShape.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyHeightmapShape.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyHeightmapShape.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyHeightmapShape.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -1351,6 +1354,7 @@ gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyHinge2Joint.
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyHinge2Joint.cc.o: /usr/include/simbody/simmath/internal/common.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyHinge2Joint.cc.o: gazebo/gazebo_config.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyHinge2Joint.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyHinge2Joint.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyHinge2Joint.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyHinge2Joint.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyHinge2Joint.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -1722,6 +1726,7 @@ gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyHingeJoint.c
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyHingeJoint.cc.o: /usr/include/simbody/simmath/internal/common.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyHingeJoint.cc.o: gazebo/gazebo_config.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyHingeJoint.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyHingeJoint.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyHingeJoint.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyHingeJoint.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyHingeJoint.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -2092,6 +2097,7 @@ gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyJoint.cc.o: 
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyJoint.cc.o: /usr/include/simbody/simmath/internal/common.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyJoint.cc.o: gazebo/gazebo_config.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyJoint.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyJoint.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyJoint.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyJoint.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyJoint.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -2462,6 +2468,7 @@ gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyLink.cc.o: /
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyLink.cc.o: /usr/include/simbody/simmath/internal/common.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyLink.cc.o: gazebo/gazebo_config.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyLink.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyLink.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyLink.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyLink.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyLink.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -2821,6 +2828,7 @@ gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyMesh.cc.o: /
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyMesh.cc.o: /usr/include/simbody/simmath/internal/common.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyMesh.cc.o: gazebo/gazebo_config.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyMesh.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyMesh.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyMesh.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyMesh.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyMesh.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -3180,6 +3188,7 @@ gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyMeshShape.cc
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyMeshShape.cc.o: /usr/include/simbody/simmath/internal/common.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyMeshShape.cc.o: gazebo/gazebo_config.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyMeshShape.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyMeshShape.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyMeshShape.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyMeshShape.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyMeshShape.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -3550,6 +3559,7 @@ gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyModel.cc.o: 
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyModel.cc.o: /usr/include/simbody/simmath/internal/common.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyModel.cc.o: gazebo/gazebo_config.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyModel.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyModel.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyModel.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyModel.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyModel.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -3922,6 +3932,7 @@ gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyMultiRayShap
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyMultiRayShape.cc.o: /usr/include/simbody/simmath/internal/common.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyMultiRayShape.cc.o: gazebo/gazebo_config.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyMultiRayShape.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyMultiRayShape.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyMultiRayShape.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyMultiRayShape.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyMultiRayShape.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -4332,6 +4343,7 @@ gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyPhysics.cc.o
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyPhysics.cc.o: /usr/include/simbody/simmath/internal/common.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyPhysics.cc.o: gazebo/gazebo_config.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyPhysics.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyPhysics.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyPhysics.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyPhysics.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyPhysics.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -4482,6 +4494,7 @@ gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyPlaneShape.c
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyPlaneShape.cc.o: /usr/include/sdformat-2.2/sdf/system_util.hh
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyPlaneShape.cc.o: gazebo/gazebo_config.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyPlaneShape.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyPlaneShape.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyPlaneShape.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyPlaneShape.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyPlaneShape.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -4843,6 +4856,7 @@ gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyPolylineShap
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyPolylineShape.cc.o: /usr/include/simbody/simmath/internal/common.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyPolylineShape.cc.o: gazebo/gazebo_config.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyPolylineShape.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyPolylineShape.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyPolylineShape.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyPolylineShape.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyPolylineShape.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -5213,6 +5227,7 @@ gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyRayShape.cc.
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyRayShape.cc.o: /usr/include/simbody/simmath/internal/common.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyRayShape.cc.o: gazebo/gazebo_config.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyRayShape.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyRayShape.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyRayShape.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyRayShape.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyRayShape.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -5583,6 +5598,7 @@ gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyScrewJoint.c
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyScrewJoint.cc.o: /usr/include/simbody/simmath/internal/common.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyScrewJoint.cc.o: gazebo/gazebo_config.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyScrewJoint.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyScrewJoint.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyScrewJoint.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyScrewJoint.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyScrewJoint.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -5953,6 +5969,7 @@ gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodySliderJoint.
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodySliderJoint.cc.o: /usr/include/simbody/simmath/internal/common.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodySliderJoint.cc.o: gazebo/gazebo_config.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodySliderJoint.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodySliderJoint.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodySliderJoint.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodySliderJoint.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodySliderJoint.cc.o: gazebo/msgs/camera_cmd.pb.h
@@ -6323,6 +6340,7 @@ gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyUniversalJoi
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyUniversalJoint.cc.o: /usr/include/simbody/simmath/internal/common.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyUniversalJoint.cc.o: gazebo/gazebo_config.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyUniversalJoint.cc.o: gazebo/msgs/MessageTypes.hh
+gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyUniversalJoint.cc.o: gazebo/msgs/aircraft.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyUniversalJoint.cc.o: gazebo/msgs/axis.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyUniversalJoint.cc.o: gazebo/msgs/boxgeom.pb.h
 gazebo/physics/simbody/CMakeFiles/gazebo_physics_simbody.dir/SimbodyUniversalJoint.cc.o: gazebo/msgs/camera_cmd.pb.h
