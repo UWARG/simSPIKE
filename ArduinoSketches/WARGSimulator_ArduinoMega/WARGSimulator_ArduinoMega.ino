@@ -1,20 +1,13 @@
-
-
-// Reading servos with interrupts  
-// For an Arduino Mega  
-// Scott Harris January 2010  
-//  
-// This work is licensed under the Creative Commons Attribution-Share Alike 3.0 United States License.   
-// To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/us/   
-
 #include <Servo.h>
+#include "GPSServer.h"
+#include "main.h"
 Servo myservo;
 
 //Serial Data Stuff
 byte byteRead;
 
 //PWM Setup Stuff
-volatile long servo0; // servo value  
+volatile long servo0; // servo value
 volatile long count0; // temporary variable for servo0  
 
 volatile long servo1; // servo value  
@@ -26,13 +19,13 @@ volatile long count2; // temporary variable for servo2
 volatile long servo3; // servo value  
 volatile long count3; // temporary variable for servo3
 
-// PIN 2   
+// PIN 2
 #define int0 (PINE & 0x10)
 
 // PIN 3
 #define int1 (PINE & 0x20)
 
-// PIN 18   
+// PIN 18
 #define int2 (PIND & 0b00001000)
 
 // PIN 19
@@ -43,7 +36,7 @@ void handleInterrupt_P2()
   if(int0)  
     count0=micros(); // we got a positive edge  
   else  
-   servo0=micros()-count0; // Negative edge: get pulsewidth  
+    servo0=micros()-count0; // Negative edge: get pulsewidth  
 }
 
 void handleInterrupt_P3()  
@@ -51,7 +44,7 @@ void handleInterrupt_P3()
   if(int1)  
     count1=micros(); // we got a positive edge  
   else  
-   servo1=micros()-count1; // Negative edge: get pulsewidth  
+    servo1=micros()-count1; // Negative edge: get pulsewidth  
 }  
 
 void handleInterrupt_P18()  
@@ -59,7 +52,7 @@ void handleInterrupt_P18()
   if(int2)  
     count2=micros(); // we got a positive edge  
   else  
-   servo2=micros()-count2; // Negative edge: get pulsewidth  
+    servo2=micros()-count2; // Negative edge: get pulsewidth  
 } 
 
   void handleInterrupt_P19()  
@@ -67,7 +60,7 @@ void handleInterrupt_P18()
   if(int3)  
     count3=micros(); // we got a positive edge  
   else  
-   servo3=micros()-count3; // Negative edge: get pulsewidth  
+    servo3=micros()-count3; // Negative edge: get pulsewidth  
 } 
 
 void setup()  
@@ -95,6 +88,9 @@ void setup()
 
   myservo.attach(9);
   myservo.write(0);
+
+  //Setup GPS
+  initGPS();
   
   //establishContact();  // send a byte to establish contact until receiver responds
 }  
@@ -102,6 +98,10 @@ void setup()
 void loop()  
 {  
   delay(10);  
+  receiveFromComputer();
+  sendToPicPilot();
+  receiveFromPicPilot();
+  sendToComputer();
   
   //Arduino PWM Test Code
   // check for incoming serial data:
@@ -118,23 +118,54 @@ void loop()
 //    oString = "";
 //  }
   
-  int throttle = 0;
-  int aileron = 0;
-  int elevator = 0;
-  int rudder = 0;
-  
-  throttle = 100*((int)servo0 - 1012)/100;
-  
-  //Hack around
-  aileron = ((int)servo1 - 1524);
-  aileron = (int)((double)aileron*7.575757575);
-  
-  elevator = ((int)servo2 - 1496);
-  elevator = (int)((double)elevator*12.82051282);
+//  int throttle = 0;
+//  int aileron = 0;
+//  int elevator = 0;
+//  int rudder = 0;
+//  
+//  throttle = 100*((int)servo0 - 1012)/100;
+//  
+//  //Hack around
+//  aileron = ((int)servo1 - 1524);
+//  aileron = (int)((double)aileron*7.575757575);
+//  
+//  elevator = ((int)servo2 - 1496);
+//  elevator = (int)((double)elevator*12.82051282);
+//
+//  rudder = ((int)servo3 - 1504);
+//  rudder = (int)((double)rudder*8.287292818);
+}
 
-  rudder = ((int)servo3 - 1504);
-  rudder = (int)((double)rudder*8.287292818);
+void sendToPicPilot(){
+  //IMU communicates over SPI
+//  getIMU();
+
+  //GPS communicates over SPI
+  sendGPS();
   
+}
+
+void sendToComputer(){
+  //Send Servo Data
+}
+
+void receiveFromPicPilot(){
+  //Read Servos
+  
+}
+
+void receiveFromComputer(){
+  //Stores simulated IMU data for next PicPilot update
+//  setIMU();
+
+  //Stores simulated GPS data for next PicPilot update
+  setGPS();
+}
+
+
+void getIMU(){
+  
+}
   
 //  elevator = 1000*((int)servo2 - 1496)/390;
 //  rudder = 1000*((int)servo3 - 1504)/362;
@@ -168,8 +199,8 @@ void loop()
     
   
   //String output = "(" + String(servo0,DEC) + "," + String(servo1,DEC) + "," + String(servo2,DEC) + "," + String(servo3,DEC) + ")";
-  String output = "(" + String(throttle,DEC) + "," + String(aileron,DEC) + "," + String(elevator,DEC) + "," + String(rudder,DEC) + ")";
-  Serial.println(output);
+//  String output = "(" + String(throttle,DEC) + "," + String(aileron,DEC) + "," + String(elevator,DEC) + "," + String(rudder,DEC) + ")";
+//  Serial.println(output);
     
   //Serial.println(servo0,DEC); // Pulsewidth in microseconds
   // Serial.println(servo1,DEC); // Pulsewidth in microseconds  
@@ -194,8 +225,7 @@ void loop()
 //      /*ECHO the value that was read, back to the serial port. */
 //      Serial.write(byteRead);
 //    }
-//  } 
-}  
+//  }  
 
 
 void establishContact() {
