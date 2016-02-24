@@ -1,2 +1,0 @@
-/usr/bin/ar cr libserver_fixture.a  CMakeFiles/server_fixture.dir/__/gazebo/Server.cc.o CMakeFiles/server_fixture.dir/__/gazebo/Master.cc.o CMakeFiles/server_fixture.dir/__/gazebo/gazebo.cc.o CMakeFiles/server_fixture.dir/ServerFixture.cc.o
-/usr/bin/ranlib libserver_fixture.a
